@@ -76,3 +76,4 @@ ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-48B02B614E9CA62
 ArtificialFirepower/Saved/Logs/ArtificialFirepower.log
 *.bin
 *.bin
+*.log
