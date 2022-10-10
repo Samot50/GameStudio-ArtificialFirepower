@@ -781,3 +781,191 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.10-21.19.18:651][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.10.10-21.19.18:806][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
 [2022.10.10-21.19.19:825][  4]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.10-21.20.59:557][914]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1638).
+[2022.10.10-21.21.13:248][449]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.10.10-21.21.13:285][449]LogContentBrowser: Creating deferred item: NewWorld
+[2022.10.10-21.21.24:946][619]LogContentBrowser: Attempting asset rename: NewWorld -> Christopher
+[2022.10.10-21.21.25:010][619]LogContentBrowser: End creating deferred item NewWorld
+[2022.10.10-21.21.26:686][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.10-21.21.29:643][787]LogSlate: Window 'Save Content' being destroyed
+[2022.10.10-21.21.29:692][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.10.10-21.21.29:696][787]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/ChristopherF243F2A041D2B75A88A4AB9C8AF66CE6.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Christopher.umap'
+[2022.10.10-21.21.29:698][787]LogFileHelpers: Saving map 'Christopher' took 0.017
+[2022.10.10-21.21.29:734][787]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Christopher.Christopher
+[2022.10.10-21.21.29:751][787]LightingResults: New page: Lighting Build
+[2022.10.10-21.21.29:751][787]LoadErrors: New page: Loading map: Christopher.umap
+[2022.10.10-21.21.29:779][787]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.21.29:780][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.21.29:780][787]MapCheck: New page: Map Check
+[2022.10.10-21.21.29:780][787]LightingResults: New page: Lighting Build
+[2022.10.10-21.21.29:792][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.21.29:798][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.10-21.21.29:799][787]LogAudio: Display: Audio Device (ID: 1) registered with world 'Christopher'.
+[2022.10.10-21.21.29:800][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.21.29:800][787]LogAIModule: Creating AISystem for world Christopher
+[2022.10.10-21.21.29:814][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.10-21.21.29:819][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.21.29:819][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2022.10.10-21.21.29:819][787]LogFileHelpers: Loading map 'Christopher' took 0.069
+[2022.10.10-21.21.29:838][787]AssetCheck: New page: Asset Save: Christopher
+[2022.10.10-21.21.29:838][787]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Christopher.Christopher
+[2022.10.10-21.21.35:232][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.10-21.21.35:248][402]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Christopher.Christopher
+[2022.10.10-21.21.35:249][402]LightingResults: New page: Lighting Build
+[2022.10.10-21.21.35:249][402]LoadErrors: New page: Loading map: Christopher.umap
+[2022.10.10-21.21.35:249][402]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.21.35:249][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.21.35:249][402]MapCheck: New page: Map Check
+[2022.10.10-21.21.35:249][402]LightingResults: New page: Lighting Build
+[2022.10.10-21.21.35:254][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.21.35:255][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.10-21.21.35:256][402]LogAudio: Display: Audio Device (ID: 1) registered with world 'Christopher'.
+[2022.10.10-21.21.35:257][402]LogAIModule: Creating AISystem for world Christopher
+[2022.10.10-21.21.35:258][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.21.35:265][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.10-21.21.35:268][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.21.35:269][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2022.10.10-21.21.35:269][402]LogFileHelpers: Loading map 'Christopher' took 0.020
+[2022.10.10-21.24.24:247][414]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Christopher.Christopher
+[2022.10.10-21.24.24:247][414]LogObjectTools: Currently 8 active worlds: /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Christopher.Christopher, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6
+[2022.10.10-21.24.25:734][414]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.10.10-21.24.25:740][414]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.10.10-21.24.40:555][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.10-21.24.40:634][163]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.10.10-21.24.40:635][163]LightingResults: New page: Lighting Build
+[2022.10.10-21.24.40:635][163]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2022.10.10-21.24.40:670][163]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.24.40:670][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.24.40:670][163]MapCheck: New page: Map Check
+[2022.10.10-21.24.40:670][163]LightingResults: New page: Lighting Build
+[2022.10.10-21.24.40:676][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.24.40:678][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.10-21.24.40:678][163]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.10.10-21.24.40:686][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.24.40:686][163]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.10.10-21.24.40:698][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.10-21.24.40:707][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.24.40:707][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2022.10.10-21.24.40:707][163]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.073
+[2022.10.10-21.25.05:027][976]LogContentBrowser: Deferred new asset file creation: FirstPersonExampleMap1
+[2022.10.10-21.25.05:037][976]LogContentBrowser: Creating deferred item: FirstPersonExampleMap1
+[2022.10.10-21.25.10:438][622]LogContentBrowser: Attempting asset rename: FirstPersonExampleMap1 -> Christopher
+[2022.10.10-21.25.10:482][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.10.10-21.25.10:526][622]LogContentBrowser: End creating deferred item FirstPersonExampleMap1
+[2022.10.10-21.25.13:446][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.10-21.25.16:517][963]LogSlate: Window 'Save Content' being destroyed
+[2022.10.10-21.25.16:572][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.10-21.25.16:599][963]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Christopher8D91A4C94C183256735F3DA527A4E525.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/Christopher.umap'
+[2022.10.10-21.25.16:606][963]LogFileHelpers: Saving map 'Christopher' took 0.055
+[2022.10.10-21.25.16:635][963]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/Christopher.Christopher
+[2022.10.10-21.25.16:635][963]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.16:635][963]LoadErrors: New page: Loading map: Christopher.umap
+[2022.10.10-21.25.16:662][963]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.25.16:662][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.25.16:662][963]MapCheck: New page: Map Check
+[2022.10.10-21.25.16:662][963]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.16:676][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.25.16:681][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.10-21.25.16:683][963]LogAudio: Display: Audio Device (ID: 1) registered with world 'Christopher'.
+[2022.10.10-21.25.16:697][963]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.25.16:698][963]LogAIModule: Creating AISystem for world Christopher
+[2022.10.10-21.25.16:709][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.10-21.25.16:713][963]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.25.16:714][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2022.10.10-21.25.16:714][963]LogFileHelpers: Loading map 'Christopher' took 0.078
+[2022.10.10-21.25.16:725][963]AssetCheck: New page: Asset Save: Christopher
+[2022.10.10-21.25.16:725][963]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Christopher.Christopher
+[2022.10.10-21.25.19:863][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.10-21.25.19:924][327]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.10.10-21.25.19:924][327]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.19:924][327]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2022.10.10-21.25.19:966][327]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.25.19:966][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.25.19:967][327]MapCheck: New page: Map Check
+[2022.10.10-21.25.19:967][327]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.19:972][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.25.19:975][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.10-21.25.19:976][327]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.10.10-21.25.19:986][327]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.25.19:986][327]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.10.10-21.25.19:997][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.10-21.25.20:002][327]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.25.20:002][327]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2022.10.10-21.25.20:002][327]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.078
+[2022.10.10-21.25.30:502][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.10-21.25.30:547][541]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/Christopher.Christopher
+[2022.10.10-21.25.30:547][541]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.30:547][541]LoadErrors: New page: Loading map: Christopher.umap
+[2022.10.10-21.25.30:548][541]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.25.30:548][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.25.30:548][541]MapCheck: New page: Map Check
+[2022.10.10-21.25.30:548][541]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.30:553][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.25.30:556][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.10-21.25.30:556][541]LogAudio: Display: Audio Device (ID: 1) registered with world 'Christopher'.
+[2022.10.10-21.25.30:562][541]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.25.30:562][541]LogAIModule: Creating AISystem for world Christopher
+[2022.10.10-21.25.30:571][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-21.25.30:574][541]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.25.30:575][541]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2022.10.10-21.25.30:575][541]LogFileHelpers: Loading map 'Christopher' took 0.028
+[2022.10.10-21.25.32:879][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.10-21.25.32:943][805]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.10.10-21.25.32:943][805]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.32:943][805]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2022.10.10-21.25.32:980][805]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.25.32:980][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.25.32:980][805]MapCheck: New page: Map Check
+[2022.10.10-21.25.32:980][805]LightingResults: New page: Lighting Build
+[2022.10.10-21.25.32:985][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.25.32:988][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.10-21.25.32:988][805]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.10.10-21.25.32:996][805]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.25.32:996][805]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.10.10-21.25.33:005][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.10-21.25.33:009][805]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.25.33:009][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2022.10.10-21.25.33:009][805]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.066
+[2022.10.10-21.25.51:931][ 61]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2022.10.10-21.25.56:840][601]Cmd: DELETE
+[2022.10.10-21.25.56:840][601]Cmd: ACTOR DELETE
+[2022.10.10-21.25.56:842][601]LogEditorActor: Deleted Actor: Enemy_C
+[2022.10.10-21.25.56:850][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.10-21.25.56:853][601]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.10.10-21.25.57:717][703]LogEditorViewport: Clicking on Actor (LMB): Enemy_Gunner_C (Enemy_Gunner)
+[2022.10.10-21.25.58:231][756]Cmd: DELETE
+[2022.10.10-21.25.58:231][756]Cmd: ACTOR DELETE
+[2022.10.10-21.25.58:234][756]LogEditorActor: Deleted Actor: Enemy_Gunner_C
+[2022.10.10-21.25.58:241][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.10-21.25.58:242][756]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.10.10-21.26.26:293][ 81]Cmd: TRANSACTION UNDO
+[2022.10.10-21.26.26:293][ 81]LogEditorTransaction: Undo Delete Actors
+[2022.10.10-21.26.26:744][ 89]Cmd: TRANSACTION UNDO
+[2022.10.10-21.26.26:744][ 89]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.10-21.26.27:702][192]Cmd: TRANSACTION UNDO
+[2022.10.10-21.26.27:702][192]LogEditorTransaction: Undo Delete Actors
+[2022.10.10-21.26.28:451][266]Cmd: TRANSACTION UNDO
+[2022.10.10-21.26.28:451][266]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.10-21.26.31:167][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.10-21.26.32:478][583]LogSlate: Window 'Save Content' being destroyed
+[2022.10.10-21.26.32:507][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.10-21.26.32:534][583]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMap7DA7A6244C901D5D98D2F5A76CBE6B66.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.10.10-21.26.32:540][583]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.039
+[2022.10.10-21.26.32:623][583]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/Christopher.Christopher
+[2022.10.10-21.26.32:623][583]LightingResults: New page: Lighting Build
+[2022.10.10-21.26.32:623][583]LoadErrors: New page: Loading map: Christopher.umap
+[2022.10.10-21.26.32:650][583]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.10-21.26.32:650][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.10-21.26.32:650][583]MapCheck: New page: Map Check
+[2022.10.10-21.26.32:651][583]LightingResults: New page: Lighting Build
+[2022.10.10-21.26.32:664][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.10-21.26.32:670][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.10.10-21.26.32:672][583]LogAudio: Display: Audio Device (ID: 1) registered with world 'Christopher'.
+[2022.10.10-21.26.32:684][583]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.10-21.26.32:684][583]LogAIModule: Creating AISystem for world Christopher
+[2022.10.10-21.26.32:698][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.10-21.26.32:707][583]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.10-21.26.32:708][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2022.10.10-21.26.32:708][583]LogFileHelpers: Loading map 'Christopher' took 0.085
+[2022.10.10-21.26.32:723][583]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.10.10-21.26.32:723][583]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
