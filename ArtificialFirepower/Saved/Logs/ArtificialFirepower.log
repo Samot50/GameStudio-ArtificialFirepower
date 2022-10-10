@@ -2370,3 +2370,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.10-22.38.13:038][374]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.10-22.38.13:038][374]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.Enemy_Tree_Gunner
 [2022.10.10-22.38.13:038][374]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.Look_At_Player
+[2022.10.10-22.39.36:240][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/Change_Chase_Status.
+[2022.10.10-22.39.36:242][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/Chase_Player.
+[2022.10.10-22.39.36:244][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/Enemy.
+[2022.10.10-22.39.36:246][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/Enemy_AI.
+[2022.10.10-22.39.36:248][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FindRandomLocation.
+[2022.10.10-22.39.36:250][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/Find_Player_Location.
+[2022.10.10-22.39.36:252][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonOverview.
+[2022.10.10-22.39.36:254][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/Search_Location.
+[2022.10.10-22.39.36:453][895]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.10.10-22.41.00:765][146]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/NewObjStuff/tempSpawn.
+[2022.10.10-22.41.32:651][241]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPerson/Animations/FirstPerson_AnimBP.
+[2022.10.10-22.41.32:859][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Blueprints/FirstPersonCharacter.
+[2022.10.10-22.41.32:860][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Blueprints/FirstPersonProjectile.
+[2022.10.10-22.41.32:862][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Change_Chase_Status.
+[2022.10.10-22.41.32:865][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Chase_Player.
+[2022.10.10-22.41.32:867][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy.
+[2022.10.10-22.41.32:869][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_AI.
+[2022.10.10-22.41.32:871][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_AI_Gunner.
+[2022.10.10-22.41.32:873][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Gunner.
+[2022.10.10-22.41.32:875][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/FindRandomLocation.
+[2022.10.10-22.41.32:877][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Find_Player_Location.
+[2022.10.10-22.41.32:879][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Is_In_Range.
+[2022.10.10-22.41.32:881][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Is_In_Range_whith_Chase_Status.
+[2022.10.10-22.41.32:883][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.
+[2022.10.10-22.41.32:885][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Set_Variables_To_Defulte.
+[2022.10.10-22.41.32:887][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/finde_randome_location_1.
+[2022.10.10-22.41.32:889][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/theEnemy.
+[2022.10.10-22.41.32:891][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/theEnemyAi.
+[2022.10.10-22.41.32:893][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/FirstPersonOverview.
+[2022.10.10-22.41.32:894][242]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Maps/Christopher.
+[2022.10.10-22.41.33:156][243]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Maps/FirstPersonExampleMap.

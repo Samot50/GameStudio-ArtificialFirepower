@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-48B02B614E9CA6299283AB89BBD64A1C/CrashReportClient.ini
+*.log
