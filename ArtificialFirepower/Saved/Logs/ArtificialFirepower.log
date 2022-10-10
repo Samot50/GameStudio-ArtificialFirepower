@@ -2379,3 +2379,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.10-22.39.36:252][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonOverview.
 [2022.10.10-22.39.36:254][894]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Christoper/Search_Location.
 [2022.10.10-22.39.36:453][895]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.10.10-22.41.00:765][146]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/NewObjStuff/tempSpawn.
