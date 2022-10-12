@@ -1881,3 +1881,1246 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.12-21.15.33:082][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner]
 [2022.10.12-21.15.33:091][860]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree_Gunner_Auto27A7EC8DF43513CE8B9FB03B1FEE10557.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner_Auto2.uasset'
 [2022.10.12-21.15.33:102][860]LogFileHelpers: Auto-saving content packages took 0.062
+[2022.10.12-21.19.01:339][481]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Maps/Christopher.
+[2022.10.12-21.19.01:755][482]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/NewObjStuff/tempSpawn.
+[2022.10.12-21.20.35:704][763]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.10.12-21.24.10:977][174]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.24.10:977][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.36.37:626][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.12-21.36.37:626][820]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.36.37:626][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.36.43:750][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.10.12-21.36.43:799][350]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_AI4AC0FEE24D7A7CF8F7CCE99B904279FD.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_AI.uasset'
+[2022.10.12-21.36.43:807][350]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_AI_GunnerD41FC29B4F92CECC901C2DBF4215E1C9.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_AI_Gunner.uasset'
+[2022.10.12-21.36.43:815][350]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree_Gunner111CBD9F48D12A1B82F8F18EA02C59E3.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.uasset'
+[2022.10.12-21.36.43:835][350]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.12-21.36.43:835][350]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_AI.Enemy_AI
+[2022.10.12-21.36.43:835][350]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_AI_Gunner.Enemy_AI_Gunner
+[2022.10.12-21.36.43:835][350]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.Enemy_Tree_Gunner
+[2022.10.12-21.48.00:323][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2022.10.12-21.48.22:620][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2022.10.12-21.48.25:672][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2022.10.12-21.49.01:297][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2022.10.12-21.49.07:517][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2022.10.12-21.49.09:731][ 98]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (BigWall2)
+[2022.10.12-21.49.38:843][ 95]Cmd: DUPLICATE
+[2022.10.12-21.49.38:843][ 95]Cmd: ACTOR DUPLICATE
+[2022.10.12-21.49.50:684][415]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.49.50:694][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.49.50:694][415]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:49:50 AM)
+[2022.10.12-21.49.50:718][415]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.49.50:732][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013597s)
+[2022.10.12-21.49.50:733][415]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.49.50:733][415]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2022.10.12-21.49.50:733][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.015304s)
+[2022.10.12-21.49.50:777][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.12-21.49.50:789][415]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.10.12-21.49.50:789][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.49.50:789][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.49.50:789][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.49.50:789][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.49.50:789][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.49.50:789][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.49.50:789][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.49.50:789][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.49.50:790][415]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.49.50:790][415]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.49.50:791][415]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.49.50:791][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.49.50:791][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.49.50:791][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.49.50:791][415]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.49.50:791][415]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.49.50:791][415]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.49.50:793][415]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.49.50:793][415]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.49.50:795][415]LogInit: FAudioDevice initialized.
+[2022.10.12-21.49.50:795][415]LogAudio: Display: Audio Device (ID: 22) registered with world 'Christopher'.
+[2022.10.12-21.49.50:807][415]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.49.50:810][415]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.49.50
+[2022.10.12-21.49.50:810][415]LogWorld: Bringing up level for play took: 0.002634
+[2022.10.12-21.49.50:811][415]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.10.12-21.49.50:817][415]PIE: Server logged in
+[2022.10.12-21.49.50:818][415]PIE: Play in editor total start time 0.129 seconds.
+[2022.10.12-21.50.02:691][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.50.02:691][796]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.50.02:691][796]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.50.02:693][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.50.02:704][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.50.02:741][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.50.02:774][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-21.50.02:775][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.50.02:776][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.50.02:776][796]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.50.02:785][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.50.02:789][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.10.12-21.50.02:822][797]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.10.12-21.50.09:333][534]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (BigWall3)
+[2022.10.12-21.50.19:306][405]Cmd: DUPLICATE
+[2022.10.12-21.50.19:306][405]Cmd: ACTOR DUPLICATE
+[2022.10.12-21.50.20:768][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2022.10.12-21.50.38:315][421]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.50.38:324][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.50.38:324][421]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:50:38 AM)
+[2022.10.12-21.50.38:355][421]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.50.38:380][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024900s)
+[2022.10.12-21.50.38:381][421]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.50.38:382][421]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2022.10.12-21.50.38:382][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.027137s)
+[2022.10.12-21.50.38:434][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.12-21.50.38:441][421]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.10.12-21.50.38:441][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.50.38:441][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.50.38:441][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.50.38:441][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.50.38:441][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.50.38:441][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.50.38:441][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.50.38:441][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.50.38:442][421]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.50.38:442][421]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.50.38:443][421]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.50.38:443][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.50.38:443][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.50.38:443][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.50.38:443][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.50.38:443][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.50.38:443][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.50.38:444][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.50.38:444][421]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.50.38:445][421]LogInit: FAudioDevice initialized.
+[2022.10.12-21.50.38:445][421]LogAudio: Display: Audio Device (ID: 23) registered with world 'Christopher'.
+[2022.10.12-21.50.38:453][421]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.50.38:455][421]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.50.38
+[2022.10.12-21.50.38:456][421]LogWorld: Bringing up level for play took: 0.002484
+[2022.10.12-21.50.38:456][421]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.10.12-21.50.38:462][421]PIE: Server logged in
+[2022.10.12-21.50.38:463][421]PIE: Play in editor total start time 0.143 seconds.
+[2022.10.12-21.50.40:167][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.50.40:167][613]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.50.40:168][613]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.50.40:169][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.50.40:183][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.50.40:217][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.50.40:251][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-21.50.40:252][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.50.40:253][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.50.40:254][613]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.50.40:260][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.50.40:264][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.12-21.50.40:293][614]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.10.12-21.50.45:615][204]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.50.45:624][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.50.45:624][204]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:50:45 AM)
+[2022.10.12-21.50.45:624][204]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.50.45:636][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012044s)
+[2022.10.12-21.50.45:637][204]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.50.45:638][204]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2022.10.12-21.50.45:638][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.013470s)
+[2022.10.12-21.50.45:665][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.12-21.50.45:668][204]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.50.45:668][204]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.50.45:668][204]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.50.45:668][204]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.50.45:669][204]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.50.45:669][204]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.50.45:669][204]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.50.45:670][204]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.50.45:670][204]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.50.45:670][204]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.50.45:670][204]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.50.45:671][204]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.50.45:671][204]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.50.45:672][204]LogInit: FAudioDevice initialized.
+[2022.10.12-21.50.45:672][204]LogAudio: Display: Audio Device (ID: 24) registered with world 'Christopher'.
+[2022.10.12-21.50.45:682][204]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.50.45:685][204]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.50.45
+[2022.10.12-21.50.45:685][204]LogWorld: Bringing up level for play took: 0.002577
+[2022.10.12-21.50.45:686][204]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.10.12-21.50.45:693][204]PIE: Server logged in
+[2022.10.12-21.50.45:695][204]PIE: Play in editor total start time 0.075 seconds.
+[2022.10.12-21.51.18:215][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.51.18:215][ 21]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.51.18:215][ 21]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.51.18:216][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.51.18:232][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.51.18:257][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.51.18:296][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-21.51.18:297][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.51.18:298][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.51.18:298][ 21]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.51.18:314][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.51.18:319][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.10.12-21.51.18:360][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.10.12-21.51.21:225][273]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.51.21:235][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.51.21:235][273]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:51:21 AM)
+[2022.10.12-21.51.21:258][273]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.51.21:270][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012588s)
+[2022.10.12-21.51.21:271][273]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.51.21:271][273]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2022.10.12-21.51.21:271][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.014103s)
+[2022.10.12-21.51.21:305][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.10.12-21.51.21:307][273]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.10.12-21.51.21:307][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.51.21:307][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.51.21:307][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.51.21:307][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.51.21:307][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.51.21:307][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.51.21:307][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.51.21:307][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.51.21:308][273]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.51.21:308][273]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.51.21:309][273]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.51.21:310][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.51.21:310][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.51.21:310][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.51.21:310][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.51.21:310][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.51.21:310][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.51.21:312][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.51.21:312][273]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.51.21:313][273]LogInit: FAudioDevice initialized.
+[2022.10.12-21.51.21:313][273]LogAudio: Display: Audio Device (ID: 25) registered with world 'Christopher'.
+[2022.10.12-21.51.21:319][273]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.51.21:322][273]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.51.21
+[2022.10.12-21.51.21:323][273]LogWorld: Bringing up level for play took: 0.002795
+[2022.10.12-21.51.21:323][273]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.10.12-21.51.21:334][273]PIE: Server logged in
+[2022.10.12-21.51.21:335][273]PIE: Play in editor total start time 0.104 seconds.
+[2022.10.12-21.51.57:061][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.51.57:062][746]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.51.57:062][746]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.51.57:063][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.51.57:080][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.51.57:108][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.51.57:140][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-21.51.57:140][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.51.57:142][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.51.57:142][746]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.51.57:155][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.51.57:159][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.12-21.51.57:208][747]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.10.12-21.52.06:631][610]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2022.10.12-21.52.13:835][117]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.52.13:844][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.52.13:845][117]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:52:13 AM)
+[2022.10.12-21.52.13:845][117]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.52.13:857][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012483s)
+[2022.10.12-21.52.13:858][117]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.52.13:859][117]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2022.10.12-21.52.13:859][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.013846s)
+[2022.10.12-21.52.13:889][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.10.12-21.52.13:895][117]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.10.12-21.52.13:895][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.52.13:895][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.52.13:895][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.52.13:895][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.52.13:895][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.52.13:895][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.52.13:895][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.52.13:895][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.52.13:896][117]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.52.13:896][117]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.52.13:897][117]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.52.13:897][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.52.13:897][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.52.13:897][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.52.13:898][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.52.13:898][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.52.13:898][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.52.13:899][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.52.13:899][117]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.52.13:900][117]LogInit: FAudioDevice initialized.
+[2022.10.12-21.52.13:900][117]LogAudio: Display: Audio Device (ID: 26) registered with world 'Christopher'.
+[2022.10.12-21.52.13:914][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.52.13:918][117]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.52.13
+[2022.10.12-21.52.13:919][117]LogWorld: Bringing up level for play took: 0.004285
+[2022.10.12-21.52.13:920][117]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.10.12-21.52.13:934][117]PIE: Server logged in
+[2022.10.12-21.52.13:936][117]PIE: Play in editor total start time 0.096 seconds.
+[2022.10.12-21.52.20:112][716]LogCharacterMovement: Enemy_Gunner_2 is stuck and failed to move! Velocity: X=282.95 Y=147.96 Z=0.00 Location: X=-1286.58 Y=1054.30 Z=260.38 Normal: X=0.11 Y=-0.99 Z=0.00 PenetrationDepth:0.000 Actor:Enemy_2 Component:Cube BoneName:None (0 other events since notify)
+[2022.10.12-21.53.01:290][730]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=-2.04 Y=100.03 Z=0.00 Location: X=-1082.63 Y=-325.77 Z=268.36 Normal: X=-0.61 Y=-0.79 Z=0.00 PenetrationDepth:1.102 Actor:Enemy_Gunner_2 Component:Cube BoneName:None (0 other events since notify)
+[2022.10.12-21.53.04:761][ 67]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=-3.78 Y=18.38 Z=0.00 Location: X=-679.59 Y=832.50 Z=260.37 Normal: X=0.62 Y=0.79 Z=-0.00 PenetrationDepth:0.046 Actor:Enemy_Gunner_2 Component:Cube BoneName:None (0 other events since notify)
+[2022.10.12-21.53.07:721][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.53.07:721][349]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.53.07:748][349]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.53.07:749][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.53.07:764][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.53.07:822][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.53.07:863][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-21.53.07:863][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.53.07:865][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.53.07:865][349]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.53.07:877][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.53.07:885][349]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.10.12-21.53.07:947][350]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.10.12-21.53.17:087][ 78]LogEditorViewport: Clicking on Actor (LMB): Enemy_Gunner_C (Enemy_Gunner)
+[2022.10.12-21.53.28:688][872]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2022.10.12-21.53.36:230][440]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.53.36:239][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.53.36:239][440]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:53:36 AM)
+[2022.10.12-21.53.36:278][440]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.53.36:293][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015686s)
+[2022.10.12-21.53.36:295][440]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.53.36:295][440]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2022.10.12-21.53.36:295][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.017461s)
+[2022.10.12-21.53.36:345][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.12-21.53.36:352][440]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.53.36:352][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.53.36:352][440]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.53.36:352][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.53.36:353][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.53.36:353][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.53.36:353][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.53.36:354][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.53.36:354][440]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.53.36:355][440]LogInit: FAudioDevice initialized.
+[2022.10.12-21.53.36:355][440]LogAudio: Display: Audio Device (ID: 27) registered with world 'Christopher'.
+[2022.10.12-21.53.36:367][440]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.53.36:369][440]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.53.36
+[2022.10.12-21.53.36:370][440]LogWorld: Bringing up level for play took: 0.002918
+[2022.10.12-21.53.36:370][440]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.10.12-21.53.36:378][440]PIE: Server logged in
+[2022.10.12-21.53.36:379][440]PIE: Play in editor total start time 0.145 seconds.
+[2022.10.12-21.54.38:900][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.54.38:900][778]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.54.38:901][778]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.54.38:901][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.54.38:914][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.54.38:973][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.54.39:004][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.54.39:004][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.54.39:006][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.54.39:006][778]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.54.39:019][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.12-21.54.39:075][779]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.10.12-21.54.42:436][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2022.10.12-21.55.34:123][370]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.55.34:132][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.55.34:132][370]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:55:34 AM)
+[2022.10.12-21.55.34:167][370]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.55.34:194][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027086s)
+[2022.10.12-21.55.34:196][370]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.55.34:196][370]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2022.10.12-21.55.34:196][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.029224s)
+[2022.10.12-21.55.34:244][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.12-21.55.34:253][370]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.10.12-21.55.34:253][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.55.34:253][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.55.34:253][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.55.34:253][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.55.34:253][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.55.34:253][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.55.34:253][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.55.34:253][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.55.34:254][370]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.55.34:254][370]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.55.34:255][370]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.55.34:255][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.55.34:255][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.55.34:255][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.55.34:256][370]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.55.34:256][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.55.34:256][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.55.34:257][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.55.34:257][370]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.55.34:258][370]LogInit: FAudioDevice initialized.
+[2022.10.12-21.55.34:258][370]LogAudio: Display: Audio Device (ID: 28) registered with world 'Christopher'.
+[2022.10.12-21.55.34:265][370]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.55.34:268][370]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.55.34
+[2022.10.12-21.55.34:269][370]LogWorld: Bringing up level for play took: 0.002575
+[2022.10.12-21.55.34:269][370]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.10.12-21.55.34:275][370]PIE: Server logged in
+[2022.10.12-21.55.34:276][370]PIE: Play in editor total start time 0.149 seconds.
+[2022.10.12-21.55.50:699][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.55.50:699][290]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.55.50:700][290]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.55.50:701][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.55.50:716][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.55.50:739][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.55.50:785][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-21.55.50:785][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.55.50:787][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.55.50:787][290]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.55.50:793][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.55.50:797][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.12-21.55.50:855][291]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.10.12-21.56.00:119][141]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.56.00:128][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.56.00:128][141]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:56:00 AM)
+[2022.10.12-21.56.00:153][141]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.56.00:166][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012855s)
+[2022.10.12-21.56.00:167][141]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.56.00:168][141]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2022.10.12-21.56.00:168][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.014944s)
+[2022.10.12-21.56.00:203][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.12-21.56.00:207][141]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.10.12-21.56.00:207][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.56.00:207][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.56.00:207][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.56.00:207][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.56.00:207][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.56.00:207][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.56.00:207][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.56.00:207][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.56.00:208][141]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.56.00:208][141]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.56.00:209][141]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.56.00:209][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.56.00:209][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.56.00:209][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.56.00:209][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.56.00:209][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.56.00:209][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.56.00:211][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.56.00:211][141]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.56.00:212][141]LogInit: FAudioDevice initialized.
+[2022.10.12-21.56.00:212][141]LogAudio: Display: Audio Device (ID: 29) registered with world 'Christopher'.
+[2022.10.12-21.56.00:224][141]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.56.00:227][141]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.56.00
+[2022.10.12-21.56.00:227][141]LogWorld: Bringing up level for play took: 0.002471
+[2022.10.12-21.56.00:228][141]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.10.12-21.56.00:234][141]PIE: Server logged in
+[2022.10.12-21.56.00:235][141]PIE: Play in editor total start time 0.112 seconds.
+[2022.10.12-21.58.05:003][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.58.05:003][580]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.58.05:004][580]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-21.58.05:004][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.58.05:020][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-21.58.05:059][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-21.58.05:101][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-21.58.05:101][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.58.05:102][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-21.58.05:102][580]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-21.58.05:122][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-21.58.05:131][580]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.10.12-21.58.05:187][581]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.10.12-21.58.11:465][176]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2022.10.12-21.58.16:631][614]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-21.58.16:640][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-21.58.16:640][614]PIE: New page: PIE session: Christopher (Oct 12, 2022, 7:58:16 AM)
+[2022.10.12-21.58.16:665][614]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-21.58.16:688][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023116s)
+[2022.10.12-21.58.16:689][614]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-21.58.16:689][614]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2022.10.12-21.58.16:690][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.024694s)
+[2022.10.12-21.58.16:733][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.12-21.58.16:737][614]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.10.12-21.58.16:737][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-21.58.16:737][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-21.58.16:737][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-21.58.16:737][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-21.58.16:737][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-21.58.16:737][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-21.58.16:737][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-21.58.16:737][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-21.58.16:738][614]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-21.58.16:738][614]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-21.58.16:738][614]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-21.58.16:739][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-21.58.16:739][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-21.58.16:739][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-21.58.16:739][614]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-21.58.16:739][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-21.58.16:739][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-21.58.16:740][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-21.58.16:740][614]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-21.58.16:741][614]LogInit: FAudioDevice initialized.
+[2022.10.12-21.58.16:741][614]LogAudio: Display: Audio Device (ID: 30) registered with world 'Christopher'.
+[2022.10.12-21.58.16:757][614]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-21.58.16:762][614]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-14.58.16
+[2022.10.12-21.58.16:764][614]LogWorld: Bringing up level for play took: 0.005711
+[2022.10.12-21.58.16:765][614]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.10.12-21.58.16:774][614]PIE: Server logged in
+[2022.10.12-21.58.16:775][614]PIE: Play in editor total start time 0.139 seconds.
+[2022.10.12-21.59.48:408][ 24]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=-3.49 Y=-16.71 Z=0.00 Location: X=-750.11 Y=-695.30 Z=268.37 Normal: X=0.71 Y=-0.70 Z=0.00 PenetrationDepth:1.378 Actor:Enemy_2 Component:Cube BoneName:None (0 other events since notify)
+[2022.10.12-22.00.00:819][422]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=-29.76 Y=80.77 Z=0.00 Location: X=-1215.94 Y=-218.92 Z=268.36 Normal: X=0.15 Y=-0.99 Z=0.00 PenetrationDepth:1.076 Actor:Enemy_2 Component:Cube BoneName:None (34 other events since notify)
+[2022.10.12-22.00.01:825][538]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=-207.36 Y=563.03 Z=0.00 Location: X=-1216.11 Y=-218.88 Z=268.36 Normal: X=-0.46 Y=-0.89 Z=0.00 PenetrationDepth:2.600 Actor:Enemy_2 Component:Cube BoneName:None (107 other events since notify)
+[2022.10.12-22.00.16:578][229]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=21.72 Y=128.99 Z=0.00 Location: X=-1018.49 Y=-759.37 Z=268.36 Normal: X=0.61 Y=-0.79 Z=-0.00 PenetrationDepth:0.317 Actor:Enemy_2 Component:Cube BoneName:None (10 other events since notify)
+[2022.10.12-22.00.17:582][340]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=47.08 Y=174.23 Z=0.00 Location: X=-1018.48 Y=-757.47 Z=268.36 Normal: X=0.99 Y=-0.12 Z=0.00 PenetrationDepth:2.600 Actor:Enemy_2 Component:Cube BoneName:None (77 other events since notify)
+[2022.10.12-22.00.18:859][489]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=-39.19 Y=40.88 Z=0.00 Location: X=-1018.57 Y=-759.85 Z=268.36 Normal: X=0.65 Y=-0.76 Z=0.00 PenetrationDepth:2.593 Actor:Enemy_2 Component:Cube BoneName:None (49 other events since notify)
+[2022.10.12-22.00.33:373][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.00.33:373][136]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.00.33:374][136]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.00.33:375][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.00.33:387][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.00.33:425][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.00.33:457][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.00.33:457][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.00.33:459][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.00.33:459][136]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.00.33:471][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.00.33:476][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.10.12-22.00.33:532][137]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.10.12-22.01.20:342][878]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree19F0D8724CB79FED6B45B4B586EBB8C7.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.uasset'
+[2022.10.12-22.01.20:353][878]AssetCheck: New page: Asset Save: Enemy_Tree
+[2022.10.12-22.01.20:353][878]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.Enemy_Tree
+[2022.10.12-22.01.24:585][190]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.01.24:594][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.01.24:595][190]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:01:24 AM)
+[2022.10.12-22.01.24:595][190]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.01.24:608][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012868s)
+[2022.10.12-22.01.24:609][190]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.01.24:609][190]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2022.10.12-22.01.24:609][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.014185s)
+[2022.10.12-22.01.24:645][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.12-22.01.24:653][190]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.01.24:653][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.01.24:653][190]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.01.24:653][190]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.01.24:654][190]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.01.24:654][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.01.24:654][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.01.24:654][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.01.24:655][190]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.01.24:655][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.01.24:655][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.01.24:657][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.01.24:657][190]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.01.24:657][190]LogInit: FAudioDevice initialized.
+[2022.10.12-22.01.24:657][190]LogAudio: Display: Audio Device (ID: 31) registered with world 'Christopher'.
+[2022.10.12-22.01.24:665][190]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.01.24:668][190]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.01.24
+[2022.10.12-22.01.24:669][190]LogWorld: Bringing up level for play took: 0.003512
+[2022.10.12-22.01.24:669][190]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.10.12-22.01.24:676][190]PIE: Server logged in
+[2022.10.12-22.01.24:677][190]PIE: Play in editor total start time 0.087 seconds.
+[2022.10.12-22.02.28:516][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.02.28:517][321]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.02.28:517][321]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.02.28:518][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.02.28:528][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.02.28:570][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.02.28:606][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.02.28:606][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.02.28:608][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.02.28:608][321]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.02.28:621][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.10.12-22.02.28:709][322]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.10.12-22.02.39:267][117]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.02.39:276][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.02.39:276][117]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:02:39 AM)
+[2022.10.12-22.02.39:301][117]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.02.39:314][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013778s)
+[2022.10.12-22.02.39:316][117]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.02.39:316][117]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2022.10.12-22.02.39:316][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.015253s)
+[2022.10.12-22.02.39:353][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.12-22.02.39:357][117]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.02.39:357][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.02.39:357][117]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.02.39:357][117]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.02.39:358][117]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.02.39:358][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.02.39:358][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.02.39:358][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.02.39:359][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.02.39:359][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.02.39:359][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.02.39:360][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.02.39:360][117]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.02.39:361][117]LogInit: FAudioDevice initialized.
+[2022.10.12-22.02.39:361][117]LogAudio: Display: Audio Device (ID: 32) registered with world 'Christopher'.
+[2022.10.12-22.02.39:368][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.02.39:372][117]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.02.39
+[2022.10.12-22.02.39:373][117]LogWorld: Bringing up level for play took: 0.003546
+[2022.10.12-22.02.39:373][117]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.10.12-22.02.39:379][117]PIE: Server logged in
+[2022.10.12-22.02.39:380][117]PIE: Play in editor total start time 0.109 seconds.
+[2022.10.12-22.02.59:837][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.02.59:837][992]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.02.59:837][992]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.02.59:838][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.02.59:854][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.02.59:903][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.02.59:938][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.02.59:938][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.02.59:939][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.02.59:939][992]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.02.59:950][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.02.59:956][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.10.12-22.03.00:028][993]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.10.12-22.03.07:833][549]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree669879F44AB8C7BE579B74AB125CFE2B.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.uasset'
+[2022.10.12-22.03.07:845][549]AssetCheck: New page: Asset Save: Enemy_Tree
+[2022.10.12-22.03.07:845][549]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.Enemy_Tree
+[2022.10.12-22.03.09:348][662]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.03.09:357][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.03.09:357][662]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:03:09 AM)
+[2022.10.12-22.03.09:380][662]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.03.09:408][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027467s)
+[2022.10.12-22.03.09:410][662]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.03.09:410][662]LogPlayLevel: PIE: World Init took: (0.002592s)
+[2022.10.12-22.03.09:411][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.030407s)
+[2022.10.12-22.03.09:449][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.12-22.03.09:452][662]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.10.12-22.03.09:452][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.03.09:452][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.03.09:452][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.03.09:452][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.03.09:452][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.03.09:452][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.03.09:452][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.03.09:452][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.03.09:453][662]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.03.09:453][662]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.03.09:454][662]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.03.09:454][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.03.09:454][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.03.09:454][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.03.09:454][662]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.03.09:454][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.03.09:455][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.03.09:456][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.03.09:456][662]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.03.09:457][662]LogInit: FAudioDevice initialized.
+[2022.10.12-22.03.09:457][662]LogAudio: Display: Audio Device (ID: 33) registered with world 'Christopher'.
+[2022.10.12-22.03.09:464][662]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.03.09:467][662]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.03.09
+[2022.10.12-22.03.09:467][662]LogWorld: Bringing up level for play took: 0.002594
+[2022.10.12-22.03.09:468][662]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.10.12-22.03.09:473][662]PIE: Server logged in
+[2022.10.12-22.03.09:474][662]PIE: Play in editor total start time 0.122 seconds.
+[2022.10.12-22.03.47:445][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.03.47:446][188]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.03.47:446][188]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.03.47:447][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.03.47:459][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.03.47:522][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.03.47:555][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.03.47:556][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.03.47:557][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.03.47:557][188]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.03.47:559][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.03.47:565][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.10.12-22.03.47:620][189]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.10.12-22.03.54:830][736]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.03.54:839][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.03.54:839][736]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:03:54 AM)
+[2022.10.12-22.03.54:864][736]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.03.54:890][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025959s)
+[2022.10.12-22.03.54:891][736]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.03.54:892][736]LogPlayLevel: PIE: World Init took: (0.001695s)
+[2022.10.12-22.03.54:892][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.027957s)
+[2022.10.12-22.03.54:935][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.12-22.03.54:938][736]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.03.54:938][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.03.54:938][736]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.03.54:938][736]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.03.54:939][736]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.03.54:939][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.03.54:939][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.03.54:939][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.03.54:940][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.03.54:940][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.03.54:940][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.03.54:941][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.03.54:941][736]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.03.54:942][736]LogInit: FAudioDevice initialized.
+[2022.10.12-22.03.54:942][736]LogAudio: Display: Audio Device (ID: 34) registered with world 'Christopher'.
+[2022.10.12-22.03.54:948][736]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.03.54:950][736]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.03.54
+[2022.10.12-22.03.54:951][736]LogWorld: Bringing up level for play took: 0.002515
+[2022.10.12-22.03.54:951][736]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.10.12-22.03.54:957][736]PIE: Server logged in
+[2022.10.12-22.03.54:958][736]PIE: Play in editor total start time 0.125 seconds.
+[2022.10.12-22.04.03:302][502]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=99.69 Y=-77.97 Z=0.00 Location: X=-1117.86 Y=636.55 Z=268.36 Normal: X=0.97 Y=0.24 Z=-0.00 PenetrationDepth:1.738 Actor:Enemy_2 Component:Cube BoneName:None (0 other events since notify)
+[2022.10.12-22.04.04:433][600]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=92.63 Y=-27.21 Z=0.00 Location: X=-1105.65 Y=617.15 Z=268.36 Normal: X=0.75 Y=0.66 Z=0.00 PenetrationDepth:1.841 Actor:Enemy_2 Component:Cube BoneName:None (50 other events since notify)
+[2022.10.12-22.04.42:747][138]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=-111.81 Y=2.26 Z=0.00 Location: X=132.52 Y=-102.72 Z=268.39 Normal: X=-0.98 Y=-0.19 Z=-0.00 PenetrationDepth:1.295 Actor:Enemy_2 Component:Cube BoneName:None (3 other events since notify)
+[2022.10.12-22.04.48:668][673]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=125.65 Y=-153.12 Z=0.00 Location: X=-31.73 Y=-80.77 Z=268.39 Normal: X=0.73 Y=0.69 Z=0.00 PenetrationDepth:0.410 Actor:Enemy_2 Component:Cube BoneName:None (56 other events since notify)
+[2022.10.12-22.05.02:520][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.05.02:520][943]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.05.02:521][943]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.05.02:522][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.05.02:534][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.05.02:603][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.05.02:644][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.05.02:644][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.05.02:645][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.05.02:645][943]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.05.02:656][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.05.02:665][943]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.10.12-22.05.02:727][944]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.10.12-22.05.26:755][372]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (BigWall4)
+[2022.10.12-22.05.27:733][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2022.10.12-22.05.28:676][545]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.05.28:686][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.05.28:686][545]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:05:28 AM)
+[2022.10.12-22.05.28:709][545]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.05.28:722][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013210s)
+[2022.10.12-22.05.28:723][545]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.05.28:723][545]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2022.10.12-22.05.28:723][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.014550s)
+[2022.10.12-22.05.28:756][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.12-22.05.28:762][545]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.10.12-22.05.28:762][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.05.28:762][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.05.28:762][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.05.28:762][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.05.28:762][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.05.28:762][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.05.28:762][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.05.28:762][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.05.28:763][545]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.05.28:763][545]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.05.28:763][545]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.05.28:764][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.05.28:764][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.05.28:764][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.05.28:764][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.05.28:764][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.05.28:764][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.05.28:765][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.05.28:765][545]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.05.28:766][545]LogInit: FAudioDevice initialized.
+[2022.10.12-22.05.28:766][545]LogAudio: Display: Audio Device (ID: 35) registered with world 'Christopher'.
+[2022.10.12-22.05.28:773][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.05.28:776][545]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.05.28
+[2022.10.12-22.05.28:777][545]LogWorld: Bringing up level for play took: 0.002593
+[2022.10.12-22.05.28:777][545]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.10.12-22.05.28:783][545]PIE: Server logged in
+[2022.10.12-22.05.28:784][545]PIE: Play in editor total start time 0.103 seconds.
+[2022.10.12-22.06.32:270][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.06.32:270][ 19]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.06.32:270][ 19]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.06.32:271][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.06.32:288][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.06.32:308][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.06.32:343][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.06.32:344][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.06.32:346][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.06.32:346][ 19]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.06.32:363][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.06.32:369][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.10.12-22.06.32:417][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.10.12-22.06.36:576][384]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.06.36:585][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.06.36:585][384]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:06:36 AM)
+[2022.10.12-22.06.36:614][384]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.06.36:637][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023908s)
+[2022.10.12-22.06.36:639][384]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.06.36:640][384]LogPlayLevel: PIE: World Init took: (0.002340s)
+[2022.10.12-22.06.36:640][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.026552s)
+[2022.10.12-22.06.36:684][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.12-22.06.36:686][384]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.06.36:687][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.06.36:687][384]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.06.36:687][384]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.06.36:688][384]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.06.36:688][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.06.36:688][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.06.36:688][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.06.36:689][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.06.36:689][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.06.36:689][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.06.36:690][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.06.36:690][384]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.06.36:691][384]LogInit: FAudioDevice initialized.
+[2022.10.12-22.06.36:691][384]LogAudio: Display: Audio Device (ID: 36) registered with world 'Christopher'.
+[2022.10.12-22.06.36:707][384]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.06.36:711][384]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.06.36
+[2022.10.12-22.06.36:713][384]LogWorld: Bringing up level for play took: 0.005171
+[2022.10.12-22.06.36:713][384]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.10.12-22.06.36:725][384]PIE: Server logged in
+[2022.10.12-22.06.36:726][384]PIE: Play in editor total start time 0.146 seconds.
+[2022.10.12-22.08.39:765][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.08.39:765][809]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.08.39:766][809]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.08.39:767][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.08.39:781][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.08.39:818][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.08.39:861][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.08.39:861][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.08.39:863][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.08.39:863][809]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.08.39:872][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.08.39:876][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.10.12-22.08.39:926][810]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.10.12-22.08.49:250][836]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_TreeE21E52E44740334B1241C69AD007585E.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.uasset'
+[2022.10.12-22.08.49:263][836]AssetCheck: New page: Asset Save: Enemy_Tree
+[2022.10.12-22.08.49:263][836]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.Enemy_Tree
+[2022.10.12-22.09.20:073][518]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.09.20:082][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.09.20:082][518]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:09:20 AM)
+[2022.10.12-22.09.20:113][518]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.09.20:137][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024281s)
+[2022.10.12-22.09.20:139][518]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.09.20:140][518]LogPlayLevel: PIE: World Init took: (0.002165s)
+[2022.10.12-22.09.20:140][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.026773s)
+[2022.10.12-22.09.20:180][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.12-22.09.20:188][518]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.10.12-22.09.20:188][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.09.20:188][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.09.20:188][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.09.20:188][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.09.20:188][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.09.20:188][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.09.20:188][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.09.20:188][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.09.20:189][518]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.09.20:189][518]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.09.20:189][518]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.09.20:190][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.09.20:190][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.09.20:190][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.09.20:190][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.09.20:191][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.09.20:191][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.09.20:192][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.09.20:192][518]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.09.20:193][518]LogInit: FAudioDevice initialized.
+[2022.10.12-22.09.20:193][518]LogAudio: Display: Audio Device (ID: 37) registered with world 'Christopher'.
+[2022.10.12-22.09.20:200][518]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.09.20:203][518]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.09.20
+[2022.10.12-22.09.20:204][518]LogWorld: Bringing up level for play took: 0.002581
+[2022.10.12-22.09.20:204][518]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.10.12-22.09.20:217][518]PIE: Server logged in
+[2022.10.12-22.09.20:218][518]PIE: Play in editor total start time 0.141 seconds.
+[2022.10.12-22.09.28:720][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.09.28:720][287]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.09.28:721][287]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.09.28:722][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.09.28:735][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.09.28:771][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.09.28:808][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.09.28:808][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.09.28:810][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.09.28:810][287]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.09.28:813][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.09.28:819][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.10.12-22.09.28:893][288]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.10.12-22.09.36:512][937]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.09.36:521][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.09.36:521][937]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:09:36 AM)
+[2022.10.12-22.09.36:522][937]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.09.36:534][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012617s)
+[2022.10.12-22.09.36:535][937]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.09.36:536][937]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2022.10.12-22.09.36:536][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.014033s)
+[2022.10.12-22.09.36:563][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.12-22.09.36:567][937]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.09.36:567][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.09.36:567][937]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.09.36:567][937]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.09.36:568][937]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.09.36:568][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.09.36:568][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.09.36:568][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.09.36:569][937]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.09.36:569][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.09.36:569][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.09.36:570][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.09.36:570][937]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.09.36:571][937]LogInit: FAudioDevice initialized.
+[2022.10.12-22.09.36:571][937]LogAudio: Display: Audio Device (ID: 38) registered with world 'Christopher'.
+[2022.10.12-22.09.36:582][937]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.09.36:585][937]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.09.36
+[2022.10.12-22.09.36:586][937]LogWorld: Bringing up level for play took: 0.003566
+[2022.10.12-22.09.36:587][937]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.10.12-22.09.36:595][937]PIE: Server logged in
+[2022.10.12-22.09.36:596][937]PIE: Play in editor total start time 0.08 seconds.
+[2022.10.12-22.11.04:799][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.11.04:799][ 89]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.11.04:799][ 89]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.11.04:801][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.11.04:812][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.11.04:834][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.11.04:868][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.11.04:868][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.11.04:870][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.11.04:870][ 89]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.11.04:873][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.11.04:877][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.12-22.11.04:923][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.10.12-22.11.22:959][ 94]LogEditorViewport: Clicking on Actor (LMB): Enemy_Gunner_C (Enemy_Gunner)
+[2022.10.12-22.11.44:411][943]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.11.44:420][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.11.44:420][943]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:11:44 AM)
+[2022.10.12-22.11.44:420][943]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.11.44:433][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013021s)
+[2022.10.12-22.11.44:434][943]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.11.44:434][943]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2022.10.12-22.11.44:434][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.014317s)
+[2022.10.12-22.11.44:466][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.12-22.11.44:473][943]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.10.12-22.11.44:473][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.11.44:473][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.11.44:473][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.11.44:473][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.11.44:473][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.11.44:473][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.11.44:473][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.11.44:473][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.11.44:474][943]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.11.44:474][943]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.11.44:475][943]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.11.44:475][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.11.44:475][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.11.44:475][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.11.44:475][943]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.11.44:475][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.11.44:475][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.11.44:477][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.11.44:477][943]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.11.44:479][943]LogInit: FAudioDevice initialized.
+[2022.10.12-22.11.44:479][943]LogAudio: Display: Audio Device (ID: 39) registered with world 'Christopher'.
+[2022.10.12-22.11.44:486][943]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.11.44:489][943]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.11.44
+[2022.10.12-22.11.44:490][943]LogWorld: Bringing up level for play took: 0.002648
+[2022.10.12-22.11.44:490][943]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.10.12-22.11.44:496][943]PIE: Server logged in
+[2022.10.12-22.11.44:497][943]PIE: Play in editor total start time 0.081 seconds.
+[2022.10.12-22.11.59:831][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.11.59:831][676]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.11.59:832][676]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.11.59:833][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.11.59:852][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.11.59:915][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.11.59:949][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.11.59:950][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.11.59:951][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.11.59:951][676]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.11.59:968][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.11.59:977][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.10.12-22.12.00:035][677]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.10.12-22.13.24:372][469]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.13.24:412][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.10.12-22.13.48:902][649]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Chase_Player.Chase_Player
+[2022.10.12-22.15.34:343][509]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.15.34:386][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.10.12-22.16.11:204][282]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree_GunnerEE20FB194E65F5D08899B2AF18AAC401.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.uasset'
+[2022.10.12-22.16.11:230][282]AssetCheck: New page: Asset Save: Enemy_Tree_Gunner
+[2022.10.12-22.16.11:230][282]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.Enemy_Tree_Gunner
+[2022.10.12-22.16.19:232][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.16.19:241][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.16.19:242][ 71]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:16:19 AM)
+[2022.10.12-22.16.19:276][ 71]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.16.19:299][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022852s)
+[2022.10.12-22.16.19:301][ 71]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.16.19:301][ 71]LogPlayLevel: PIE: World Init took: (0.002516s)
+[2022.10.12-22.16.19:302][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.025712s)
+[2022.10.12-22.16.19:349][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.10.12-22.16.19:351][ 71]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.16.19:352][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.16.19:352][ 71]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.16.19:352][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.16.19:353][ 71]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.16.19:353][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.16.19:353][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.16.19:353][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.16.19:354][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.16.19:354][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.16.19:354][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.16.19:357][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.16.19:357][ 71]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.16.19:358][ 71]LogInit: FAudioDevice initialized.
+[2022.10.12-22.16.19:358][ 71]LogAudio: Display: Audio Device (ID: 40) registered with world 'Christopher'.
+[2022.10.12-22.16.19:372][ 71]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.16.19:376][ 71]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.16.19
+[2022.10.12-22.16.19:376][ 71]LogWorld: Bringing up level for play took: 0.003851
+[2022.10.12-22.16.19:378][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.10.12-22.16.19:391][ 71]PIE: Server logged in
+[2022.10.12-22.16.19:393][ 71]PIE: Play in editor total start time 0.156 seconds.
+[2022.10.12-22.16.21:414][302]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.21:648][330]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.22:359][414]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.22:602][442]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.22:844][470]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.23:082][498]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.23:318][526]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.23:551][554]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.23:790][582]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.24:032][610]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.24:272][638]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.24:511][666]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.24:749][693]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.24:987][720]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.25:226][748]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.25:461][776]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.25:702][804]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.25:944][832]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.26:182][860]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.26:424][888]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.26:661][915]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.26:894][943]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.27:130][971]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.27:366][999]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.27:602][ 27]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.27:835][ 55]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.28:097][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.16.28:097][ 80]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.16.28:098][ 80]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.16.28:099][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.16.28:113][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.16.28:171][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.16.28:208][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.16.28:208][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.16.28:209][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.16.28:209][ 80]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.16.28:213][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.16.28:217][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.12-22.16.28:260][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.10.12-22.16.31:481][338]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.16.31:522][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.10.12-22.16.33:269][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.10.12-22.16.33:313][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.12-22.16.33:333][453]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Christopher5F62715E44256CD93603DE88201BEF13.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/Christopher.umap'
+[2022.10.12-22.16.33:339][453]LogFileHelpers: Saving map 'Christopher' took 0.056
+[2022.10.12-22.16.33:344][453]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree9089F6424F6A306077FF639ED3B95A00.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.uasset'
+[2022.10.12-22.16.33:354][453]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Look_At_PlayerEB5AC39142F3A4699FA7EEA11018B871.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.uasset'
+[2022.10.12-22.16.33:371][453]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.12-22.16.33:371][453]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree.Enemy_Tree
+[2022.10.12-22.16.33:371][453]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.Look_At_Player
+[2022.10.12-22.16.33:371][453]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Christopher.Christopher
+[2022.10.12-22.16.39:119][911]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.16.39:128][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.16.39:129][911]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:16:39 AM)
+[2022.10.12-22.16.39:158][911]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.16.39:172][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013280s)
+[2022.10.12-22.16.39:173][911]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.16.39:173][911]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2022.10.12-22.16.39:173][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.015048s)
+[2022.10.12-22.16.39:213][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.10.12-22.16.39:216][911]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.10.12-22.16.39:216][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.16.39:216][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.16.39:216][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.16.39:216][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.16.39:216][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.16.39:216][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.16.39:216][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.16.39:216][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.16.39:217][911]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.16.39:217][911]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.16.39:218][911]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.16.39:218][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.16.39:218][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.16.39:218][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.16.39:218][911]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.16.39:218][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.16.39:218][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.16.39:219][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.16.39:219][911]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.16.39:220][911]LogInit: FAudioDevice initialized.
+[2022.10.12-22.16.39:220][911]LogAudio: Display: Audio Device (ID: 41) registered with world 'Christopher'.
+[2022.10.12-22.16.39:229][911]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.16.39:231][911]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.16.39
+[2022.10.12-22.16.39:232][911]LogWorld: Bringing up level for play took: 0.002573
+[2022.10.12-22.16.39:232][911]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.10.12-22.16.39:238][911]PIE: Server logged in
+[2022.10.12-22.16.39:238][911]PIE: Play in editor total start time 0.115 seconds.
+[2022.10.12-22.16.42:988][344]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.43:231][372]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.43:465][400]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.43:698][428]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.43:937][456]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.44:173][484]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.44:411][512]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.44:645][539]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.44:878][567]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.45:111][595]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.45:351][623]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.45:591][651]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.45:825][679]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2022.10.12-22.16.45:997][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.16.45:997][693]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.16.45:997][693]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.16.45:998][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.16.46:013][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.16.46:063][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.16.46:106][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.16.46:106][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.16.46:107][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.16.46:107][693]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.16.46:115][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.12-22.16.46:170][694]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.10.12-22.16.58:210][664]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.16.58:252][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.12-22.17.01:425][917]LogEditorTransaction: Undo Delete current selection
+[2022.10.12-22.17.47:691][515]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.17.47:738][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.10.12-22.17.58:577][360]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.17.58:615][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.10.12-22.18.08:388][346]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.18.08:398][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.18.08:398][346]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:18:08 AM)
+[2022.10.12-22.18.08:398][346]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.18.08:411][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013502s)
+[2022.10.12-22.18.08:413][346]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.18.08:413][346]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2022.10.12-22.18.08:413][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.015053s)
+[2022.10.12-22.18.08:446][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.10.12-22.18.08:448][346]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.10.12-22.18.08:448][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.18.08:448][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.18.08:448][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.18.08:448][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.18.08:448][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.18.08:448][346]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.18.08:448][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.18.08:448][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.18.08:449][346]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.18.08:449][346]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.18.08:450][346]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.18.08:450][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.18.08:450][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.18.08:450][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.18.08:450][346]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.18.08:450][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.18.08:450][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.18.08:453][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.18.08:453][346]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.18.08:454][346]LogInit: FAudioDevice initialized.
+[2022.10.12-22.18.08:454][346]LogAudio: Display: Audio Device (ID: 42) registered with world 'Christopher'.
+[2022.10.12-22.18.08:468][346]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.18.08:472][346]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.18.08
+[2022.10.12-22.18.08:472][346]LogWorld: Bringing up level for play took: 0.004088
+[2022.10.12-22.18.08:474][346]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.10.12-22.18.08:482][346]PIE: Server logged in
+[2022.10.12-22.18.08:484][346]PIE: Play in editor total start time 0.09 seconds.
+[2022.10.12-22.18.39:956][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.18.39:956][ 24]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.18.39:957][ 24]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.18.39:958][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.18.39:969][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.18.40:025][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.18.40:066][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.18.40:066][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.18.40:067][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.18.40:067][ 24]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.18.40:071][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.18.40:080][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.10.12-22.18.40:125][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.10.12-22.26.23:384][838]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.26.23:386][838]LogBlueprint: Warning: [AssetLog] C:\Users\cmichaelis\Documents\GitHub\GameStudio-ArtificialFirepower\ArtificialFirepower\Content\FirstPersonBP\Blueprints\Christoper\FirstPersonBP\Look_At_Player.uasset: [Compiler] 'Enemy AI Gunner' does not inherit from 'Pawn' ( Cast To Enemy_AI_Gunner  would always fail).
+[2022.10.12-22.26.23:429][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.10.12-22.26.33:603][627]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.26.33:649][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.12-22.27.31:811][296]BlueprintLog: New page: Compile Look_At_Player
+[2022.10.12-22.27.31:852][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.10.12-22.28.37:736][350]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree_Gunner51AA99B74BB1F4D8DFB02CBCE9123C37.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.uasset'
+[2022.10.12-22.28.37:816][350]AssetCheck: New page: Asset Save: Enemy_Tree_Gunner
+[2022.10.12-22.28.37:816][350]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.Enemy_Tree_Gunner
+[2022.10.12-22.28.40:909][576]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-22.28.40:918][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-22.28.40:918][576]PIE: New page: PIE session: Christopher (Oct 12, 2022, 8:28:40 AM)
+[2022.10.12-22.28.40:919][576]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.28.40:932][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013186s)
+[2022.10.12-22.28.40:933][576]LogAIModule: Creating AISystem for world Christopher
+[2022.10.12-22.28.40:933][576]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2022.10.12-22.28.40:933][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.014494s)
+[2022.10.12-22.28.40:976][576]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2022.10.12-22.28.40:982][576]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.10.12-22.28.40:982][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-22.28.40:982][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-22.28.40:982][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-22.28.40:982][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-22.28.40:982][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-22.28.40:982][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-22.28.40:982][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-22.28.40:982][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-22.28.40:983][576]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.12-22.28.40:983][576]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-22.28.40:984][576]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.12-22.28.40:985][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-22.28.40:985][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-22.28.40:985][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-22.28.40:985][576]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-22.28.40:985][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-22.28.40:985][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-22.28.40:988][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-22.28.40:988][576]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.12-22.28.40:989][576]LogInit: FAudioDevice initialized.
+[2022.10.12-22.28.40:989][576]LogAudio: Display: Audio Device (ID: 43) registered with world 'Christopher'.
+[2022.10.12-22.28.41:001][576]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.12-22.28.41:004][576]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.10.12-15.28.41
+[2022.10.12-22.28.41:005][576]LogWorld: Bringing up level for play took: 0.003396
+[2022.10.12-22.28.41:005][576]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.10.12-22.28.41:014][576]PIE: Server logged in
+[2022.10.12-22.28.41:015][576]PIE: Play in editor total start time 0.101 seconds.
+[2022.10.12-22.29.02:474][612]LogCharacterMovement: John_TestChar_2_C_0 is stuck and failed to move! Velocity: X=143.32 Y=57.22 Z=0.00 Location: X=6.53 Y=76.16 Z=268.38 Normal: X=-0.22 Y=-0.98 Z=-0.00 PenetrationDepth:1.007 Actor:Enemy_Gunner_2 Component:Cube BoneName:None (0 other events since notify)
+[2022.10.12-22.29.09:229][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.29.09:229][242]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.10.12-22.29.09:229][242]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-22.29.09:230][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.29.09:246][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-22.29.09:302][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-22.29.09:338][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-22.29.09:338][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.29.09:340][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-22.29.09:340][242]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.12-22.29.09:344][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-22.29.09:350][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.10.12-22.29.09:405][243]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.10.12-22.29.33:502][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.12-22.29.37:935][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.10.12-22.29.37:967][383]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/ChristopherA0D03C1C4A1E8BF0D49869AFB2414AA6.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/Christopher.umap'
+[2022.10.12-22.29.37:986][383]AssetCheck: New page: Asset Save: Christopher
+[2022.10.12-22.29.37:986][383]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Christopher.Christopher
+[2022.10.12-22.29.40:968][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.12-22.29.41:002][701]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Enemy_Tree_Gunner6297453E48CFB70194D636A2B556CD5B.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.uasset'
+[2022.10.12-22.29.41:008][701]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Look_At_Player6AF216B045C4DA96B72F69BAFB0F3D02.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.uasset'
+[2022.10.12-22.29.41:031][701]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.12-22.29.41:031][701]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.Look_At_Player
+[2022.10.12-22.29.41:031][701]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.Enemy_Tree_Gunner
