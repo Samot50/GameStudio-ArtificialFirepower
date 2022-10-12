@@ -3124,3 +3124,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.12-22.29.41:031][701]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.12-22.29.41:031][701]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.Look_At_Player
 [2022.10.12-22.29.41:031][701]LogContentValidation: Display: Validating BehaviorTree /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Enemy_Tree_Gunner.Enemy_Tree_Gunner
+[2022.10.12-22.30.55:460][ 47]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.10.12-22.30.55:860][ 48]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/NewObjStuff/tempSpawn.
