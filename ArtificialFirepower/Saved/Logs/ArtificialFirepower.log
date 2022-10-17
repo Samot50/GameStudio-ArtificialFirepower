@@ -1448,3 +1448,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.17-21.38.00:360][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.17-21.38.00:365][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
 [2022.10.17-21.38.00:406][659]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.17-21.45.23:046][579]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPersonBP/Blueprints/Shotgun_Test_John_Child.
+[2022.10.17-21.46.16:196][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.10.17-21.46.16:198][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Christopher' took 0.059
+[2022.10.17-21.46.16:199][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/RayTra] ([1] browsable assets)...
+[2022.10.17-21.46.16:199][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/RayTra]
+[2022.10.17-21.46.16:206][737]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/RayTra_Auto361908F5940A62DE36E356682BC8A18DB.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/RayTra_Auto3.uasset'
+[2022.10.17-21.46.16:206][737]LogFileHelpers: Auto-saving content packages took 0.008
