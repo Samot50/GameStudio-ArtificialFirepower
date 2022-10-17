@@ -83,6 +83,7 @@ ArtificialFirepower/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 ArtificialFirepower/Saved/Config/Windows/Engine.ini
 ArtificialFirepower/Saved/Logs/ArtificialFirepower.log
 ArtificialFirepower/Saved/Logs/ArtificialFirepower.log
+<<<<<<< HEAD
 ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
 ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
 ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-14D06696418777251B6A85AAFC0FDC3F/CrashReportClient.ini
@@ -99,6 +100,26 @@ ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.03-22.51.24.lo
 ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.09.29.log
 ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.17.38.log
 ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.32.15.log
+ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-14D06696418777251B6A85AAFC0FDC3F/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-378B8B814750847B517072B26650C976/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-4263321942645DD3DADC759B43E0BB59/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-428D8CF543AC384722BE9CAD9BCB77C2/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-485400F24255E5FCAC53D8B4E364D08F/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-5DA3E4AA49C023753B498996D78DE30D/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-8C76122B49267238B0DD2AA5F84D6915/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-98CDD8574E6A8A2AF433AA9FB6144B73/CrashReportClient.ini
+ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-AE51E6D640069F805598C49420009AE0/CrashReportClient.ini
+ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.03-22.47.57.log
+ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.03-22.51.24.log
+ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.09.29.log
+ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.17.38.log
+ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.32.15.log
+=======
+>>>>>>> main
+*.log
+*.ini
 ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
 ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
 ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-14D06696418777251B6A85AAFC0FDC3F/CrashReportClient.ini
