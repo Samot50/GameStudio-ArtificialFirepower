@@ -84,6 +84,7 @@ ArtificialFirepower/Saved/Config/Windows/Engine.ini
 ArtificialFirepower/Saved/Logs/ArtificialFirepower.log
 ArtificialFirepower/Saved/Logs/ArtificialFirepower.log
 <<<<<<< HEAD
+<<<<<<< HEAD
 ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
 ArtificialFirepower/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
 ArtificialFirepower/Saved/Config/CrashReportClient/UE4CC-Windows-14D06696418777251B6A85AAFC0FDC3F/CrashReportClient.ini
@@ -136,3 +137,5 @@ ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.03-22.51.24.lo
 ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.09.29.log
 ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.17.38.log
 ArtificialFirepower/Saved/Logs/ArtificialFirepower-backup-2022.10.10-21.32.15.log
+=======
+>>>>>>> main
