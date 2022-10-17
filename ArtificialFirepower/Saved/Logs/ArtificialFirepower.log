@@ -1827,3 +1827,4 @@ Continue: Skip saving this asset only.
 [2022.10.17-21.38.41:973][810]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMap1-John6B29135F433445FFDFFCA2A2B3BB50E1.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap1-John.umap'
 [2022.10.17-21.38.41:994][810]AssetCheck: New page: Asset Save: FirstPersonExampleMap1-John
 [2022.10.17-21.38.41:994][810]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John
+[2022.10.17-21.39.53:745][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/ProjectileTest.ProjectileTest
