@@ -783,3 +783,81 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.31-20.43.29:469][  2]LogSlate: Took 0.013875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.10.31-20.43.33:118][  5]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.10.31-20.43.33:772][ 49]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/' took 6.01s
+[2022.10.31-20.48.22:284][185]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.31-20.48.22:288][185]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.31-20.48.27:506][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.31-20.48.29:185][723]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John:PersistentLevel.FbxScene_Pistol2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Pistol2"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John:PersistentLevel.FbxScene_Pistol2.Pistol_rig' which is static to it. Aborting.
+[2022.10.31-20.48.29:191][723]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John
+[2022.10.31-20.48.29:326][723]LightingResults: New page: Lighting Build
+[2022.10.31-20.48.29:326][723]LoadErrors: New page: Loading map: FirstPersonExampleMap1-John.umap
+[2022.10.31-20.48.29:380][723]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-20.48.29:380][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-20.48.29:380][723]MapCheck: New page: Map Check
+[2022.10.31-20.48.29:381][723]LightingResults: New page: Lighting Build
+[2022.10.31-20.48.29:395][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-20.48.29:402][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.31-20.48.29:404][723]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-20.48.29:413][723]PIE: Warning: AttachTo: '/Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John:PersistentLevel.FbxScene_Pistol2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Pistol2"), cannot attach '/Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John:PersistentLevel.FbxScene_Pistol2.Pistol_rig' which is static to it. Aborting.
+[2022.10.31-20.48.29:439][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.31-20.48.29:439][723]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-20.48.29:456][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.31-20.48.29:464][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.31-20.48.29:465][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2022.10.31-20.48.29:465][723]LogFileHelpers: Loading map 'FirstPersonExampleMap1-John' took 0.139
+[2022.10.31-20.48.35:261][379]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-20.48.35:268][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.31-20.48.35:283][379]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 6:48:35 AM)
+[2022.10.31-20.48.35:285][379]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.31-20.48.35:286][379]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.31-20.48.35:286][379]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-20.48.35:301][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015089s)
+[2022.10.31-20.48.35:302][379]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-20.48.35:302][379]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2022.10.31-20.48.35:302][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.016386s)
+[2022.10.31-20.48.35:309][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.10.31-20.48.35:311][379]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.31-20.48.35:311][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-20.48.35:311][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-20.48.35:311][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-20.48.35:311][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-20.48.35:311][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-20.48.35:311][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-20.48.35:311][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-20.48.35:311][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-20.48.35:312][379]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-20.48.35:312][379]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-20.48.35:313][379]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-20.48.35:314][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-20.48.35:314][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-20.48.35:314][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-20.48.35:314][379]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-20.48.35:314][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-20.48.35:315][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-20.48.35:316][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-20.48.35:316][379]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-20.48.35:317][379]LogInit: FAudioDevice initialized.
+[2022.10.31-20.48.35:317][379]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-20.48.35:326][379]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-20.48.35:328][379]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-13.48.35
+[2022.10.31-20.48.35:329][379]LogWorld: Bringing up level for play took: 0.002391
+[2022.10.31-20.48.35:330][379]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.10.31-20.48.35:345][379]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2022.10.31-20.48.35:353][379]PIE: Server logged in
+[2022.10.31-20.48.35:354][379]PIE: Play in editor total start time 0.086 seconds.
+[2022.10.31-20.48.40:256][954]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-20.48.49:570][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-20.48.49:570][ 61]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-20.48.49:570][ 61]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-20.48.49:572][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-20.48.49:590][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-20.48.49:595][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-20.48.49:606][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-20.48.49:607][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-20.48.49:609][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-20.48.49:609][ 61]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-20.48.49:614][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.31-20.48.49:677][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.10.31-20.48.53:223][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.31-20.48.53:259][484]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMap1-JohnCFBFC9BD4D507CC6AF5AD3961385C220.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap1-John.umap'
+[2022.10.31-20.48.53:277][484]AssetCheck: New page: Asset Save: FirstPersonExampleMap1-John
+[2022.10.31-20.48.53:277][484]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John
