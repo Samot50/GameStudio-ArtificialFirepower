@@ -1165,3 +1165,1597 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.31-22.24.41:455][663]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Sniper_Test_John_Child3012D8F444F14E1F448B27867208F3D1.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Sniper_Test_John_Child.uasset'
 [2022.10.31-22.24.41:473][663]AssetCheck: New page: Asset Save: Gun_Sniper_Test_John_Child
 [2022.10.31-22.24.41:473][663]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Sniper_Test_John_Child.Gun_Sniper_Test_John_Child
+[2022.10.31-22.28.08:177][549]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John34231189495D92AF2354EE9ADCDC159C.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.10.31-22.28.08:205][549]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.10.31-22.28.08:206][549]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.10.31-22.28.16:250][159]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.28.16:256][159]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-22.28.16:282][159]LogPlayLevel: [PlayLevel] Compiling Gun_Test_John before play...
+[2022.10.31-22.28.16:282][159]LogPlayLevel: [PlayLevel]   Compiling Gun_Sniper_Test_John_Child as a dependent...
+[2022.10.31-22.28.16:282][159]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_Auto_John_Child as a dependent...
+[2022.10.31-22.28.16:282][159]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_SemiAuto_John as a dependent...
+[2022.10.31-22.28.16:283][159]LogPlayLevel: [PlayLevel]   Compiling Shotgun_Test_John_Child as a dependent...
+[2022.10.31-22.28.16:444][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_249.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:466][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_251.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:478][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_253.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:487][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_255.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:511][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_259.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:520][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_261.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:528][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_263.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:549][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_265.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.28.16:635][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.10.31-22.28.16:636][159]LogPlayLevel: PlayLevel: Blueprint regeneration took 380 ms (5 blueprints)
+[2022.10.31-22.28.16:636][159]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:28:16 AM)
+[2022.10.31-22.28.16:678][159]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.28.16:703][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025285s)
+[2022.10.31-22.28.16:705][159]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.28.16:705][159]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2022.10.31-22.28.16:705][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.027197s)
+[2022.10.31-22.28.16:760][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.10.31-22.28.16:761][159]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.31-22.28.16:761][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.28.16:761][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.28.16:761][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.28.16:761][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.28.16:761][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.28.16:761][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.28.16:761][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.28.16:761][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.28.16:762][159]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.28.16:762][159]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.28.16:763][159]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.28.16:763][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.28.16:763][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.28.16:763][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.28.16:764][159]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.28.16:764][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.28.16:764][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.28.16:765][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.28.16:765][159]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.28.16:766][159]LogInit: FAudioDevice initialized.
+[2022.10.31-22.28.16:766][159]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.28.16:777][159]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.28.16:780][159]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.28.16
+[2022.10.31-22.28.16:781][159]LogWorld: Bringing up level for play took: 0.002768
+[2022.10.31-22.28.16:781][159]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.10.31-22.28.16:787][159]PIE: Server logged in
+[2022.10.31-22.28.16:788][159]PIE: Play in editor total start time 0.534 seconds.
+[2022.10.31-22.28.17:396][219]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 5.0Heat10.0Battery
+[2022.10.31-22.28.17:561][237]LogBlueprintUserMessages: [Enemy2_5] Ouch
+[2022.10.31-22.28.18:050][293]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 4.0Heat20.0Battery
+[2022.10.31-22.28.19:021][406]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 3.0Heat30.0Battery
+[2022.10.31-22.28.19:797][498]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 2.0Heat40.0Battery
+[2022.10.31-22.28.20:492][580]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 1.0Heat50.0Battery
+[2022.10.31-22.28.21:401][687]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.28.21:411][688]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 0.0Heat60.0Battery
+[2022.10.31-22.28.25:835][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.28.25:835][199]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.28.25:835][199]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.28.25:837][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.28.25:849][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.28.25:859][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.28.25:919][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.28.25:919][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.28.25:921][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.28.25:921][199]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.28.25:953][199]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2022.10.31-22.28.25:987][200]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.10.31-22.28.31:000][650]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.28.31:006][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.31-22.28.31:006][650]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:28:31 AM)
+[2022.10.31-22.28.31:036][650]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.28.31:059][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023278s)
+[2022.10.31-22.28.31:061][650]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.28.31:062][650]LogPlayLevel: PIE: World Init took: (0.002456s)
+[2022.10.31-22.28.31:062][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.026118s)
+[2022.10.31-22.28.31:112][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.10.31-22.28.31:114][650]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.28.31:115][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.28.31:115][650]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.28.31:115][650]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.28.31:116][650]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.28.31:116][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.28.31:116][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.28.31:116][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.28.31:117][650]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.28.31:117][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.28.31:117][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.28.31:118][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.28.31:118][650]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.28.31:119][650]LogInit: FAudioDevice initialized.
+[2022.10.31-22.28.31:119][650]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.28.31:132][650]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.28.31:136][650]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.28.31
+[2022.10.31-22.28.31:137][650]LogWorld: Bringing up level for play took: 0.003676
+[2022.10.31-22.28.31:137][650]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.10.31-22.28.31:144][650]PIE: Server logged in
+[2022.10.31-22.28.31:146][650]PIE: Play in editor total start time 0.14 seconds.
+[2022.10.31-22.28.31:504][687]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 5.0Heat10.0Battery
+[2022.10.31-22.28.32:146][761]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 4.0Heat20.0Battery
+[2022.10.31-22.28.32:583][813]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 3.0Heat30.0Battery
+[2022.10.31-22.28.32:991][860]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 2.0Heat40.0Battery
+[2022.10.31-22.28.33:419][911]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 1.0Heat50.0Battery
+[2022.10.31-22.28.34:188][  1]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 0.0Heat60.0Battery
+[2022.10.31-22.28.35:999][215]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.28.37:394][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.28.37:394][374]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.28.37:394][374]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.28.37:397][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.28.37:411][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.28.37:423][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.28.37:492][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.28.37:492][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.28.37:493][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.28.37:493][374]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.28.37:507][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2022.10.31-22.28.37:540][375]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.31-22.29.00:873][808]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John6627BECC431E756BDCFC909D6330F347.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.10.31-22.29.00:902][808]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.10.31-22.29.00:902][808]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.10.31-22.29.04:462][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.29.04:468][ 43]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-22.29.04:474][ 43]LogPlayLevel: [PlayLevel] Compiling Gun_Test_John before play...
+[2022.10.31-22.29.04:474][ 43]LogPlayLevel: [PlayLevel]   Compiling Gun_Sniper_Test_John_Child as a dependent...
+[2022.10.31-22.29.04:474][ 43]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_Auto_John_Child as a dependent...
+[2022.10.31-22.29.04:474][ 43]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_SemiAuto_John as a dependent...
+[2022.10.31-22.29.04:474][ 43]LogPlayLevel: [PlayLevel]   Compiling Shotgun_Test_John_Child as a dependent...
+[2022.10.31-22.29.04:637][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_269.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:647][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_271.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:656][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_273.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:670][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_275.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:700][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_279.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:709][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_281.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:723][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_283.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:743][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_285.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.04:819][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.10.31-22.29.04:821][ 43]LogPlayLevel: PlayLevel: Blueprint regeneration took 352 ms (5 blueprints)
+[2022.10.31-22.29.04:821][ 43]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:29:04 AM)
+[2022.10.31-22.29.04:848][ 43]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.29.04:872][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023837s)
+[2022.10.31-22.29.04:873][ 43]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.29.04:874][ 43]LogPlayLevel: PIE: World Init took: (0.001980s)
+[2022.10.31-22.29.04:874][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.026148s)
+[2022.10.31-22.29.04:932][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.10.31-22.29.04:933][ 43]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.31-22.29.04:933][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.29.04:933][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.29.04:933][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.29.04:933][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.29.04:933][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.29.04:933][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.29.04:933][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.29.04:933][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.29.04:934][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.29.04:934][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.29.04:935][ 43]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.29.04:935][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.29.04:935][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.29.04:935][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.29.04:936][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.29.04:936][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.29.04:936][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.29.04:937][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.29.04:937][ 43]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.29.04:938][ 43]LogInit: FAudioDevice initialized.
+[2022.10.31-22.29.04:938][ 43]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.29.04:954][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.29.04:958][ 43]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.29.04
+[2022.10.31-22.29.04:959][ 43]LogWorld: Bringing up level for play took: 0.004580
+[2022.10.31-22.29.04:960][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.10.31-22.29.04:971][ 43]PIE: Server logged in
+[2022.10.31-22.29.04:973][ 43]PIE: Play in editor total start time 0.506 seconds.
+[2022.10.31-22.29.05:509][ 96]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat5.0Battery
+[2022.10.31-22.29.06:639][228]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat4.0Battery
+[2022.10.31-22.29.07:551][334]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat3.0Battery
+[2022.10.31-22.29.07:938][378]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat2.0Battery
+[2022.10.31-22.29.08:273][418]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat1.0Battery
+[2022.10.31-22.29.08:639][461]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat0.0Battery
+[2022.10.31-22.29.09:597][574]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.29.12:322][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.29.12:322][886]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.29.12:323][886]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.29.12:326][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.29.12:342][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.29.12:354][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.29.12:418][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.29.12:419][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.29.12:420][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.29.12:420][886]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.29.12:433][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.10.31-22.29.12:466][887]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.10.31-22.29.56:479][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_289.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.56:488][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_291.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.58:673][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_293.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.29.58:678][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_295.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.01:750][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_297.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.01:756][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_299.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.06:476][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_301.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.06:483][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_303.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.08:929][818]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_SemiAuto_John289000A34F97692B3B7EA884D1539699.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.uasset'
+[2022.10.31-22.30.08:952][818]AssetCheck: New page: Asset Save: Gun_Test_SemiAuto_John
+[2022.10.31-22.30.08:952][818]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.Gun_Test_SemiAuto_John
+[2022.10.31-22.30.16:656][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_305.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.16:663][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_307.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.19:254][460]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_309.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.19:260][460]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_311.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.21:356][580]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Sniper_Test_John_ChildC1ECD96341A6A0CD4A40F882993F2D88.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Sniper_Test_John_Child.uasset'
+[2022.10.31-22.30.21:374][580]AssetCheck: New page: Asset Save: Gun_Sniper_Test_John_Child
+[2022.10.31-22.30.21:374][580]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Sniper_Test_John_Child.Gun_Sniper_Test_John_Child
+[2022.10.31-22.30.27:803][927]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_313.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.27:809][927]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_315.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.30:296][ 50]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Shotgun_Test_John_Child70EE519F49BC382377199D8E3EDBA46F.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Shotgun_Test_John_Child.uasset'
+[2022.10.31-22.30.30:314][ 50]AssetCheck: New page: Asset Save: Shotgun_Test_John_Child
+[2022.10.31-22.30.30:314][ 50]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Shotgun_Test_John_Child.Shotgun_Test_John_Child
+[2022.10.31-22.30.30:632][ 66]BlueprintLog: New page: Compile Shotgun_Test_John_Child
+[2022.10.31-22.30.30:730][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.10.31-22.30.30:739][ 66]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_317.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.30:753][ 66]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_319.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:658][107]BlueprintLog: New page: Compile Gun_Test_John
+[2022.10.31-22.30.31:826][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.10.31-22.30.31:852][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_321.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:861][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_323.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:871][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_325.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:879][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_327.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:915][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_331.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:923][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_333.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:932][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_335.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.31:940][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_337.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.30.32:593][130]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_JohnC1EDEDAD45C7C1E905C5039F08C00C53.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.10.31-22.30.32:620][130]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.10.31-22.30.32:620][130]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.10.31-22.30.34:835][273]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.30.34:841][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.31-22.30.34:841][273]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:30:34 AM)
+[2022.10.31-22.30.34:875][273]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.30.34:901][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026365s)
+[2022.10.31-22.30.34:906][273]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.30.34:907][273]LogPlayLevel: PIE: World Init took: (0.005731s)
+[2022.10.31-22.30.34:907][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.032655s)
+[2022.10.31-22.30.34:971][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.10.31-22.30.34:973][273]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.31-22.30.34:973][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.30.34:974][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.30.34:974][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.30.34:974][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.30.34:974][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.30.34:974][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.30.34:974][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.30.34:974][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.30.34:974][273]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.30.34:974][273]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.30.34:975][273]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.30.34:975][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.30.34:975][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.30.34:975][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.30.34:976][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.30.34:976][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.30.34:976][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.30.34:978][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.30.34:978][273]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.30.34:978][273]LogInit: FAudioDevice initialized.
+[2022.10.31-22.30.34:978][273]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.30.34:989][273]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.30.34:992][273]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.30.34
+[2022.10.31-22.30.34:992][273]LogWorld: Bringing up level for play took: 0.002070
+[2022.10.31-22.30.34:993][273]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.10.31-22.30.35:000][273]PIE: Server logged in
+[2022.10.31-22.30.35:001][273]PIE: Play in editor total start time 0.16 seconds.
+[2022.10.31-22.30.35:264][300]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.10.31-22.30.35:740][354]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.10.31-22.30.36:153][400]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat97.0Battery
+[2022.10.31-22.30.36:519][442]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat96.0Battery
+[2022.10.31-22.30.36:939][492]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat95.0Battery
+[2022.10.31-22.30.37:102][511]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat94.0Battery
+[2022.10.31-22.30.37:414][547]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat93.0Battery
+[2022.10.31-22.30.37:720][581]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.0Heat92.0Battery
+[2022.10.31-22.30.38:007][615]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 90.0Heat91.0Battery
+[2022.10.31-22.30.38:312][650]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 100.0Heat90.0Battery
+[2022.10.31-22.30.39:827][825]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.30.40:953][958]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat89.0Battery
+[2022.10.31-22.30.41:317][  0]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat88.0Battery
+[2022.10.31-22.30.41:907][ 70]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat87.0Battery
+[2022.10.31-22.30.42:139][ 97]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat86.0Battery
+[2022.10.31-22.30.42:313][118]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat85.0Battery
+[2022.10.31-22.30.42:489][139]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat84.0Battery
+[2022.10.31-22.30.42:810][177]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat83.0Battery
+[2022.10.31-22.30.43:121][213]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.0Heat82.0Battery
+[2022.10.31-22.30.44:517][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.30.44:517][374]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.30.44:518][374]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.30.44:520][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.30.44:539][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.30.44:550][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.30.44:607][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.30.44:607][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.30.44:608][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.30.44:608][374]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.30.44:626][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.10.31-22.30.44:651][375]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.10.31-22.31.14:707][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2022.10.31-22.31.14:710][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John' took 0.066
+[2022.10.31-22.31.14:711][ 86]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/John_TestChar_2] ([1] browsable assets)...
+[2022.10.31-22.31.14:711][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/John_TestChar_2]
+[2022.10.31-22.31.14:771][ 86]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/John_TestChar_2_Auto4B0B7903C479895AFBE1EBA9433BF95F7.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Autosaves/Game/FirstPersonBP/Blueprints/John_TestChar_2_Auto4.uasset'
+[2022.10.31-22.31.14:772][ 86]LogFileHelpers: Auto-saving content packages took 0.061
+[2022.10.31-22.31.55:293][ 59]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John2FEFC12D410E332D045D0A90AD4A2825.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.10.31-22.31.55:323][ 59]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.10.31-22.31.55:323][ 59]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.10.31-22.31.57:461][223]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.31.57:467][223]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-22.31.57:472][223]LogPlayLevel: [PlayLevel] Compiling Gun_Test_John before play...
+[2022.10.31-22.31.57:473][223]LogPlayLevel: [PlayLevel]   Compiling Gun_Sniper_Test_John_Child as a dependent...
+[2022.10.31-22.31.57:473][223]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_Auto_John_Child as a dependent...
+[2022.10.31-22.31.57:473][223]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_SemiAuto_John as a dependent...
+[2022.10.31-22.31.57:473][223]LogPlayLevel: [PlayLevel]   Compiling Shotgun_Test_John_Child as a dependent...
+[2022.10.31-22.31.57:590][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_341.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:600][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_343.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:611][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_345.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:621][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_347.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:645][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_351.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:653][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_353.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:661][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_355.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:670][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_357.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.31.57:744][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.10.31-22.31.57:745][223]LogPlayLevel: PlayLevel: Blueprint regeneration took 278 ms (5 blueprints)
+[2022.10.31-22.31.57:745][223]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:31:57 AM)
+[2022.10.31-22.31.57:776][223]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.31.57:804][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027719s)
+[2022.10.31-22.31.57:806][223]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.31.57:807][223]LogPlayLevel: PIE: World Init took: (0.002762s)
+[2022.10.31-22.31.57:807][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.030877s)
+[2022.10.31-22.31.57:870][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.10.31-22.31.57:872][223]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.31.57:872][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.31.57:872][223]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.31.57:872][223]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.31.57:873][223]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.31.57:873][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.31.57:873][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.31.57:873][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.31.57:874][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.31.57:874][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.31.57:874][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.31.57:875][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.31.57:875][223]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.31.57:876][223]LogInit: FAudioDevice initialized.
+[2022.10.31-22.31.57:876][223]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.31.57:897][223]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.31.57:902][223]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.31.57
+[2022.10.31-22.31.57:902][223]LogWorld: Bringing up level for play took: 0.003375
+[2022.10.31-22.31.57:902][223]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.10.31-22.31.57:911][223]PIE: Server logged in
+[2022.10.31-22.31.57:911][223]PIE: Play in editor total start time 0.445 seconds.
+[2022.10.31-22.31.57:935][224]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.10.31-22.31.58:379][270]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.10.31-22.31.58:948][336]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat97.0Battery
+[2022.10.31-22.31.59:431][392]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat96.0Battery
+[2022.10.31-22.31.59:867][442]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat95.0Battery
+[2022.10.31-22.32.00:269][489]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat94.0Battery
+[2022.10.31-22.32.00:642][532]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat93.0Battery
+[2022.10.31-22.32.01:030][578]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.0Heat92.0Battery
+[2022.10.31-22.32.01:429][624]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 90.0Heat91.0Battery
+[2022.10.31-22.32.01:831][672]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 100.0Heat90.0Battery
+[2022.10.31-22.32.02:210][715]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] oh god that is hot
+[2022.10.31-22.32.02:520][750]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.32.04:340][964]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat89.0Battery
+[2022.10.31-22.32.04:709][  8]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat88.0Battery
+[2022.10.31-22.32.05:040][ 46]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat87.0Battery
+[2022.10.31-22.32.05:612][113]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat86.0Battery
+[2022.10.31-22.32.05:906][148]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat85.0Battery
+[2022.10.31-22.32.06:158][177]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat84.0Battery
+[2022.10.31-22.32.06:466][213]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat83.0Battery
+[2022.10.31-22.32.06:761][248]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.0Heat82.0Battery
+[2022.10.31-22.32.07:029][279]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 90.0Heat81.0Battery
+[2022.10.31-22.32.07:307][312]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 100.0Heat80.0Battery
+[2022.10.31-22.32.07:578][344]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] oh god that is hot
+[2022.10.31-22.32.09:108][523]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat79.0Battery
+[2022.10.31-22.32.09:412][558]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat78.0Battery
+[2022.10.31-22.32.10:129][642]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat77.0Battery
+[2022.10.31-22.32.10:763][716]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat76.0Battery
+[2022.10.31-22.32.11:045][749]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat75.0Battery
+[2022.10.31-22.32.11:222][769]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat74.0Battery
+[2022.10.31-22.32.11:513][803]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat73.0Battery
+[2022.10.31-22.32.11:934][852]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.0Heat72.0Battery
+[2022.10.31-22.32.12:214][885]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 90.0Heat71.0Battery
+[2022.10.31-22.32.12:348][901]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 100.0Heat70.0Battery
+[2022.10.31-22.32.12:779][951]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] oh god that is hot
+[2022.10.31-22.32.13:213][  1]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat69.0Battery
+[2022.10.31-22.32.13:511][ 35]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat68.0Battery
+[2022.10.31-22.32.13:813][ 70]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat67.0Battery
+[2022.10.31-22.32.14:138][108]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat66.0Battery
+[2022.10.31-22.32.14:467][146]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat65.0Battery
+[2022.10.31-22.32.14:775][182]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat64.0Battery
+[2022.10.31-22.32.15:091][219]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat63.0Battery
+[2022.10.31-22.32.15:393][254]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.0Heat62.0Battery
+[2022.10.31-22.32.15:709][291]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 90.0Heat61.0Battery
+[2022.10.31-22.32.16:087][336]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 100.0Heat60.0Battery
+[2022.10.31-22.32.17:115][458]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] oh god that is hot
+[2022.10.31-22.32.17:592][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.32.17:592][510]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.32.17:593][510]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.32.17:595][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.32.17:614][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.32.17:626][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.32.17:695][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-22.32.17:696][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.32.17:697][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.32.17:697][510]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.32.17:719][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.32.17:728][510]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.10.31-22.32.17:770][511]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.10.31-22.32.28:910][427]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.32.28:916][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.31-22.32.28:916][427]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:32:28 AM)
+[2022.10.31-22.32.28:945][427]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.32.28:972][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027157s)
+[2022.10.31-22.32.28:975][427]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.32.28:975][427]LogPlayLevel: PIE: World Init took: (0.003417s)
+[2022.10.31-22.32.28:975][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.031164s)
+[2022.10.31-22.32.29:033][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.10.31-22.32.29:036][427]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.10.31-22.32.29:036][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.32.29:036][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.32.29:036][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.32.29:036][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.32.29:036][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.32.29:036][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.32.29:036][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.32.29:036][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.32.29:037][427]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.32.29:037][427]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.32.29:038][427]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.32.29:038][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.32.29:038][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.32.29:038][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.32.29:038][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.32.29:038][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.32.29:039][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.32.29:040][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.32.29:040][427]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.32.29:040][427]LogInit: FAudioDevice initialized.
+[2022.10.31-22.32.29:040][427]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.32.29:057][427]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.32.29:060][427]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.32.29
+[2022.10.31-22.32.29:062][427]LogWorld: Bringing up level for play took: 0.003182
+[2022.10.31-22.32.29:062][427]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.10.31-22.32.29:074][427]PIE: Server logged in
+[2022.10.31-22.32.29:075][427]PIE: Play in editor total start time 0.161 seconds.
+[2022.10.31-22.32.29:398][459]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.10.31-22.32.29:828][510]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.10.31-22.32.30:204][554]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat97.0Battery
+[2022.10.31-22.32.32:009][759]LogBlueprintUserMessages: [Dummy-John_2] Ouch
+[2022.10.31-22.32.32:009][759]LogBlueprintUserMessages: [Dummy-John_2] Ouch
+[2022.10.31-22.32.33:904][979]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.32.34:879][ 95]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.10.31-22.32.34:979][107]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.10.31-22.32.35:083][119]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat97.0Battery
+[2022.10.31-22.32.35:184][131]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat96.0Battery
+[2022.10.31-22.32.35:286][143]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat95.0Battery
+[2022.10.31-22.32.35:392][155]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat94.0Battery
+[2022.10.31-22.32.35:481][165]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat93.0Battery
+[2022.10.31-22.32.35:581][177]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat92.0Battery
+[2022.10.31-22.32.35:682][189]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat91.0Battery
+[2022.10.31-22.32.35:782][201]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat90.0Battery
+[2022.10.31-22.32.35:887][213]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat89.0Battery
+[2022.10.31-22.32.35:987][224]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat88.0Battery
+[2022.10.31-22.32.36:087][236]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat87.0Battery
+[2022.10.31-22.32.36:179][247]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat86.0Battery
+[2022.10.31-22.32.36:288][259]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat85.0Battery
+[2022.10.31-22.32.36:385][270]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat84.0Battery
+[2022.10.31-22.32.36:480][281]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat83.0Battery
+[2022.10.31-22.32.36:582][293]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat82.0Battery
+[2022.10.31-22.32.36:683][305]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat81.0Battery
+[2022.10.31-22.32.36:782][317]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat80.0Battery
+[2022.10.31-22.32.36:879][328]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat79.0Battery
+[2022.10.31-22.32.36:981][340]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 110.0Heat78.0Battery
+[2022.10.31-22.32.37:081][352]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 115.0Heat77.0Battery
+[2022.10.31-22.32.37:186][364]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 120.0Heat76.0Battery
+[2022.10.31-22.32.37:281][375]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 125.0Heat75.0Battery
+[2022.10.31-22.32.37:381][387]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 130.0Heat74.0Battery
+[2022.10.31-22.32.37:481][399]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 135.0Heat73.0Battery
+[2022.10.31-22.32.37:583][410]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 140.0Heat72.0Battery
+[2022.10.31-22.32.37:683][422]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 145.0Heat71.0Battery
+[2022.10.31-22.32.37:783][434]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 150.0Heat70.0Battery
+[2022.10.31-22.32.37:887][446]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 155.0Heat69.0Battery
+[2022.10.31-22.32.37:981][457]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 160.0Heat68.0Battery
+[2022.10.31-22.32.38:083][469]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 165.0Heat67.0Battery
+[2022.10.31-22.32.38:186][481]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 170.0Heat66.0Battery
+[2022.10.31-22.32.38:281][492]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 175.0Heat65.0Battery
+[2022.10.31-22.32.38:385][504]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 180.0Heat64.0Battery
+[2022.10.31-22.32.38:485][515]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 185.0Heat63.0Battery
+[2022.10.31-22.32.38:585][526]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 190.0Heat62.0Battery
+[2022.10.31-22.32.38:687][538]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 195.0Heat61.0Battery
+[2022.10.31-22.32.38:783][549]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 200.0Heat60.0Battery
+[2022.10.31-22.32.38:886][561]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 205.0Heat59.0Battery
+[2022.10.31-22.32.38:983][572]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 210.0Heat58.0Battery
+[2022.10.31-22.32.39:086][584]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 215.0Heat57.0Battery
+[2022.10.31-22.32.39:180][595]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 220.0Heat56.0Battery
+[2022.10.31-22.32.39:285][607]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 225.0Heat55.0Battery
+[2022.10.31-22.32.39:386][619]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 230.0Heat54.0Battery
+[2022.10.31-22.32.39:486][631]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 235.0Heat53.0Battery
+[2022.10.31-22.32.39:585][642]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 240.0Heat52.0Battery
+[2022.10.31-22.32.39:681][653]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 245.0Heat51.0Battery
+[2022.10.31-22.32.39:780][664]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 250.0Heat50.0Battery
+[2022.10.31-22.32.40:243][718]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.32.42:990][ 40]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat49.0Battery
+[2022.10.31-22.32.43:090][ 52]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat48.0Battery
+[2022.10.31-22.32.43:188][ 63]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat47.0Battery
+[2022.10.31-22.32.43:288][ 75]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat46.0Battery
+[2022.10.31-22.32.43:388][ 87]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat45.0Battery
+[2022.10.31-22.32.43:491][ 99]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat44.0Battery
+[2022.10.31-22.32.43:593][111]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat43.0Battery
+[2022.10.31-22.32.43:686][122]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat42.0Battery
+[2022.10.31-22.32.43:790][134]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat41.0Battery
+[2022.10.31-22.32.43:889][146]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat40.0Battery
+[2022.10.31-22.32.43:990][158]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat39.0Battery
+[2022.10.31-22.32.44:098][170]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat38.0Battery
+[2022.10.31-22.32.44:188][180]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat37.0Battery
+[2022.10.31-22.32.44:288][192]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat36.0Battery
+[2022.10.31-22.32.44:388][204]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat35.0Battery
+[2022.10.31-22.32.44:493][216]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat34.0Battery
+[2022.10.31-22.32.44:587][227]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat33.0Battery
+[2022.10.31-22.32.44:691][239]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat32.0Battery
+[2022.10.31-22.32.44:788][249]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat31.0Battery
+[2022.10.31-22.32.44:890][260]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat30.0Battery
+[2022.10.31-22.32.44:991][272]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat29.0Battery
+[2022.10.31-22.32.45:088][283]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 110.0Heat28.0Battery
+[2022.10.31-22.32.45:187][294]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 115.0Heat27.0Battery
+[2022.10.31-22.32.45:290][306]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 120.0Heat26.0Battery
+[2022.10.31-22.32.45:389][318]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 125.0Heat25.0Battery
+[2022.10.31-22.32.45:489][330]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 130.0Heat24.0Battery
+[2022.10.31-22.32.45:591][342]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 135.0Heat23.0Battery
+[2022.10.31-22.32.45:692][354]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 140.0Heat22.0Battery
+[2022.10.31-22.32.45:788][365]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 145.0Heat21.0Battery
+[2022.10.31-22.32.45:889][377]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 150.0Heat20.0Battery
+[2022.10.31-22.32.45:989][389]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 155.0Heat19.0Battery
+[2022.10.31-22.32.46:089][401]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 160.0Heat18.0Battery
+[2022.10.31-22.32.46:196][413]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 165.0Heat17.0Battery
+[2022.10.31-22.32.46:291][424]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 170.0Heat16.0Battery
+[2022.10.31-22.32.46:391][436]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 175.0Heat15.0Battery
+[2022.10.31-22.32.46:493][448]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 180.0Heat14.0Battery
+[2022.10.31-22.32.46:592][460]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 185.0Heat13.0Battery
+[2022.10.31-22.32.46:688][471]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 190.0Heat12.0Battery
+[2022.10.31-22.32.46:788][483]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 195.0Heat11.0Battery
+[2022.10.31-22.32.46:892][495]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 200.0Heat10.0Battery
+[2022.10.31-22.32.46:996][507]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 205.0Heat9.0Battery
+[2022.10.31-22.32.47:089][518]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 210.0Heat8.0Battery
+[2022.10.31-22.32.47:189][530]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 215.0Heat7.0Battery
+[2022.10.31-22.32.47:289][542]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 220.0Heat6.0Battery
+[2022.10.31-22.32.47:391][553]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 225.0Heat5.0Battery
+[2022.10.31-22.32.47:492][565]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 230.0Heat4.0Battery
+[2022.10.31-22.32.47:588][575]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 235.0Heat3.0Battery
+[2022.10.31-22.32.47:687][587]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 240.0Heat2.0Battery
+[2022.10.31-22.32.47:787][599]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 245.0Heat1.0Battery
+[2022.10.31-22.32.47:890][611]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 250.0Heat0.0Battery
+[2022.10.31-22.32.49:084][750]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.32.51:700][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.32.51:700][ 54]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.32.51:701][ 54]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.32.51:703][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.32.51:715][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.32.51:730][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.32.51:794][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-22.32.51:794][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.32.51:795][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.32.51:795][ 54]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.32.51:805][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.32.51:811][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.31-22.32.51:835][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.10.31-22.33.39:884][150]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_Auto_John_Child5EE0268C4136ED61E5D76FA4C531FB9F.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.uasset'
+[2022.10.31-22.33.39:901][150]AssetCheck: New page: Asset Save: Gun_Test_Auto_John_Child
+[2022.10.31-22.33.39:901][150]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.10.31-22.33.42:593][357]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.33.42:599][357]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-22.33.42:600][357]LogPlayLevel: [PlayLevel] Compiling Gun_Test_Auto_John_Child before play...
+[2022.10.31-22.33.42:642][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_363.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.33.42:657][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_365.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.33.42:724][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.10.31-22.33.42:726][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2022.10.31-22.33.42:726][357]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:33:42 AM)
+[2022.10.31-22.33.42:760][357]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.33.42:783][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023232s)
+[2022.10.31-22.33.42:785][357]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.33.42:785][357]LogPlayLevel: PIE: World Init took: (0.001671s)
+[2022.10.31-22.33.42:785][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.025262s)
+[2022.10.31-22.33.42:841][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.10.31-22.33.42:842][357]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.10.31-22.33.42:842][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.33.42:842][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.33.42:842][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.33.42:842][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.33.42:842][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.33.42:842][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.33.42:842][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.33.42:842][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.33.42:843][357]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.33.42:843][357]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.33.42:844][357]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.33.42:844][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.33.42:844][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.33.42:844][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.33.42:844][357]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.33.42:845][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.33.42:845][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.33.42:846][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.33.42:846][357]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.33.42:846][357]LogInit: FAudioDevice initialized.
+[2022.10.31-22.33.42:847][357]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.33.42:857][357]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.33.42:860][357]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.33.42
+[2022.10.31-22.33.42:860][357]LogWorld: Bringing up level for play took: 0.002140
+[2022.10.31-22.33.42:860][357]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.10.31-22.33.42:866][357]PIE: Server logged in
+[2022.10.31-22.33.42:867][357]PIE: Play in editor total start time 0.269 seconds.
+[2022.10.31-22.33.43:454][421]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.10.31-22.33.44:167][505]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.10.31-22.33.44:735][570]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat97.0Battery
+[2022.10.31-22.33.45:686][682]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat90.0Battery
+[2022.10.31-22.33.46:721][804]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.33.47:335][876]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat80.0Battery
+[2022.10.31-22.33.47:593][907]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.33.48:240][983]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.33.50:753][278]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat70.0Battery
+[2022.10.31-22.33.51:331][346]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.33.55:891][882]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat60.0Battery
+[2022.10.31-22.33.56:530][957]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.33.56:714][979]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat50.0Battery
+[2022.10.31-22.33.56:937][  5]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.33.57:637][ 87]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat40.0Battery
+[2022.10.31-22.33.57:821][108]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.33.58:136][145]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat30.0Battery
+[2022.10.31-22.33.58:296][164]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.34.03:106][732]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat96.0Battery
+[2022.10.31-22.34.03:705][803]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat95.0Battery
+[2022.10.31-22.34.04:214][862]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat94.0Battery
+[2022.10.31-22.34.04:661][915]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat93.0Battery
+[2022.10.31-22.34.06:180][ 94]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat20.0Battery
+[2022.10.31-22.34.08:688][389]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.34.10:860][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.34.10:861][641]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.34.10:861][641]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.34.10:864][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.34.10:882][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.34.10:896][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.34.10:955][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.34.10:955][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.34.10:957][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.34.10:957][641]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.34.10:974][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.10.31-22.34.10:999][642]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.10.31-22.34.36:183][388]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_Auto_John_Child232BD0504412C276BC3E868708D1E2F6.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.uasset'
+[2022.10.31-22.34.36:204][388]AssetCheck: New page: Asset Save: Gun_Test_Auto_John_Child
+[2022.10.31-22.34.36:204][388]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.10.31-22.35.02:620][196]BlueprintLog: New page: Compile Gun_Test_Auto_John_Child
+[2022.10.31-22.35.02:702][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.10.31-22.35.02:710][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_367.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.35.02:725][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_369.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.35.03:080][212]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_Auto_John_Child1F14E34E40B5AC9EAEC5219E9B63B1C0.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.uasset'
+[2022.10.31-22.35.03:096][212]AssetCheck: New page: Asset Save: Gun_Test_Auto_John_Child
+[2022.10.31-22.35.03:096][212]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.10.31-22.35.06:793][543]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.35.06:798][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.31-22.35.06:798][543]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:35:06 AM)
+[2022.10.31-22.35.06:834][543]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.35.06:860][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026507s)
+[2022.10.31-22.35.06:862][543]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.35.06:863][543]LogPlayLevel: PIE: World Init took: (0.002406s)
+[2022.10.31-22.35.06:863][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.029351s)
+[2022.10.31-22.35.06:924][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.10.31-22.35.06:926][543]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.10.31-22.35.06:926][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.35.06:926][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.35.06:926][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.35.06:926][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.35.06:926][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.35.06:926][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.35.06:926][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.35.06:926][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.35.06:927][543]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.35.06:927][543]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.35.06:927][543]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.35.06:928][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.35.06:928][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.35.06:928][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.35.06:928][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.35.06:928][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.35.06:928][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.35.06:929][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.35.06:929][543]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.35.06:930][543]LogInit: FAudioDevice initialized.
+[2022.10.31-22.35.06:930][543]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.35.06:939][543]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.35.06:941][543]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.35.06
+[2022.10.31-22.35.06:941][543]LogWorld: Bringing up level for play took: 0.002094
+[2022.10.31-22.35.06:942][543]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.10.31-22.35.06:947][543]PIE: Server logged in
+[2022.10.31-22.35.06:948][543]PIE: Play in editor total start time 0.15 seconds.
+[2022.10.31-22.35.07:425][596]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.10.31-22.35.08:779][755]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.10.31-22.35.08:880][767]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.10.31-22.35.08:981][779]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat97.0Battery
+[2022.10.31-22.35.09:082][791]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat96.0Battery
+[2022.10.31-22.35.09:182][803]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat95.0Battery
+[2022.10.31-22.35.09:285][815]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat94.0Battery
+[2022.10.31-22.35.09:379][826]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat93.0Battery
+[2022.10.31-22.35.09:484][838]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat92.0Battery
+[2022.10.31-22.35.09:590][850]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat91.0Battery
+[2022.10.31-22.35.09:683][861]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat90.0Battery
+[2022.10.31-22.35.09:783][873]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat89.0Battery
+[2022.10.31-22.35.09:883][885]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat88.0Battery
+[2022.10.31-22.35.09:980][896]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat87.0Battery
+[2022.10.31-22.35.10:084][908]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat86.0Battery
+[2022.10.31-22.35.10:184][920]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat85.0Battery
+[2022.10.31-22.35.10:285][932]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat84.0Battery
+[2022.10.31-22.35.10:391][943]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat83.0Battery
+[2022.10.31-22.35.10:486][954]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat82.0Battery
+[2022.10.31-22.35.10:587][966]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat81.0Battery
+[2022.10.31-22.35.10:687][978]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat80.0Battery
+[2022.10.31-22.35.10:788][989]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat79.0Battery
+[2022.10.31-22.35.10:882][999]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 110.0Heat78.0Battery
+[2022.10.31-22.35.10:982][ 11]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 115.0Heat77.0Battery
+[2022.10.31-22.35.11:082][ 23]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 120.0Heat76.0Battery
+[2022.10.31-22.35.11:183][ 35]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 125.0Heat75.0Battery
+[2022.10.31-22.35.11:391][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.35.11:391][ 56]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.35.11:392][ 56]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.35.11:395][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.35.11:407][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.35.11:418][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.35.11:483][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-22.35.11:483][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.35.11:484][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.35.11:484][ 56]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.35.11:497][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.35.11:508][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2022.10.31-22.35.11:538][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.10.31-22.36.05:420][172]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John755EFCC34FB17173C347079513CBC801.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.10.31-22.36.05:446][172]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.10.31-22.36.05:446][172]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.10.31-22.36.09:422][463]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.36.09:428][463]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-22.36.09:454][463]LogPlayLevel: [PlayLevel] Compiling Gun_Test_John before play...
+[2022.10.31-22.36.09:454][463]LogPlayLevel: [PlayLevel]   Compiling Gun_Sniper_Test_John_Child as a dependent...
+[2022.10.31-22.36.09:454][463]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_Auto_John_Child as a dependent...
+[2022.10.31-22.36.09:454][463]LogPlayLevel: [PlayLevel]   Compiling Gun_Test_SemiAuto_John as a dependent...
+[2022.10.31-22.36.09:454][463]LogPlayLevel: [PlayLevel]   Compiling Shotgun_Test_John_Child as a dependent...
+[2022.10.31-22.36.09:570][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_371.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:580][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_373.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:590][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_375.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:598][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_377.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:624][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_381.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:632][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_383.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:649][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_385.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:658][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_387.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.36.09:735][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.10.31-22.36.09:737][463]LogPlayLevel: PlayLevel: Blueprint regeneration took 307 ms (5 blueprints)
+[2022.10.31-22.36.09:737][463]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:36:09 AM)
+[2022.10.31-22.36.09:767][463]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.36.09:792][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024769s)
+[2022.10.31-22.36.09:794][463]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.36.09:794][463]LogPlayLevel: PIE: World Init took: (0.001814s)
+[2022.10.31-22.36.09:794][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.026903s)
+[2022.10.31-22.36.09:847][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.10.31-22.36.09:848][463]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.31-22.36.09:848][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.36.09:848][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.36.09:848][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.36.09:848][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.36.09:848][463]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.36.09:848][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.36.09:848][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.36.09:848][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.36.09:849][463]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.36.09:849][463]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.36.09:850][463]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.36.09:850][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.36.09:850][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.36.09:850][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.36.09:850][463]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.36.09:851][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.36.09:851][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.36.09:852][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.36.09:852][463]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.36.09:853][463]LogInit: FAudioDevice initialized.
+[2022.10.31-22.36.09:853][463]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.36.09:863][463]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.36.09:865][463]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.36.09
+[2022.10.31-22.36.09:866][463]LogWorld: Bringing up level for play took: 0.002024
+[2022.10.31-22.36.09:866][463]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.10.31-22.36.09:872][463]PIE: Server logged in
+[2022.10.31-22.36.09:873][463]PIE: Play in editor total start time 0.446 seconds.
+[2022.10.31-22.36.10:386][517]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.10.31-22.36.12:107][719]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.10.31-22.36.12:207][731]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.10.31-22.36.12:313][743]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat97.0Battery
+[2022.10.31-22.36.12:414][754]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat96.0Battery
+[2022.10.31-22.36.12:508][765]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat95.0Battery
+[2022.10.31-22.36.12:609][777]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat94.0Battery
+[2022.10.31-22.36.12:709][789]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat93.0Battery
+[2022.10.31-22.36.12:808][801]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat92.0Battery
+[2022.10.31-22.36.12:907][812]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat91.0Battery
+[2022.10.31-22.36.13:012][824]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat90.0Battery
+[2022.10.31-22.36.13:114][836]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat89.0Battery
+[2022.10.31-22.36.13:208][847]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat88.0Battery
+[2022.10.31-22.36.13:319][859]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat87.0Battery
+[2022.10.31-22.36.13:413][870]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat86.0Battery
+[2022.10.31-22.36.13:516][882]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat85.0Battery
+[2022.10.31-22.36.13:524][883]LogBlueprintUserMessages: [Dummy-John_2] Ouch
+[2022.10.31-22.36.13:590][891]LogBlueprintUserMessages: [Dummy-John_2] Ouch
+[2022.10.31-22.36.13:607][893]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat84.0Battery
+[2022.10.31-22.36.13:708][905]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat83.0Battery
+[2022.10.31-22.36.13:799][916]LogBlueprintUserMessages: [Dummy-John_2] Ouch
+[2022.10.31-22.36.13:809][917]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat82.0Battery
+[2022.10.31-22.36.13:913][929]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat81.0Battery
+[2022.10.31-22.36.14:007][939]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat80.0Battery
+[2022.10.31-22.36.14:115][951]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat79.0Battery
+[2022.10.31-22.36.14:190][960]LogBlueprintUserMessages: [Dummy-John_2] I dead
+[2022.10.31-22.36.16:748][259]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.36.16:854][271]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat78.0Battery
+[2022.10.31-22.36.17:255][318]LogBlueprintUserMessages: [Enemy_2] Ouch
+[2022.10.31-22.36.17:446][340]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat77.0Battery
+[2022.10.31-22.36.17:542][351]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat76.0Battery
+[2022.10.31-22.36.17:642][363]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat75.0Battery
+[2022.10.31-22.36.17:742][375]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat74.0Battery
+[2022.10.31-22.36.17:890][386]LogBlueprintUserMessages: [Enemy_2] Ouch
+[2022.10.31-22.36.17:891][386]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat73.0Battery
+[2022.10.31-22.36.17:941][392]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat72.0Battery
+[2022.10.31-22.36.17:956][394]LogBlueprintUserMessages: [Enemy_2] Ouch
+[2022.10.31-22.36.18:043][404]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat71.0Battery
+[2022.10.31-22.36.18:143][416]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat70.0Battery
+[2022.10.31-22.36.18:239][426]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat69.0Battery
+[2022.10.31-22.36.18:341][438]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat68.0Battery
+[2022.10.31-22.36.18:440][450]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat67.0Battery
+[2022.10.31-22.36.18:540][462]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat66.0Battery
+[2022.10.31-22.36.18:643][474]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat65.0Battery
+[2022.10.31-22.36.18:744][486]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat64.0Battery
+[2022.10.31-22.36.18:841][497]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat63.0Battery
+[2022.10.31-22.36.18:941][509]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat62.0Battery
+[2022.10.31-22.36.19:044][521]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat61.0Battery
+[2022.10.31-22.36.19:143][532]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat60.0Battery
+[2022.10.31-22.36.19:240][543]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat59.0Battery
+[2022.10.31-22.36.19:339][554]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat58.0Battery
+[2022.10.31-22.36.20:019][634]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.36.20:121][646]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat57.0Battery
+[2022.10.31-22.36.20:855][731]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat56.0Battery
+[2022.10.31-22.36.20:956][743]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat55.0Battery
+[2022.10.31-22.36.21:062][755]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat54.0Battery
+[2022.10.31-22.36.21:160][766]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat53.0Battery
+[2022.10.31-22.36.21:256][777]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat52.0Battery
+[2022.10.31-22.36.21:357][789]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat51.0Battery
+[2022.10.31-22.36.21:457][800]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat50.0Battery
+[2022.10.31-22.36.21:561][812]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat49.0Battery
+[2022.10.31-22.36.21:662][824]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat48.0Battery
+[2022.10.31-22.36.21:763][836]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat47.0Battery
+[2022.10.31-22.36.21:858][847]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat46.0Battery
+[2022.10.31-22.36.21:958][859]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat45.0Battery
+[2022.10.31-22.36.22:060][871]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat44.0Battery
+[2022.10.31-22.36.22:161][883]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat43.0Battery
+[2022.10.31-22.36.22:260][895]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat42.0Battery
+[2022.10.31-22.36.22:357][906]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat41.0Battery
+[2022.10.31-22.36.22:458][918]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat40.0Battery
+[2022.10.31-22.36.22:564][930]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat39.0Battery
+[2022.10.31-22.36.22:656][941]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat38.0Battery
+[2022.10.31-22.36.22:757][953]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat37.0Battery
+[2022.10.31-22.36.23:160][998]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.36.23:873][ 82]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat36.0Battery
+[2022.10.31-22.36.24:051][101]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat35.0Battery
+[2022.10.31-22.36.24:432][146]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat34.0Battery
+[2022.10.31-22.36.24:532][158]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat33.0Battery
+[2022.10.31-22.36.24:632][170]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat32.0Battery
+[2022.10.31-22.36.24:732][181]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat31.0Battery
+[2022.10.31-22.36.24:835][192]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat30.0Battery
+[2022.10.31-22.36.24:935][204]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat29.0Battery
+[2022.10.31-22.36.25:029][215]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat28.0Battery
+[2022.10.31-22.36.25:129][226]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat27.0Battery
+[2022.10.31-22.36.25:232][238]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat26.0Battery
+[2022.10.31-22.36.25:333][250]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat25.0Battery
+[2022.10.31-22.36.25:435][262]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat24.0Battery
+[2022.10.31-22.36.25:535][274]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat23.0Battery
+[2022.10.31-22.36.25:985][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.36.25:985][323]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.36.25:986][323]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.36.25:988][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.36.26:006][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.36.26:016][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.36.26:084][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.36.26:084][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.36.26:085][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.36.26:085][323]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.36.26:095][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.10.31-22.36.26:121][324]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.10.31-22.37.06:585][236]BlueprintLog: New page: Compile Gun_Test_John
+[2022.10.31-22.37.06:729][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.10.31-22.37.06:767][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_391.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.06:782][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_393.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.06:803][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_395.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.06:812][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_397.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.06:838][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Sniper_Test_John_Child_C_CHILDACTOR_401.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.06:846][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_Auto_John_Child_C_CHILDACTOR_403.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.06:856][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Gun_Test_SemiAuto_John_C_CHILDACTOR_405.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.06:864][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_Shotgun_Test_John_Child_C_CHILDACTOR_407.DefaultSceneRoot1) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.10.31-22.37.07:383][255]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John3C4965AF42DA6528364E1CA1C9D078F3.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.10.31-22.37.07:412][255]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.10.31-22.37.07:412][255]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.10.31-22.37.09:358][409]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.31-22.37.09:364][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.31-22.37.09:364][409]PIE: New page: PIE session: FirstPersonExampleMap1-John (Oct 31, 2022, 8:37:09 AM)
+[2022.10.31-22.37.09:394][409]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.37.09:407][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012612s)
+[2022.10.31-22.37.09:408][409]LogAIModule: Creating AISystem for world FirstPersonExampleMap1-John
+[2022.10.31-22.37.09:408][409]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2022.10.31-22.37.09:408][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John (0.014699s)
+[2022.10.31-22.37.09:467][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.10.31-22.37.09:469][409]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.10.31-22.37.09:469][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-22.37.09:469][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-22.37.09:469][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-22.37.09:469][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-22.37.09:469][409]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-22.37.09:469][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.31-22.37.09:469][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-22.37.09:469][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-22.37.09:470][409]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.31-22.37.09:470][409]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.31-22.37.09:471][409]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.10.31-22.37.09:471][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-22.37.09:471][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-22.37.09:471][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-22.37.09:471][409]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.31-22.37.09:472][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.31-22.37.09:472][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.31-22.37.09:473][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.31-22.37.09:473][409]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.10.31-22.37.09:474][409]LogInit: FAudioDevice initialized.
+[2022.10.31-22.37.09:474][409]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.37.09:486][409]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.31-22.37.09:489][409]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John.FirstPersonExampleMap1-John up for play (max tick rate 0) at 2022.10.31-15.37.09
+[2022.10.31-22.37.09:490][409]LogWorld: Bringing up level for play took: 0.003695
+[2022.10.31-22.37.09:491][409]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.10.31-22.37.09:496][409]PIE: Server logged in
+[2022.10.31-22.37.09:497][409]PIE: Play in editor total start time 0.134 seconds.
+[2022.10.31-22.37.11:437][628]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.10.31-22.37.11:832][674]LogBlueprintUserMessages: [Dummy-John_2] Ouch
+[2022.10.31-22.37.13:660][885]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.10.31-22.37.14:354][965]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.10.31-22.37.15:828][135]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.10.31-22.37.15:928][147]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.10.31-22.37.16:029][159]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat97.0Battery
+[2022.10.31-22.37.16:134][171]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat96.0Battery
+[2022.10.31-22.37.16:227][182]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat95.0Battery
+[2022.10.31-22.37.16:330][194]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat94.0Battery
+[2022.10.31-22.37.16:436][206]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat93.0Battery
+[2022.10.31-22.37.16:532][216]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat92.0Battery
+[2022.10.31-22.37.16:626][226]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat91.0Battery
+[2022.10.31-22.37.17:447][322]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat90.0Battery
+[2022.10.31-22.37.18:557][453]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.18:557][453]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat80.0Battery
+[2022.10.31-22.37.18:776][479]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.18:777][479]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat70.0Battery
+[2022.10.31-22.37.18:984][503]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.18:985][503]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat60.0Battery
+[2022.10.31-22.37.19:183][526]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.19:184][526]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat50.0Battery
+[2022.10.31-22.37.19:565][571]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.19:566][571]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat40.0Battery
+[2022.10.31-22.37.19:749][593]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.19:750][593]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat30.0Battery
+[2022.10.31-22.37.19:899][611]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 200.0Heat20.0Battery
+[2022.10.31-22.37.20:050][629]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.20:050][629]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat10.0Battery
+[2022.10.31-22.37.20:201][647]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 200.0Heat0.0Battery
+[2022.10.31-22.37.22:214][884]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 12.0Heat95.0Battery
+[2022.10.31-22.37.23:531][ 37]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 24.0Heat90.0Battery
+[2022.10.31-22.37.23:725][ 60]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 36.0Heat85.0Battery
+[2022.10.31-22.37.24:103][103]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 48.0Heat80.0Battery
+[2022.10.31-22.37.24:761][179]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 60.0Heat75.0Battery
+[2022.10.31-22.37.25:230][233]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 72.0Heat70.0Battery
+[2022.10.31-22.37.25:589][274]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 84.0Heat65.0Battery
+[2022.10.31-22.37.26:146][340]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 96.0Heat60.0Battery
+[2022.10.31-22.37.26:919][432]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 108.0Heat55.0Battery
+[2022.10.31-22.37.27:304][477]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.10.31-22.37.30:811][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.37.30:811][878]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap1-John
+[2022.10.31-22.37.30:812][878]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap1-John, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.30:814][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.30:830][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-22.37.30:843][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.30:909][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-22.37.30:910][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.37.30:911][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.37.30:911][878]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.37.30:917][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-22.37.30:928][878]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2022.10.31-22.37.30:958][879]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.10.31-22.37.31:756][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.10.31-22.37.31:814][951]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMap1-JohnDD31661448DABADBD21C2A88CB611D31.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap1-John.umap'
+[2022.10.31-22.37.31:858][951]AssetCheck: New page: Asset Save: FirstPersonExampleMap1-John
+[2022.10.31-22.37.31:858][951]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap1-John.FirstPersonExampleMap1-John
+[2022.10.31-22.37.34:107][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.10.31-22.37.35:927][202]LogSlate: Window 'Save Content' being destroyed
+[2022.10.31-22.37.36:028][202]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/John_TestChar_2C975CCA6432267BCD289D097A1754A9D.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/John_TestChar_2.uasset'
+[2022.10.31-22.37.36:103][202]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.36:103][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.36:219][202]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.31-22.37.36:219][202]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.36:219][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.36:276][202]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.31-22.37.36:276][202]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.36:277][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.36:337][202]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.31-22.37.36:338][202]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.36:338][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.36:400][202]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.31-22.37.36:401][202]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.36:401][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.36:455][202]LogSlate: Window 'Shotgun_Test_John_Child' being destroyed
+[2022.10.31-22.37.36:462][202]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.31-22.37.36:462][202]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.36:462][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-22.37.36:527][202]LogSlate: Window 'ArtificialFirepower - Unreal Editor' being destroyed
+[2022.10.31-22.37.36:636][202]AssetCheck: New page: Asset Save: John_TestChar_2
+[2022.10.31-22.37.36:636][202]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/John_TestChar_2.John_TestChar_2
+[2022.10.31-22.37.36:637][203]Cmd: QUIT_EDITOR
+[2022.10.31-22.37.36:637][203]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.10.31-22.37.36:640][203]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.31-22.37.37:633][203]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.10.31-22.37.37:633][203]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.10.31-22.37.37:633][203]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap1-John'.
+[2022.10.31-22.37.37:660][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.37.37:662][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.31-22.37.37:662][203]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.10.31-22.37.37:684][203]LogAudio: Display: Audio Device Manager Shutdown
+[2022.10.31-22.37.37:685][203]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.31-22.37.37:695][203]LogExit: Preparing to exit.
+[2022.10.31-22.37.38:767][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D6000] Windows
+[2022.10.31-22.37.38:767][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D5E00] Default__DeviceProfile
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99539E200] WindowsNoEditor
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D7C00] WindowsServer
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C600] WindowsClient
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D4700] IOS
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99539F600] iPadAir
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D6C00] iPadAir2
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995333500] IPadPro
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995333600] iPadAir3
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D5700] iPadAir4
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995332700] iPadMini2
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D7900] iPadMini3
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995331200] iPadMini4
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A9953D7E00] iPadMini5
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99537F100] iPhone6
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99537F200] iPodTouch6
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995333B00] iPhone7
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995333C00] iPodTouch7
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99537E500] iPhone5S
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995331700] iPhone6Plus
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99537CF00] iPhone6S
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995330A00] iPhone6SPlus
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99537D800] iPhone7Plus
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A995333700] iPhoneSE
+[2022.10.31-22.37.38:768][203]LogDeviceProfile: Device profile begin destroy: [000002A99537D100] iPhone8
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995330B00] iPhone8Plus
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537E100] iPhoneX
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995331C00] iPhoneXS
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537C500] iPhoneXSMax
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995330100] iPhoneXR
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537F600] iPhone11
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995333E00] iPhone11Pro
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537EE00] iPhone11ProMax
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995333800] iPhoneSE2
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537DA00] iPhone12Mini
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995332100] iPhone12
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537D300] iPhone12Pro
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995330F00] iPhone12ProMax
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537E800] iPadPro105
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A995330C00] iPadPro129
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537E700] iPadPro97
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537E000] iPadPro2_129
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99539DF00] iPad5
+[2022.10.31-22.37.38:769][203]LogDeviceProfile: Device profile begin destroy: [000002A99537C700] iPad6
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99539EA00] iPad7
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99537D700] iPad8
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C200] iPadPro11
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99537E400] iPadPro2_11
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99539EE00] iPadPro3_129
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99537EA00] iPadPro4_129
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C700] AppleTV
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99537ED00] AppleTV4K
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C500] TVOS
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99537EC00] Mac
+[2022.10.31-22.37.38:770][203]LogDeviceProfile: Device profile begin destroy: [000002A99539CE00] MacClient
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995332200] MacNoEditor
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539E600] MacServer
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995332A00] Linux
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539D000] LinuxAArch64
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995331100] LinuxNoEditor
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C100] LinuxAArch64NoEditor
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995331400] LinuxClient
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C300] LinuxAArch64Client
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995333900] LinuxServer
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539F800] LinuxAArch64Server
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995333000] Android
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539DD00] Android_Low
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995332000] Android_Mid
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539FA00] Android_High
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995331800] Android_Default
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539F200] Android_Adreno4xx
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995333200] Android_Adreno5xx_Low
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C900] Android_Adreno5xx
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995333F00] Android_Adreno6xx
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539DA00] Android_Adreno6xx_Vulkan
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A995330200] Android_Mali_T6xx
+[2022.10.31-22.37.38:771][203]LogDeviceProfile: Device profile begin destroy: [000002A99539CF00] Android_Mali_T7xx
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995332C00] Android_Mali_T8xx
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539D900] Android_Mali_G71
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995331300] Android_Mali_G72
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539D800] Android_Mali_G72_Vulkan
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995330D00] Android_Mali_G76
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539FC00] Android_Mali_G76_Vulkan
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995330300] Android_Mali_G77
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539F300] Android_Mali_G77_Vulkan
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995332D00] Android_Vulkan_SM5
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539FF00] Android_PowerVR_G6xxx
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995331B00] Android_PowerVR_GT7xxx
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539C800] Android_PowerVR_GE8xxx
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995331F00] Android_PowerVR_GM9xxx
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539D600] Android_PowerVR_GM9xxx_Vulkan
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995331000] Android_TegraK1
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539F900] Android_Unknown_Vulkan
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995332400] Lumin
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A99539F100] Lumin_Desktop
+[2022.10.31-22.37.38:772][203]LogDeviceProfile: Device profile begin destroy: [000002A995332800] HoloLens
+[2022.10.31-22.37.38:795][203]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:804][203]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:814][203]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:823][203]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:829][203]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:835][203]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:842][203]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:851][203]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:858][203]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:863][203]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:867][203]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:873][203]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:878][203]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:887][203]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/] 
+[2022.10.31-22.37.38:972][203]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.31-22.37.38:985][203]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-22.37.38:985][203]LogExit: Editor shut down
+[2022.10.31-22.37.38:987][203]LogExit: Transaction tracking system shut down
+[2022.10.31-22.37.39:415][203]LogExit: Object subsystem successfully closed.
+[2022.10.31-22.37.39:445][203]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.31-22.37.39:498][203]LogModuleManager: Shutting down and abandoning module PinnedCommandList (826)
+[2022.10.31-22.37.39:499][203]LogModuleManager: Shutting down and abandoning module SkeletonEditor (824)
+[2022.10.31-22.37.39:499][203]LogModuleManager: Shutting down and abandoning module BlueprintGraph (822)
+[2022.10.31-22.37.39:499][203]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (820)
+[2022.10.31-22.37.39:499][203]LogModuleManager: Shutting down and abandoning module Voice (818)
+[2022.10.31-22.37.39:499][203]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.10.31-22.37.39:499][203]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2022.10.31-22.37.39:499][203]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (788)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2022.10.31-22.37.39:500][203]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (784)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (782)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (780)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (778)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (776)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module WebMMedia (774)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module PlanarCut (772)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (768)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (766)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (764)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (762)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module SequenceRecorder (761)
+[2022.10.31-22.37.39:501][203]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (754)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (752)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (750)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (748)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (746)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.10.31-22.37.39:502][203]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.10.31-22.37.39:503][203]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.10.31-22.37.39:503][203]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.10.31-22.37.39:503][203]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.10.31-22.37.39:503][203]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.10.31-22.37.39:503][203]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.10.31-22.37.39:503][203]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.10.31-22.37.39:504][203]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2022.10.31-22.37.41:392][203]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2022.10.31-22.37.41:392][203]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2022.10.31-22.37.41:392][203]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2022.10.31-22.37.41:392][203]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2022.10.31-22.37.41:392][203]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2022.10.31-22.37.41:392][203]MemoryProfiler: Shutdown
+[2022.10.31-22.37.41:392][203]NetworkingProfiler: Shutdown
+[2022.10.31-22.37.41:392][203]LoadingProfiler: Shutdown
+[2022.10.31-22.37.41:392][203]TimingProfiler: Shutdown
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2022.10.31-22.37.41:393][203]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2022.10.31-22.37.41:394][203]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2022.10.31-22.37.41:427][203]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2022.10.31-22.37.41:429][203]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2022.10.31-22.37.41:429][203]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2022.10.31-22.37.41:429][203]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2022.10.31-22.37.41:459][203]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2022.10.31-22.37.41:459][203]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2022.10.31-22.37.41:459][203]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2022.10.31-22.37.41:459][203]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2022.10.31-22.37.41:459][203]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2022.10.31-22.37.41:459][203]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2022.10.31-22.37.41:459][203]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2022.10.31-22.37.41:461][203]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2022.10.31-22.37.41:463][203]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2022.10.31-22.37.41:463][203]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2022.10.31-22.37.41:664][203]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2022.10.31-22.37.41:664][203]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2022.10.31-22.37.41:664][203]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2022.10.31-22.37.41:664][203]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2022.10.31-22.37.41:664][203]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2022.10.31-22.37.41:664][203]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2022.10.31-22.37.41:664][203]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module SynthesisEditor (548)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module Synthesis (546)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (544)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (542)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (540)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module GooglePAD (536)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module EditableMesh (534)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (532)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2022.10.31-22.37.41:665][203]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (520)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module AppleImageUtils (518)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module AndroidPermission (516)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module TemplateSequence (510)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (508)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MotoSynth (506)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module ImgMedia (504)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MediaCompositing (502)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MeshConversion (500)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module DynamicMesh (498)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (496)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometricObjects (494)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (492)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (491)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (488)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (486)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (484)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (482)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (480)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (478)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (476)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (474)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (472)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (470)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module ChaosNiagara (468)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module FractureEditor (466)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (465)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (462)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module BackChannel (460)
+[2022.10.31-22.37.41:666][203]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (458)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module AutomationUtils (456)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (454)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module AlembicImporter (452)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module AlembicLibrary (451)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module GeometryCache (450)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (449)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module UObjectPlugin (444)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (442)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (440)
+[2022.10.31-22.37.41:667][203]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (438)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (436)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module PluginUtils (434)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (432)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (430)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module GitSourceControl (428)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module SourceControl (427)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (424)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (422)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (420)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module CurveEditorTools (408)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (406)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module CryptoKeys (404)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2022.10.31-22.37.41:668][203]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2022.10.31-22.37.41:669][203]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2022.10.31-22.37.41:670][203]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2022.10.31-22.37.41:670][203]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2022.10.31-22.37.41:771][203]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2022.10.31-22.37.41:871][203]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2022.10.31-22.37.41:871][203]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2022.10.31-22.37.41:871][203]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.31-22.37.41:872][203]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2022.10.31-22.37.41:872][203]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2022.10.31-22.37.41:872][203]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2022.10.31-22.37.41:872][203]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (340)
+[2022.10.31-22.37.41:872][203]LogModuleManager: Shutting down and abandoning module Niagara (338)
+[2022.10.31-22.37.41:872][203]LogModuleManager: Shutting down and abandoning module SignalProcessing (337)
+[2022.10.31-22.37.41:872][203]LogModuleManager: Shutting down and abandoning module NiagaraEditor (335)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (330)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module AnimationSharing (328)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (326)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (324)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module FacialAnimation (322)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module DataValidation (320)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (318)
+[2022.10.31-22.37.41:873][203]LogModuleManager: Shutting down and abandoning module LevelEditor (317)
+[2022.10.31-22.37.41:875][203]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (316)
+[2022.10.31-22.37.41:875][203]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (314)
+[2022.10.31-22.37.41:875][203]LogModuleManager: Shutting down and abandoning module MainFrame (312)
+[2022.10.31-22.37.41:875][203]LogModuleManager: Shutting down and abandoning module HotReload (311)
+[2022.10.31-22.37.41:876][203]LogModuleManager: Shutting down and abandoning module ToolMenus (307)
+[2022.10.31-22.37.41:876][203]LogModuleManager: Shutting down and abandoning module ContentBrowser (305)
+[2022.10.31-22.37.41:876][203]LogModuleManager: Shutting down and abandoning module ContentBrowserData (304)
+[2022.10.31-22.37.41:876][203]LogModuleManager: Shutting down and abandoning module TreeMap (301)
+[2022.10.31-22.37.41:876][203]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (298)
+[2022.10.31-22.37.41:877][203]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2022.10.31-22.37.41:877][203]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.10.31-22.37.41:877][203]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.10.31-22.37.41:881][203]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.10.31-22.37.41:883][203]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.10.31-22.37.41:883][203]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.10.31-22.37.41:885][203]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.10.31-22.37.41:888][203]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.10.31-22.37.41:890][203]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.10.31-22.37.41:892][203]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.10.31-22.37.41:892][203]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.10.31-22.37.41:892][203]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.10.31-22.37.41:892][203]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.10.31-22.37.41:892][203]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.10.31-22.37.41:894][203]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.10.31-22.37.41:894][203]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.10.31-22.37.41:894][203]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.10.31-22.37.41:894][203]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.10.31-22.37.41:896][203]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.10.31-22.37.41:896][203]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.10.31-22.37.41:896][203]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.10.31-22.37.41:896][203]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.10.31-22.37.41:896][203]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.10.31-22.37.41:898][203]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.10.31-22.37.41:909][203]LogHMD: Freeing OpenVRDLLHandle.
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.10.31-22.37.41:909][203]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.10.31-22.37.41:913][203]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.10.31-22.37.41:913][203]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.10.31-22.37.41:929][203]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.10.31-22.37.41:929][203]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.10.31-22.37.41:929][203]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B79ED497E-4DB6-EA7B-F24D-B1BC7B9DDB82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=7aec3b9f40c23ade5fe69593bfb24217%7C%7C51eafca3-1501-4ffe-a02d-c48e69a102e4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.10.31-22.37.41:929][203]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.10.31-22.37.41:963][203]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.10.31-22.37.41:966][203]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.10.31-22.37.41:973][203]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.10.31-22.37.41:975][203]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.10.31-22.37.41:975][203]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.10.31-22.37.41:975][203]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.10.31-22.37.41:975][203]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.10.31-22.37.41:976][203]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.10.31-22.37.41:976][203]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.10.31-22.37.41:976][203]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.10.31-22.37.41:976][203]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.10.31-22.37.41:976][203]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.10.31-22.37.41:977][203]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.10.31-22.37.41:978][203]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.10.31-22.37.41:979][203]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.10.31-22.37.41:979][203]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.10.31-22.37.41:979][203]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.10.31-22.37.41:982][203]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.10.31-22.37.41:983][203]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.10.31-22.37.41:988][203]LogD3D11RHI: Shutdown
+[2022.10.31-22.37.41:988][203]LogD3D11RHI: CleanupD3DDevice
+[2022.10.31-22.37.42:022][203]LogExit: Exiting.
+[2022.10.31-22.37.42:060][203]Log file closed, 10/31/22 15:37:42
