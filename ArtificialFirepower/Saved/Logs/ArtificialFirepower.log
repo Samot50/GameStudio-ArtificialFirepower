@@ -12529,3 +12529,572 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.07-23.33.40:326][444]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
 [2022.11.07-23.33.40:373][445]LogPlayLevel: Display: Destroying online subsystem :Context_87
 [2022.11.07-23.33.44:323][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.11.07-23.36.55:454][339]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Look_At_Player.Look_At_Player
+[2022.11.07-23.37.05:699][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/RayCast.RayCast
+[2022.11.07-23.39.38:625][674]LogEditorTransaction: Undo Rename Node
+[2022.11.07-23.41.41:981][838]BlueprintLog: New page: Compile Gunner_Projectile
+[2022.11.07-23.41.42:060][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.11.07-23.41.50:131][631]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.07-23.41.50:139][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.07-23.41.50:139][631]PIE: New page: PIE session: Christopher (Nov 7, 2022, 7:41:50 AM)
+[2022.11.07-23.41.50:139][631]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.11.07-23.41.50:153][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014505s)
+[2022.11.07-23.41.50:155][631]LogAIModule: Creating AISystem for world Christopher
+[2022.11.07-23.41.50:155][631]LogPlayLevel: PIE: World Init took: (0.001741s)
+[2022.11.07-23.41.50:155][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.016461s)
+[2022.11.07-23.41.50:200][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.11.07-23.41.50:203][631]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2022.11.07-23.41.50:203][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-23.41.50:203][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-23.41.50:203][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-23.41.50:203][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-23.41.50:203][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-23.41.50:203][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.07-23.41.50:203][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-23.41.50:203][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-23.41.50:204][631]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.07-23.41.50:204][631]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.07-23.41.50:205][631]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.07-23.41.50:205][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-23.41.50:205][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-23.41.50:205][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-23.41.50:206][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.07-23.41.50:206][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.07-23.41.50:206][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.07-23.41.50:208][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.07-23.41.50:208][631]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.07-23.41.50:209][631]LogInit: FAudioDevice initialized.
+[2022.11.07-23.41.50:209][631]LogAudio: Display: Audio Device (ID: 64) registered with world 'Christopher'.
+[2022.11.07-23.41.50:217][631]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.07-23.41.50:222][631]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.11.07-15.41.50
+[2022.11.07-23.41.50:224][631]LogWorld: Bringing up level for play took: 0.006246
+[2022.11.07-23.41.50:225][631]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2022.11.07-23.41.50:232][631]PIE: Server logged in
+[2022.11.07-23.41.50:233][631]PIE: Play in editor total start time 0.098 seconds.
+[2022.11.07-23.41.50:284][632]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.50:547][659]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.50:775][686]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.51:017][715]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.51:244][742]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.51:492][770]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.51:716][797]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.51:964][826]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.52:199][853]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.52:451][882]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.52:683][909]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.52:924][938]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.53:150][965]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.53:394][994]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.53:625][ 21]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.53:874][ 49]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.54:106][ 76]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.54:347][105]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.54:575][131]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.54:827][160]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.55:060][187]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.55:306][216]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.55:532][242]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.55:779][270]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.56:003][297]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.56:250][326]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.56:482][353]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.56:729][382]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.56:960][409]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.57:209][438]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.57:435][465]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.57:679][493]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.57:905][520]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.58:161][549]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.58:386][576]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.58:630][605]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.58:855][632]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.59:103][661]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.59:331][688]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.59:581][717]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.41.59:811][744]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.00:052][773]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.00:283][800]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.00:526][829]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.00:751][856]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.00:993][885]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.01:222][912]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.01:469][941]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.01:701][968]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.01:943][997]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.02:168][ 24]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.02:415][ 53]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.02:643][ 80]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.02:888][109]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.03:118][136]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.03:360][165]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.03:587][191]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.03:829][220]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.04:058][247]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.04:300][276]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.04:529][302]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.04:597][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-23.42.04:597][304]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.11.07-23.42.04:597][304]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-23.42.04:600][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-23.42.04:616][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.07-23.42.04:640][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-23.42.04:700][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-23.42.04:700][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-23.42.04:702][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-23.42.04:702][304]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.07-23.42.04:729][304]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2022.11.07-23.42.04:778][305]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2022.11.07-23.42.16:359][236]BlueprintLog: New page: Compile Gunner_Projectile
+[2022.11.07-23.42.16:422][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.11.07-23.42.19:936][539]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.07-23.42.19:943][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.07-23.42.19:943][539]PIE: New page: PIE session: Christopher (Nov 7, 2022, 7:42:19 AM)
+[2022.11.07-23.42.19:983][539]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.11.07-23.42.20:000][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016858s)
+[2022.11.07-23.42.20:001][539]LogAIModule: Creating AISystem for world Christopher
+[2022.11.07-23.42.20:002][539]LogPlayLevel: PIE: World Init took: (0.001764s)
+[2022.11.07-23.42.20:002][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Christopher.Christopher to /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher (0.018941s)
+[2022.11.07-23.42.20:052][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.11.07-23.42.20:055][539]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-23.42.20:055][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-23.42.20:055][539]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.07-23.42.20:055][539]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.07-23.42.20:056][539]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.07-23.42.20:057][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-23.42.20:057][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-23.42.20:057][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-23.42.20:057][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.07-23.42.20:057][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.07-23.42.20:057][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.07-23.42.20:057][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.07-23.42.20:058][539]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.07-23.42.20:058][539]LogInit: FAudioDevice initialized.
+[2022.11.07-23.42.20:058][539]LogAudio: Display: Audio Device (ID: 65) registered with world 'Christopher'.
+[2022.11.07-23.42.20:065][539]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.07-23.42.20:068][539]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher.Christopher up for play (max tick rate 0) at 2022.11.07-15.42.20
+[2022.11.07-23.42.20:068][539]LogWorld: Bringing up level for play took: 0.002696
+[2022.11.07-23.42.20:069][539]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2022.11.07-23.42.20:075][539]PIE: Server logged in
+[2022.11.07-23.42.20:076][539]PIE: Play in editor total start time 0.136 seconds.
+[2022.11.07-23.42.20:114][540]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.20:356][569]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.20:590][595]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.20:843][624]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.21:071][651]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.21:313][680]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.21:541][707]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.21:787][736]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.22:024][763]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.22:267][791]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.22:299][795]LogBlueprintUserMessages: [Gunner_Projectile_C_0] ThePlayerHasBeenHit
+[2022.11.07-23.42.22:492][818]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.22:739][847]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.22:747][848]LogBlueprintUserMessages: [Gunner_Projectile_C_1] ThePlayerHasBeenHit
+[2022.11.07-23.42.22:971][874]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.23:218][903]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.23:226][904]LogBlueprintUserMessages: [Gunner_Projectile_C_2] ThePlayerHasBeenHit
+[2022.11.07-23.42.23:446][929]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.23:695][958]LogBlueprintUserMessages: [Gunner_Projectile_C_3] ThePlayerHasBeenHit
+[2022.11.07-23.42.23:696][958]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.23:920][985]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.24:168][ 13]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.24:176][ 14]LogBlueprintUserMessages: [Gunner_Projectile_C_4] ThePlayerHasBeenHit
+[2022.11.07-23.42.24:403][ 40]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.24:644][ 69]LogBlueprintUserMessages: [Gunner_Projectile_C_5] ThePlayerHasBeenHit
+[2022.11.07-23.42.24:645][ 69]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.24:872][ 96]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.25:120][125]LogBlueprintUserMessages: [Gunner_Projectile_C_6] ThePlayerHasBeenHit
+[2022.11.07-23.42.25:120][125]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.25:355][152]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.25:595][180]LogBlueprintUserMessages: [Gunner_Projectile_C_7] ThePlayerHasBeenHit
+[2022.11.07-23.42.25:604][181]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.25:828][208]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.26:076][237]LogBlueprintUserMessages: [Gunner_Projectile_C_8] ThePlayerHasBeenHit
+[2022.11.07-23.42.26:077][237]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.26:302][264]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.26:542][292]LogBlueprintUserMessages: [Gunner_Projectile_C_9] ThePlayerHasBeenHit
+[2022.11.07-23.42.26:551][293]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.26:782][319]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.26:798][321]LogBlueprintUserMessages: [Gunner_Projectile_C_10] ThePlayerHasBeenHit
+[2022.11.07-23.42.27:015][347]LogBlueprintUserMessages: [Gunner_Projectile_C_11] ThePlayerHasBeenHit
+[2022.11.07-23.42.27:024][348]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.27:232][372]LogBlueprintUserMessages: [Gunner_Projectile_C_12] ThePlayerHasBeenHit
+[2022.11.07-23.42.27:249][374]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.27:451][398]LogBlueprintUserMessages: [Gunner_Projectile_C_13] ThePlayerHasBeenHit
+[2022.11.07-23.42.27:492][403]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.27:726][430]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.27:901][450]LogBlueprintUserMessages: [Gunner_Projectile_C_14] ThePlayerHasBeenHit
+[2022.11.07-23.42.27:972][458]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.28:203][485]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.28:373][505]LogBlueprintUserMessages: [Gunner_Projectile_C_15] ThePlayerHasBeenHit
+[2022.11.07-23.42.28:449][513]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.28:677][540]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.28:852][561]LogBlueprintUserMessages: [Gunner_Projectile_C_16] ThePlayerHasBeenHit
+[2022.11.07-23.42.28:919][569]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.29:150][596]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.29:322][616]LogBlueprintUserMessages: [Gunner_Projectile_C_17] ThePlayerHasBeenHit
+[2022.11.07-23.42.29:396][624]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.29:629][651]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.29:799][671]LogBlueprintUserMessages: [Gunner_Projectile_C_18] ThePlayerHasBeenHit
+[2022.11.07-23.42.29:874][680]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.30:101][707]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.30:276][728]LogBlueprintUserMessages: [Gunner_Projectile_C_19] ThePlayerHasBeenHit
+[2022.11.07-23.42.30:343][736]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.30:575][763]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.30:760][784]LogBlueprintUserMessages: [Gunner_Projectile_C_20] ThePlayerHasBeenHit
+[2022.11.07-23.42.30:819][791]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.31:053][818]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.31:228][838]LogBlueprintUserMessages: [Gunner_Projectile_C_21] ThePlayerHasBeenHit
+[2022.11.07-23.42.31:302][847]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.31:538][873]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.31:784][902]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.32:009][929]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.32:252][958]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.32:483][985]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.32:735][ 14]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.32:959][ 41]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.33:159][ 64]LogBlueprintUserMessages: [Gunner_Projectile_C_25] ThePlayerHasBeenHit
+[2022.11.07-23.42.33:202][ 69]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.33:428][ 96]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.33:675][125]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.33:909][151]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.34:155][180]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.34:381][207]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.34:626][236]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.34:859][262]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.34:867][263]LogBlueprintUserMessages: [Gunner_Projectile_C_28] ThePlayerHasBeenHit
+[2022.11.07-23.42.35:104][291]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.35:330][318]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.35:346][320]LogBlueprintUserMessages: [Gunner_Projectile_C_29] ThePlayerHasBeenHit
+[2022.11.07-23.42.35:576][346]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.35:807][373]LogBlueprintUserMessages: [Gunner_Projectile_C_30] ThePlayerHasBeenHit
+[2022.11.07-23.42.35:807][373]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.36:056][402]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.36:284][428]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.36:300][430]LogBlueprintUserMessages: [Gunner_Projectile_C_31] ThePlayerHasBeenHit
+[2022.11.07-23.42.36:532][457]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.36:753][482]LogBlueprintUserMessages: [Gunner_Projectile_C_32] ThePlayerHasBeenHit
+[2022.11.07-23.42.36:762][483]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.37:009][510]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.37:234][537]LogBlueprintUserMessages: [Gunner_Projectile_C_33] ThePlayerHasBeenHit
+[2022.11.07-23.42.37:235][537]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.37:478][566]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.37:709][593]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.37:717][594]LogBlueprintUserMessages: [Gunner_Projectile_C_34] ThePlayerHasBeenHit
+[2022.11.07-23.42.37:959][622]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.38:185][648]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.38:210][651]LogBlueprintUserMessages: [Gunner_Projectile_C_35] ThePlayerHasBeenHit
+[2022.11.07-23.42.38:435][678]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.38:658][704]LogBlueprintUserMessages: [Gunner_Projectile_C_36] ThePlayerHasBeenHit
+[2022.11.07-23.42.38:667][705]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.38:915][734]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.39:133][760]LogBlueprintUserMessages: [Gunner_Projectile_C_37] ThePlayerHasBeenHit
+[2022.11.07-23.42.39:150][762]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.39:395][791]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.39:620][818]LogBlueprintUserMessages: [Gunner_Projectile_C_38] ThePlayerHasBeenHit
+[2022.11.07-23.42.39:628][819]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.39:877][848]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.40:099][874]LogBlueprintUserMessages: [Gunner_Projectile_C_39] ThePlayerHasBeenHit
+[2022.11.07-23.42.40:107][875]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.40:357][905]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.40:583][931]LogBlueprintUserMessages: [Gunner_Projectile_C_40] ThePlayerHasBeenHit
+[2022.11.07-23.42.40:583][931]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.40:833][961]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.41:062][987]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.41:073][988]LogBlueprintUserMessages: [Gunner_Projectile_C_41] ThePlayerHasBeenHit
+[2022.11.07-23.42.41:309][ 15]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.41:539][ 42]LogBlueprintUserMessages: [Gunner_Projectile_C_42] ThePlayerHasBeenHit
+[2022.11.07-23.42.41:539][ 42]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.41:785][ 70]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.42:009][ 97]LogBlueprintUserMessages: [Gunner_Projectile_C_43] ThePlayerHasBeenHit
+[2022.11.07-23.42.42:018][ 98]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.42:264][126]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.42:544][153]LogBlueprintUserMessages: [Gunner_Projectile_C_44] ThePlayerHasBeenHit
+[2022.11.07-23.42.42:545][153]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.42:786][182]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.42:845][189]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.11.07-23.42.43:016][209]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.43:268][239]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.11.07-23.42.43:269][239]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.43:500][267]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.43:619][281]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat97.0Battery
+[2022.11.07-23.42.43:743][295]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.43:968][321]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat96.0Battery
+[2022.11.07-23.42.43:975][322]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.44:217][351]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.44:328][363]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 50.0Heat95.0Battery
+[2022.11.07-23.42.44:445][377]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.44:692][405]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.44:763][413]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 60.0Heat94.0Battery
+[2022.11.07-23.42.44:920][431]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.45:142][457]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.0Heat93.0Battery
+[2022.11.07-23.42.45:166][460]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.45:399][488]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.45:551][506]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.0Heat92.0Battery
+[2022.11.07-23.42.45:641][516]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.45:875][544]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.46:119][573]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.46:347][599]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.46:355][600]LogBlueprintUserMessages: [Gunner_Projectile_C_52] ThePlayerHasBeenHit
+[2022.11.07-23.42.46:591][627]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.46:820][654]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.46:836][656]LogBlueprintUserMessages: [Gunner_Projectile_C_53] ThePlayerHasBeenHit
+[2022.11.07-23.42.47:062][682]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.47:290][709]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.47:307][711]LogBlueprintUserMessages: [Gunner_Projectile_C_54] ThePlayerHasBeenHit
+[2022.11.07-23.42.47:535][738]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.47:769][765]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.47:786][767]LogBlueprintUserMessages: [Gunner_Projectile_C_55] ThePlayerHasBeenHit
+[2022.11.07-23.42.48:011][794]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.48:242][821]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.48:259][823]LogBlueprintUserMessages: [Gunner_Projectile_C_56] ThePlayerHasBeenHit
+[2022.11.07-23.42.48:489][850]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.48:719][876]LogBlueprintUserMessages: [Gunner_Projectile_C_57] ThePlayerHasBeenHit
+[2022.11.07-23.42.48:719][876]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.48:960][905]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.49:002][910]LogBlueprintUserMessages: [Gunner_Projectile_C_58] ThePlayerHasBeenHit
+[2022.11.07-23.42.49:186][931]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.49:236][936]LogBlueprintUserMessages: [Gunner_Projectile_C_59] ThePlayerHasBeenHit
+[2022.11.07-23.42.49:436][960]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.49:455][962]LogBlueprintUserMessages: [Gunner_Projectile_C_60] ThePlayerHasBeenHit
+[2022.11.07-23.42.49:671][987]LogBlueprintUserMessages: [Gunner_Projectile_C_61] ThePlayerHasBeenHit
+[2022.11.07-23.42.49:671][987]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.49:921][ 16]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.50:027][ 28]LogBlueprintUserMessages: [Gunner_Projectile_C_62] ThePlayerHasBeenHit
+[2022.11.07-23.42.50:152][ 43]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.50:395][ 72]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.50:635][100]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.50:876][129]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.51:103][155]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.51:352][184]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.51:581][209]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.51:837][238]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.51:975][254]LogBlueprintUserMessages: [Gunner_Projectile_C_63] ThePlayerHasBeenHit
+[2022.11.07-23.42.52:067][265]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.52:315][292]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.52:552][319]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.52:800][348]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.53:028][374]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.53:273][402]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.53:497][429]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.53:740][458]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.53:965][485]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.54:087][499]LogBlueprintUserMessages: [Gunner_Projectile_C_64] ThePlayerHasBeenHit
+[2022.11.07-23.42.54:213][514]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.54:439][541]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.54:690][570]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.54:925][597]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.55:117][620]LogBlueprintUserMessages: [Gunner_Projectile_C_67] ThePlayerHasBeenHit
+[2022.11.07-23.42.55:168][626]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.55:401][653]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.55:656][681]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.55:886][708]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.56:134][737]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.56:359][764]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.56:602][793]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.56:831][820]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.57:077][848]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.57:305][874]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.57:432][889]LogBlueprintUserMessages: [Gunner_Projectile_C_74] ThePlayerHasBeenHit
+[2022.11.07-23.42.57:550][903]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.57:776][928]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.58:020][957]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.58:248][983]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.58:495][ 12]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.58:728][ 38]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.58:976][ 66]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.59:209][ 93]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.59:452][122]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.59:676][149]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.42.59:928][177]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.00:160][203]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.00:410][232]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.00:642][259]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.00:891][287]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.01:120][314]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.01:371][342]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.01:602][368]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.01:852][396]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.02:084][422]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.02:333][451]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.02:560][478]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.02:809][507]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.03:040][534]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.03:285][563]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.03:515][589]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.03:759][618]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.03:984][645]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.04:226][672]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.04:452][699]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.04:708][728]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.04:934][753]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.05:177][780]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.05:402][806]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.05:473][814]LogBlueprintUserMessages: [Gunner_Projectile_C_94] ThePlayerHasBeenHit
+[2022.11.07-23.43.05:655][835]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.05:885][862]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.06:137][891]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.06:363][918]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.06:607][946]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.06:833][972]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.07:079][  0]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.07:312][ 25]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.07:659][ 66]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.07:962][102]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.08:211][132]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.08:443][158]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.08:680][185]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.08:911][212]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.09:146][240]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.09:379][267]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.09:613][295]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.09:848][322]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.10:090][350]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.10:321][377]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.10:559][404]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.10:791][430]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.11:031][458]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.11:255][484]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.11:493][510]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.11:723][536]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.11:963][564]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.12:192][591]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.12:429][618]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.12:660][645]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.12:901][673]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.13:134][699]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.13:376][728]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.13:607][753]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.13:854][781]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.14:080][808]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.14:328][837]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.14:557][864]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.14:804][893]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.15:029][919]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.15:278][948]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.15:476][970]LogBlueprintUserMessages: [Gunner_Projectile_C_114] ThePlayerHasBeenHit
+[2022.11.07-23.43.15:510][974]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.15:763][  2]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.15:881][ 16]LogBlueprintUserMessages: [Gunner_Projectile_C_115] ThePlayerHasBeenHit
+[2022.11.07-23.43.15:997][ 29]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.16:246][ 57]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.16:346][ 69]LogBlueprintUserMessages: [Gunner_Projectile_C_116] ThePlayerHasBeenHit
+[2022.11.07-23.43.16:470][ 84]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.16:716][112]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.16:826][125]LogBlueprintUserMessages: [Gunner_Projectile_C_117] ThePlayerHasBeenHit
+[2022.11.07-23.43.16:950][139]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.17:198][168]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.17:343][185]LogBlueprintUserMessages: [Gunner_Projectile_C_118] ThePlayerHasBeenHit
+[2022.11.07-23.43.17:427][195]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.17:669][223]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.17:803][239]LogBlueprintUserMessages: [Gunner_Projectile_C_119] ThePlayerHasBeenHit
+[2022.11.07-23.43.17:895][250]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.18:140][278]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.18:273][294]LogBlueprintUserMessages: [Gunner_Projectile_C_120] ThePlayerHasBeenHit
+[2022.11.07-23.43.18:369][305]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.18:611][334]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.18:839][361]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.18:856][363]LogBlueprintUserMessages: [Gunner_Projectile_C_121] ThePlayerHasBeenHit
+[2022.11.07-23.43.19:088][390]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.19:251][409]LogBlueprintUserMessages: [Gunner_Projectile_C_122] ThePlayerHasBeenHit
+[2022.11.07-23.43.19:318][417]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.19:572][446]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.19:691][460]LogBlueprintUserMessages: [Gunner_Projectile_C_123] ThePlayerHasBeenHit
+[2022.11.07-23.43.19:801][471]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.20:058][498]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.20:165][510]LogBlueprintUserMessages: [Gunner_Projectile_C_124] ThePlayerHasBeenHit
+[2022.11.07-23.43.20:290][525]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.20:539][553]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.20:642][565]LogBlueprintUserMessages: [Gunner_Projectile_C_125] ThePlayerHasBeenHit
+[2022.11.07-23.43.20:770][580]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.21:019][609]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.21:246][636]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.21:353][649]LogBlueprintUserMessages: [Gunner_Projectile_C_126] ThePlayerHasBeenHit
+[2022.11.07-23.43.21:487][665]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.21:720][692]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.21:829][705]LogBlueprintUserMessages: [Gunner_Projectile_C_127] ThePlayerHasBeenHit
+[2022.11.07-23.43.21:971][721]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.22:203][748]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.22:452][776]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.22:684][803]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.22:833][820]LogBlueprintUserMessages: [Gunner_Projectile_C_129] ThePlayerHasBeenHit
+[2022.11.07-23.43.22:931][831]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.23:163][857]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.23:414][884]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.23:463][890]LogBlueprintUserMessages: [Gunner_Projectile_C_130] ThePlayerHasBeenHit
+[2022.11.07-23.43.23:644][911]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.23:891][939]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.24:129][967]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.24:270][984]LogBlueprintUserMessages: [Gunner_Projectile_C_132] ThePlayerHasBeenHit
+[2022.11.07-23.43.24:379][997]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.24:606][ 24]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.24:745][ 39]LogBlueprintUserMessages: [Gunner_Projectile_C_133] ThePlayerHasBeenHit
+[2022.11.07-23.43.24:862][ 53]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.25:088][ 78]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.25:331][105]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.25:563][132]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.25:803][160]LogBlueprintUserMessages: [Gunner_Projectile_C_134] ThePlayerHasBeenHit
+[2022.11.07-23.43.25:812][161]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.26:040][188]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.26:283][216]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.26:522][242]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.26:765][271]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.26:995][298]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.27:246][327]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.27:481][354]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.27:723][382]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.27:950][408]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.28:194][437]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.28:423][463]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.28:667][491]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.28:898][517]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.29:165][547]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.29:410][575]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.29:637][600]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.29:894][628]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.30:132][655]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.30:380][684]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.30:612][711]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.30:861][740]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.31:092][767]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.31:334][795]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.31:565][822]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.31:811][851]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.32:045][877]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.32:288][904]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.32:526][931]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.32:777][959]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.33:008][985]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.33:256][ 14]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.33:490][ 41]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.33:741][ 70]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.33:973][ 96]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.34:023][102]LogBlueprintUserMessages: [Gunner_Projectile_C_153] ThePlayerHasBeenHit
+[2022.11.07-23.43.34:222][123]LogBlueprintUserMessages: [RayCast_C_0] see
+[2022.11.07-23.43.34:395][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-23.43.34:395][139]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Christopher
+[2022.11.07-23.43.34:397][139]LogWorld: UWorld::CleanupWorld for Christopher, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-23.43.34:400][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-23.43.34:418][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.07-23.43.34:464][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-23.43.34:520][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-23.43.34:522][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-23.43.34:524][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.07-23.43.34:524][139]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.07-23.43.34:549][139]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2022.11.07-23.43.34:612][140]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2022.11.07-23.43.39:352][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.11.07-23.43.39:427][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.11.07-23.43.39:448][645]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/ChristopherC55B66AE4B69431476CE9FA86D289A5E.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/Christopher.umap'
+[2022.11.07-23.43.39:454][645]LogFileHelpers: Saving map 'Christopher' took 0.079
+[2022.11.07-23.43.39:500][645]LogSavePackage: Moving '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gunner_Projectile6F64AFE646D70575CDDB51AB8519F98F.tmp' to '../../../../../../Users/cmichaelis/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Gunner_Projectile.uasset'
+[2022.11.07-23.43.39:514][645]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-23.43.39:514][645]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Christopher.Christopher
+[2022.11.07-23.43.39:515][645]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Christoper/FirstPersonBP/Gunner_Projectile.Gunner_Projectile
