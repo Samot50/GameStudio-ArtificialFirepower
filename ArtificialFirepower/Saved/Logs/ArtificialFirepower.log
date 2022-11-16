@@ -834,3 +834,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.16-22.15.20:008][709]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/John_TestChar_264F528634533CAF5D016C9BC14BFB375.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/John_TestChar_2.uasset'
 [2022.11.16-22.15.20:032][709]AssetCheck: New page: Asset Save: John_TestChar_2
 [2022.11.16-22.15.20:033][709]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/John_TestChar_2.John_TestChar_2
+[2022.11.16-22.23.57:150][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.11.16-22.23.57:156][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.043
+[2022.11.16-22.23.57:157][674]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/John_TestChar_2] ([1] browsable assets)...
+[2022.11.16-22.23.57:157][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/John_TestChar_2]
+[2022.11.16-22.23.57:228][674]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/John_TestChar_2_Auto18A1284B147FCBE295A287883B5B75537.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Autosaves/Game/FirstPersonBP/Blueprints/John_TestChar_2_Auto1.uasset'
+[2022.11.16-22.23.57:229][674]LogFileHelpers: Auto-saving content packages took 0.073
+[2022.11.16-22.27.52:331][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Sniper_Test_John_Child.Gun_Sniper_Test_John_Child
