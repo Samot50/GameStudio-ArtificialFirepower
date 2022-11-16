@@ -841,3 +841,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.16-22.23.57:228][674]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/John_TestChar_2_Auto18A1284B147FCBE295A287883B5B75537.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Autosaves/Game/FirstPersonBP/Blueprints/John_TestChar_2_Auto1.uasset'
 [2022.11.16-22.23.57:229][674]LogFileHelpers: Auto-saving content packages took 0.073
 [2022.11.16-22.27.52:331][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Sniper_Test_John_Child.Gun_Sniper_Test_John_Child
+[2022.11.16-22.58.23:040][904]BlueprintLog: New page: Compile John_TestChar_2
+[2022.11.16-22.58.23:127][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.11.16-22.58.23:830][930]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/John_TestChar_2866B41E0411BC394FE3256B4D00D3989.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/John_TestChar_2.uasset'
+[2022.11.16-22.58.23:860][930]AssetCheck: New page: Asset Save: John_TestChar_2
+[2022.11.16-22.58.23:860][930]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/John_TestChar_2.John_TestChar_2
+[2022.11.16-23.05.38:919][887]BlueprintLog: New page: Compile John_TestChar_2
+[2022.11.16-23.05.39:024][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.11.16-23.05.39:651][924]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/John_TestChar_2D3A704504644A23C4CB2078486FCE81C.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/John_TestChar_2.uasset'
+[2022.11.16-23.05.39:677][924]AssetCheck: New page: Asset Save: John_TestChar_2
+[2022.11.16-23.05.39:677][924]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/John_TestChar_2.John_TestChar_2
