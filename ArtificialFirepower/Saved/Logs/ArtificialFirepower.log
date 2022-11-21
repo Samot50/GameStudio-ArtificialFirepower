@@ -814,3 +814,1523 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.21-22.19.44:005][132]LogSlate: Window 'Gun_Test_John' being destroyed
 [2022.11.21-22.19.44:007][132]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2022.11.21-22.19.44:008][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.20.43:057][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.11.21-22.27.37:162][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.11.21-22.27.37:164][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.039
+[2022.11.21-22.27.37:165][532]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Gun_Test_John] ([1] browsable assets)...
+[2022.11.21-22.27.37:175][532]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John]
+[2022.11.21-22.27.37:175][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Gun_Test_John]
+[2022.11.21-22.27.37:287][532]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John_Auto131A81EC04B4D4EA0C4C4E1B512567F9E.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Gun_Test_John_Auto1.uasset'
+[2022.11.21-22.27.37:290][532]LogFileHelpers: Auto-saving content packages took 0.126
+[2022.11.21-22.31.07:713][338]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John0F7D1113441C13F97A8C238829C05459.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.11.21-22.31.07:736][338]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.11.21-22.31.07:736][338]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.11.21-22.31.08:110][362]BlueprintLog: New page: Compile Gun_Test_John
+[2022.11.21-22.31.08:201][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.11.21-22.31.40:575][910]BlueprintLog: New page: Compile Gun_Test_John
+[2022.11.21-22.31.40:679][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.11.21-22.31.41:167][931]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John1670A0CD44BEE49512FC438E19E89F8A.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.11.21-22.31.41:187][931]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.11.21-22.31.41:187][931]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.11.21-22.33.31:648][449]BlueprintLog: New page: Compile Gun_Test_John
+[2022.11.21-22.33.31:754][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.11.21-22.33.32:785][511]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John5F87CA5848AB1186CD4B569136EFA1BE.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.11.21-22.33.32:805][511]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.11.21-22.33.32:805][511]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.11.21-22.33.34:170][624]LogSlate: Window 'Gun_Test_John' being destroyed
+[2022.11.21-22.33.34:175][624]LogSlate: Window 'Gun_Test_John' being destroyed
+[2022.11.21-22.33.34:180][624]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.33.34:180][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.33.35:322][735]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.21-22.33.35:328][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.21-22.33.35:328][735]PIE: New page: PIE session: FirstPersonExampleMap (Nov 21, 2022, 6:33:35 AM)
+[2022.11.21-22.33.35:330][735]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.11.21-22.33.35:331][735]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.21-22.33.35:331][735]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.33.35:356][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024993s)
+[2022.11.21-22.33.35:357][735]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.21-22.33.35:358][735]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2022.11.21-22.33.35:358][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026677s)
+[2022.11.21-22.33.35:381][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.11.21-22.33.35:382][735]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.21-22.33.35:382][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.21-22.33.35:382][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.21-22.33.35:382][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.21-22.33.35:382][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.21-22.33.35:383][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.21-22.33.35:383][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.21-22.33.35:383][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.21-22.33.35:383][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.21-22.33.35:383][735]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.21-22.33.35:383][735]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.21-22.33.35:384][735]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.21-22.33.35:385][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.21-22.33.35:385][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.21-22.33.35:385][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.21-22.33.35:385][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.21-22.33.35:385][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.21-22.33.35:385][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.21-22.33.35:386][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.21-22.33.35:386][735]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.21-22.33.35:387][735]LogInit: FAudioDevice initialized.
+[2022.11.21-22.33.35:387][735]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2022.11.21-22.33.35:398][735]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.21-22.33.35:402][735]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.21-14.33.35
+[2022.11.21-22.33.35:403][735]LogWorld: Bringing up level for play took: 0.001733
+[2022.11.21-22.33.35:403][735]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.11.21-22.33.35:414][735]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.11.21-22.33.35:435][735]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.21-22.33.35:435][735]PIE: Server logged in
+[2022.11.21-22.33.35:436][735]PIE: Play in editor total start time 0.108 seconds.
+[2022.11.21-22.33.35:889][737]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.11.21-22.33.35:899][737]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064115 > MaxSimulationTimeStep (0.050) for 'John_TestChar_2_C_0', movement 'Walking'
+[2022.11.21-22.33.36:029][741]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.33.36:057][743]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.33.36:082][745]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.33.36:110][747]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.33.36:135][750]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.33.36:160][753]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.33.36:185][756]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.33.36:216][759]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.33.36:241][762]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.33.36:272][765]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.33.36:295][767]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.33.36:321][770]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.33.36:347][773]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.33.36:372][776]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 2.5
+[2022.11.21-22.33.36:383][777]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 13.0Heat98.0Battery
+[2022.11.21-22.33.36:398][779]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 12.0
+[2022.11.21-22.33.36:872][833]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 22.5Heat97.0Battery
+[2022.11.21-22.33.37:450][898]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.5
+[2022.11.21-22.33.37:476][901]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.0
+[2022.11.21-22.33.37:502][904]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.5
+[2022.11.21-22.33.37:526][907]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.0
+[2022.11.21-22.33.37:551][910]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.5
+[2022.11.21-22.33.37:576][913]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.0
+[2022.11.21-22.33.37:601][916]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.5
+[2022.11.21-22.33.37:626][919]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.0
+[2022.11.21-22.33.37:655][922]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.5
+[2022.11.21-22.33.37:679][925]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.0
+[2022.11.21-22.33.37:707][928]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.5
+[2022.11.21-22.33.37:732][931]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.0
+[2022.11.21-22.33.37:757][934]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.5
+[2022.11.21-22.33.37:782][937]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.0
+[2022.11.21-22.33.37:804][939]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.5
+[2022.11.21-22.33.37:829][942]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.0
+[2022.11.21-22.33.37:855][945]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.5
+[2022.11.21-22.33.37:880][948]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.0
+[2022.11.21-22.33.37:908][951]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 23.5Heat96.0Battery
+[2022.11.21-22.33.37:909][951]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.5
+[2022.11.21-22.33.38:445][ 13]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.0
+[2022.11.21-22.33.38:469][ 16]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.5
+[2022.11.21-22.33.38:494][ 19]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.0
+[2022.11.21-22.33.38:516][ 21]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 31.5Heat95.0Battery
+[2022.11.21-22.33.38:517][ 21]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.5
+[2022.11.21-22.33.38:861][ 61]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.0
+[2022.11.21-22.33.38:882][ 63]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.5
+[2022.11.21-22.33.38:894][ 64]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat94.0Battery
+[2022.11.21-22.33.38:902][ 65]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 39.0
+[2022.11.21-22.33.39:239][104]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.5
+[2022.11.21-22.33.39:266][107]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 49.0Heat93.0Battery
+[2022.11.21-22.33.39:266][107]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 48.0
+[2022.11.21-22.33.39:610][146]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 47.5
+[2022.11.21-22.33.39:634][149]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 47.0
+[2022.11.21-22.33.39:660][152]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 46.5
+[2022.11.21-22.33.39:685][155]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 46.0
+[2022.11.21-22.33.39:709][158]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 45.5
+[2022.11.21-22.33.39:735][161]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 45.0
+[2022.11.21-22.33.39:763][164]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 44.5
+[2022.11.21-22.33.39:790][167]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 55.0Heat92.0Battery
+[2022.11.21-22.33.39:791][167]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 54.0
+[2022.11.21-22.33.40:117][205]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 53.5
+[2022.11.21-22.33.40:136][207]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 64.0Heat91.0Battery
+[2022.11.21-22.33.40:144][208]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 63.0
+[2022.11.21-22.33.40:318][227]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.11.21-22.33.40:494][246]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 62.5
+[2022.11.21-22.33.40:518][248]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 62.0
+[2022.11.21-22.33.40:544][251]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 61.5
+[2022.11.21-22.33.40:568][253]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 61.0
+[2022.11.21-22.33.40:595][256]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 60.5
+[2022.11.21-22.33.40:620][259]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 60.0
+[2022.11.21-22.33.40:651][262]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 59.5
+[2022.11.21-22.33.40:678][265]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 59.0
+[2022.11.21-22.33.40:700][267]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 58.5
+[2022.11.21-22.33.40:725][270]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 58.0
+[2022.11.21-22.33.40:750][273]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 57.5
+[2022.11.21-22.33.40:777][276]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 57.0
+[2022.11.21-22.33.40:802][279]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 56.5
+[2022.11.21-22.33.40:827][282]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 56.0
+[2022.11.21-22.33.40:828][282]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.11.21-22.33.40:853][285]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 55.5
+[2022.11.21-22.33.40:878][288]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 55.0
+[2022.11.21-22.33.40:879][288]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.11.21-22.33.40:902][291]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 54.5
+[2022.11.21-22.33.40:928][294]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 54.0
+[2022.11.21-22.33.40:929][294]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat97.0Battery
+[2022.11.21-22.33.40:953][297]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 53.5
+[2022.11.21-22.33.40:978][300]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 53.0
+[2022.11.21-22.33.40:979][300]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat96.0Battery
+[2022.11.21-22.33.41:003][303]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 52.5
+[2022.11.21-22.33.41:029][306]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 52.0
+[2022.11.21-22.33.41:030][306]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat95.0Battery
+[2022.11.21-22.33.41:054][309]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 51.5
+[2022.11.21-22.33.41:079][312]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 51.0
+[2022.11.21-22.33.41:080][312]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat94.0Battery
+[2022.11.21-22.33.41:102][314]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 50.5
+[2022.11.21-22.33.41:123][316]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 50.0
+[2022.11.21-22.33.41:132][317]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat93.0Battery
+[2022.11.21-22.33.41:148][319]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 49.5
+[2022.11.21-22.33.41:176][322]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 49.0
+[2022.11.21-22.33.41:178][322]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat92.0Battery
+[2022.11.21-22.33.41:204][325]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 48.5
+[2022.11.21-22.33.41:229][328]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 48.0
+[2022.11.21-22.33.41:254][331]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 47.5
+[2022.11.21-22.33.41:278][334]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 47.0
+[2022.11.21-22.33.41:303][337]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 46.5
+[2022.11.21-22.33.41:320][339]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 39.0
+[2022.11.21-22.33.41:328][340]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 46.0
+[2022.11.21-22.33.41:344][342]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 38.5
+[2022.11.21-22.33.41:353][343]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 45.5
+[2022.11.21-22.33.41:370][345]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 38.0
+[2022.11.21-22.33.41:378][346]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 45.0
+[2022.11.21-22.33.41:395][348]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 37.5
+[2022.11.21-22.33.41:403][349]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 44.5
+[2022.11.21-22.33.41:420][351]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 37.0
+[2022.11.21-22.33.41:428][352]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 44.0
+[2022.11.21-22.33.41:449][354]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 43.5
+[2022.11.21-22.33.41:449][354]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 36.5
+[2022.11.21-22.33.41:475][357]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 43.0
+[2022.11.21-22.33.41:475][357]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 36.0
+[2022.11.21-22.33.41:500][360]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 42.5
+[2022.11.21-22.33.41:500][360]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 35.5
+[2022.11.21-22.33.41:525][363]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 42.0
+[2022.11.21-22.33.41:525][363]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 35.0
+[2022.11.21-22.33.41:550][366]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 41.5
+[2022.11.21-22.33.41:550][366]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.33.41:575][369]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 41.0
+[2022.11.21-22.33.41:575][369]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.33.41:604][372]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 40.5
+[2022.11.21-22.33.41:604][372]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.33.41:629][375]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 40.0
+[2022.11.21-22.33.41:629][375]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.33.41:653][378]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 39.5
+[2022.11.21-22.33.41:653][378]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.33.41:678][381]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 39.0
+[2022.11.21-22.33.41:678][381]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 32.0
+[2022.11.21-22.33.41:703][384]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.5
+[2022.11.21-22.33.41:703][384]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 31.5
+[2022.11.21-22.33.41:728][387]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.0
+[2022.11.21-22.33.41:728][387]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 31.0
+[2022.11.21-22.33.41:754][390]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.5
+[2022.11.21-22.33.41:755][390]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 30.5
+[2022.11.21-22.33.41:779][393]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.0
+[2022.11.21-22.33.41:779][393]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 30.0
+[2022.11.21-22.33.41:804][396]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.5
+[2022.11.21-22.33.41:804][396]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 29.5
+[2022.11.21-22.33.41:835][399]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.0
+[2022.11.21-22.33.41:835][399]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 29.0
+[2022.11.21-22.33.41:860][402]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.5
+[2022.11.21-22.33.41:860][402]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 28.5
+[2022.11.21-22.33.41:886][405]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.0
+[2022.11.21-22.33.41:886][405]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 28.0
+[2022.11.21-22.33.41:913][408]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.33.41:913][408]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 27.5
+[2022.11.21-22.33.41:938][411]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.33.41:938][411]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 27.0
+[2022.11.21-22.33.41:963][414]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.33.41:963][414]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 26.5
+[2022.11.21-22.33.41:991][417]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.33.41:991][417]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 26.0
+[2022.11.21-22.33.42:011][419]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.33.42:011][419]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 25.5
+[2022.11.21-22.33.42:035][422]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.0
+[2022.11.21-22.33.42:035][422]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 25.0
+[2022.11.21-22.33.42:060][425]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.5
+[2022.11.21-22.33.42:060][425]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 24.5
+[2022.11.21-22.33.42:085][428]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.0
+[2022.11.21-22.33.42:085][428]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 24.0
+[2022.11.21-22.33.42:110][431]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.5
+[2022.11.21-22.33.42:110][431]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 23.5
+[2022.11.21-22.33.42:138][434]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.0
+[2022.11.21-22.33.42:139][434]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 23.0
+[2022.11.21-22.33.42:165][437]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.5
+[2022.11.21-22.33.42:165][437]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 22.5
+[2022.11.21-22.33.42:191][440]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.0
+[2022.11.21-22.33.42:191][440]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 22.0
+[2022.11.21-22.33.42:215][443]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.5
+[2022.11.21-22.33.42:216][443]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 21.5
+[2022.11.21-22.33.42:241][446]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.0
+[2022.11.21-22.33.42:241][446]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 21.0
+[2022.11.21-22.33.42:270][449]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.5
+[2022.11.21-22.33.42:270][449]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 20.5
+[2022.11.21-22.33.42:290][451]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.0
+[2022.11.21-22.33.42:290][451]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 20.0
+[2022.11.21-22.33.42:315][454]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.5
+[2022.11.21-22.33.42:315][454]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 19.5
+[2022.11.21-22.33.42:340][457]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.0
+[2022.11.21-22.33.42:340][457]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 19.0
+[2022.11.21-22.33.42:365][460]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.5
+[2022.11.21-22.33.42:365][460]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 18.5
+[2022.11.21-22.33.42:390][463]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.0
+[2022.11.21-22.33.42:390][463]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 18.0
+[2022.11.21-22.33.42:414][466]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.5
+[2022.11.21-22.33.42:414][466]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 17.5
+[2022.11.21-22.33.42:445][469]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.0
+[2022.11.21-22.33.42:445][469]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 17.0
+[2022.11.21-22.33.42:474][472]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 23.5
+[2022.11.21-22.33.42:475][472]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 16.5
+[2022.11.21-22.33.42:500][475]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 23.0
+[2022.11.21-22.33.42:500][475]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 16.0
+[2022.11.21-22.33.42:525][478]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.5
+[2022.11.21-22.33.42:550][481]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.0
+[2022.11.21-22.33.42:551][481]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 21.5Heat91.0Battery
+[2022.11.21-22.33.42:576][484]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.5
+[2022.11.21-22.33.42:601][487]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.0
+[2022.11.21-22.33.42:602][487]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 26.5Heat90.0Battery
+[2022.11.21-22.33.42:626][490]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.5
+[2022.11.21-22.33.42:658][493]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.0
+[2022.11.21-22.33.42:660][493]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 31.5Heat89.0Battery
+[2022.11.21-22.33.42:682][495]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.5
+[2022.11.21-22.33.42:702][497]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 36.5Heat88.0Battery
+[2022.11.21-22.33.42:709][498]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.0
+[2022.11.21-22.33.42:739][501]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.5
+[2022.11.21-22.33.42:760][503]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 41.5Heat87.0Battery
+[2022.11.21-22.33.42:765][504]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.0
+[2022.11.21-22.33.42:791][507]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.5
+[2022.11.21-22.33.42:809][509]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 46.5Heat86.0Battery
+[2022.11.21-22.33.42:816][510]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.0
+[2022.11.21-22.33.42:843][513]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.5
+[2022.11.21-22.33.42:853][514]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 51.5Heat85.0Battery
+[2022.11.21-22.33.42:871][516]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.0
+[2022.11.21-22.33.42:892][518]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.5
+[2022.11.21-22.33.42:902][519]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 56.5Heat84.0Battery
+[2022.11.21-22.33.42:913][520]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.0
+[2022.11.21-22.33.42:938][523]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.5
+[2022.11.21-22.33.42:963][526]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.0
+[2022.11.21-22.33.42:988][529]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.5
+[2022.11.21-22.33.43:017][532]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.0
+[2022.11.21-22.33.43:043][535]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 12.5
+[2022.11.21-22.33.43:043][535]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 55.5
+[2022.11.21-22.33.43:068][538]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 12.0
+[2022.11.21-22.33.43:068][538]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 55.0
+[2022.11.21-22.33.43:093][541]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 11.5
+[2022.11.21-22.33.43:093][541]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 54.5
+[2022.11.21-22.33.43:118][544]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 11.0
+[2022.11.21-22.33.43:118][544]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 54.0
+[2022.11.21-22.33.43:140][546]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 10.5
+[2022.11.21-22.33.43:140][546]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 53.5
+[2022.11.21-22.33.43:167][549]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 10.0
+[2022.11.21-22.33.43:167][549]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 53.0
+[2022.11.21-22.33.43:188][551]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.5
+[2022.11.21-22.33.43:188][551]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 52.5
+[2022.11.21-22.33.43:213][554]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.33.43:213][554]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 52.0
+[2022.11.21-22.33.43:238][557]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.33.43:238][557]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 51.5
+[2022.11.21-22.33.43:266][560]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.33.43:266][560]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 51.0
+[2022.11.21-22.33.43:290][563]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.33.43:290][563]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 50.5
+[2022.11.21-22.33.43:315][566]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.33.43:315][566]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 50.0
+[2022.11.21-22.33.43:340][569]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.33.43:340][569]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 49.5
+[2022.11.21-22.33.43:364][571]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.33.43:365][571]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 49.0
+[2022.11.21-22.33.43:390][574]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.33.43:390][574]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 48.5
+[2022.11.21-22.33.43:424][577]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.33.43:424][577]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 48.0
+[2022.11.21-22.33.43:445][579]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.33.43:445][579]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 47.5
+[2022.11.21-22.33.43:465][581]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.33.43:465][581]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 47.0
+[2022.11.21-22.33.43:493][584]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.33.43:493][584]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 46.5
+[2022.11.21-22.33.43:514][586]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.33.43:514][586]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 46.0
+[2022.11.21-22.33.43:543][589]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 2.5
+[2022.11.21-22.33.43:543][589]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 45.5
+[2022.11.21-22.33.43:571][592]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 2.0
+[2022.11.21-22.33.43:571][592]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 45.0
+[2022.11.21-22.33.43:598][594]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 1.5
+[2022.11.21-22.33.43:598][594]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 44.5
+[2022.11.21-22.33.43:625][597]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 1.0
+[2022.11.21-22.33.43:625][597]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 44.0
+[2022.11.21-22.33.43:652][600]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 0.5
+[2022.11.21-22.33.43:652][600]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 43.5
+[2022.11.21-22.33.43:679][603]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 0.0
+[2022.11.21-22.33.43:679][603]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 43.0
+[2022.11.21-22.33.43:706][606]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 42.5
+[2022.11.21-22.33.43:730][608]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 42.0
+[2022.11.21-22.33.43:762][611]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 41.5
+[2022.11.21-22.33.43:787][614]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 41.0
+[2022.11.21-22.33.43:809][616]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 40.5
+[2022.11.21-22.33.43:841][619]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 40.0
+[2022.11.21-22.33.43:868][621]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 39.5
+[2022.11.21-22.33.43:888][623]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 39.0
+[2022.11.21-22.33.43:921][626]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 38.5
+[2022.11.21-22.33.43:943][628]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 38.0
+[2022.11.21-22.33.43:968][630]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 37.5
+[2022.11.21-22.33.43:988][632]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 37.0
+[2022.11.21-22.33.44:013][635]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 36.5
+[2022.11.21-22.33.44:038][638]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 36.0
+[2022.11.21-22.33.44:068][641]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 35.5
+[2022.11.21-22.33.44:090][643]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 35.0
+[2022.11.21-22.33.44:113][645]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.33.44:140][648]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.33.44:164][651]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.33.44:190][654]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.33.44:215][657]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.33.44:242][660]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 32.0
+[2022.11.21-22.33.44:286][665]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 37.5Heat83.0Battery
+[2022.11.21-22.33.44:341][671]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 42.5Heat82.0Battery
+[2022.11.21-22.33.44:395][675]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 47.5Heat81.0Battery
+[2022.11.21-22.33.44:433][678]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 52.5Heat80.0Battery
+[2022.11.21-22.33.44:484][682]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 57.5Heat79.0Battery
+[2022.11.21-22.33.44:534][687]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 62.5Heat78.0Battery
+[2022.11.21-22.33.44:591][693]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 67.5Heat77.0Battery
+[2022.11.21-22.33.44:636][697]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 72.5Heat76.0Battery
+[2022.11.21-22.33.44:688][702]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 77.5Heat75.0Battery
+[2022.11.21-22.33.44:739][708]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 82.5Heat74.0Battery
+[2022.11.21-22.33.44:900][725]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 81.5
+[2022.11.21-22.33.44:926][728]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 81.0
+[2022.11.21-22.33.44:949][730]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 80.5
+[2022.11.21-22.33.44:974][733]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 80.0
+[2022.11.21-22.33.44:998][736]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 79.5
+[2022.11.21-22.33.45:025][739]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 79.0
+[2022.11.21-22.33.45:045][741]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 78.5
+[2022.11.21-22.33.45:069][744]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 78.0
+[2022.11.21-22.33.45:094][747]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 77.5
+[2022.11.21-22.33.45:116][749]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 77.0
+[2022.11.21-22.33.45:144][752]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 76.5
+[2022.11.21-22.33.45:168][755]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 76.0
+[2022.11.21-22.33.45:193][758]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 75.5
+[2022.11.21-22.33.45:221][761]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 75.0
+[2022.11.21-22.33.45:247][764]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 74.5
+[2022.11.21-22.33.45:273][767]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 74.0
+[2022.11.21-22.33.45:298][770]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 73.5
+[2022.11.21-22.33.45:323][773]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 73.0
+[2022.11.21-22.33.45:348][776]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 72.5
+[2022.11.21-22.33.45:374][779]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 72.0
+[2022.11.21-22.33.45:399][782]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 71.5
+[2022.11.21-22.33.45:426][784]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 71.0
+[2022.11.21-22.33.45:451][787]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 70.5
+[2022.11.21-22.33.45:480][790]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 70.0
+[2022.11.21-22.33.45:505][793]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 69.5
+[2022.11.21-22.33.45:530][796]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 69.0
+[2022.11.21-22.33.45:554][799]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 68.5
+[2022.11.21-22.33.45:589][803]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 74.0Heat73.0Battery
+[2022.11.21-22.33.45:640][809]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 79.0Heat72.0Battery
+[2022.11.21-22.33.45:698][815]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 84.0Heat71.0Battery
+[2022.11.21-22.33.45:825][829]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 83.0
+[2022.11.21-22.33.45:851][832]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 82.5
+[2022.11.21-22.33.45:879][834]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 82.0
+[2022.11.21-22.33.45:898][836]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 81.5
+[2022.11.21-22.33.45:922][838]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 81.0
+[2022.11.21-22.33.45:948][841]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 80.5
+[2022.11.21-22.33.45:974][844]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 80.0
+[2022.11.21-22.33.45:998][847]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 79.5
+[2022.11.21-22.33.46:024][850]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 79.0
+[2022.11.21-22.33.46:049][852]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 78.5
+[2022.11.21-22.33.46:074][855]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 78.0
+[2022.11.21-22.33.46:099][858]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 77.5
+[2022.11.21-22.33.46:127][861]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 77.0
+[2022.11.21-22.33.46:153][864]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 76.5
+[2022.11.21-22.33.46:182][866]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 76.0
+[2022.11.21-22.33.46:212][868]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 75.5
+[2022.11.21-22.33.46:245][871]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 75.0
+[2022.11.21-22.33.46:267][873]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 74.5
+[2022.11.21-22.33.46:292][875]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 74.0
+[2022.11.21-22.33.46:313][877]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 73.5
+[2022.11.21-22.33.46:334][879]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 73.0
+[2022.11.21-22.33.46:368][882]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 72.5
+[2022.11.21-22.33.46:391][884]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 72.0
+[2022.11.21-22.33.46:421][886]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 71.5
+[2022.11.21-22.33.46:455][888]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 77.0Heat70.0Battery
+[2022.11.21-22.33.46:511][893]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 82.0Heat69.0Battery
+[2022.11.21-22.33.46:558][898]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 87.0Heat68.0Battery
+[2022.11.21-22.33.46:608][904]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 92.0Heat67.0Battery
+[2022.11.21-22.33.46:654][909]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 97.0Heat66.0Battery
+[2022.11.21-22.33.46:710][915]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 102.0Heat65.0Battery
+[2022.11.21-22.33.46:858][931]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 101.0
+[2022.11.21-22.33.46:881][933]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 100.5
+[2022.11.21-22.33.46:900][935]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 100.0
+[2022.11.21-22.33.46:925][938]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 99.5
+[2022.11.21-22.33.46:950][941]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 99.0
+[2022.11.21-22.33.46:975][944]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 98.5
+[2022.11.21-22.33.47:001][947]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 98.0
+[2022.11.21-22.33.47:026][950]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 97.5
+[2022.11.21-22.33.47:051][953]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 97.0
+[2022.11.21-22.33.47:076][956]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 96.5
+[2022.11.21-22.33.47:101][959]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 96.0
+[2022.11.21-22.33.47:127][962]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 95.5
+[2022.11.21-22.33.47:147][964]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 95.0
+[2022.11.21-22.33.47:172][967]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 94.5
+[2022.11.21-22.33.47:197][970]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 94.0
+[2022.11.21-22.33.47:223][973]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 93.5
+[2022.11.21-22.33.47:251][976]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 93.0
+[2022.11.21-22.33.47:271][978]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 92.5
+[2022.11.21-22.33.47:293][980]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 92.0
+[2022.11.21-22.33.47:317][983]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 91.5
+[2022.11.21-22.33.47:342][986]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 91.0
+[2022.11.21-22.33.47:368][989]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 90.5
+[2022.11.21-22.33.47:395][992]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 90.0
+[2022.11.21-22.33.47:418][994]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 89.5
+[2022.11.21-22.33.47:438][996]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 89.0
+[2022.11.21-22.33.47:463][999]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 88.5
+[2022.11.21-22.33.47:488][  2]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 88.0
+[2022.11.21-22.33.47:514][  5]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 87.5
+[2022.11.21-22.33.47:535][  7]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 87.0
+[2022.11.21-22.33.47:566][ 10]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 86.5
+[2022.11.21-22.33.47:585][ 12]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 86.0
+[2022.11.21-22.33.47:606][ 14]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 85.5
+[2022.11.21-22.33.47:627][ 16]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 85.0
+[2022.11.21-22.33.47:652][ 19]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 84.5
+[2022.11.21-22.33.47:676][ 22]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 84.0
+[2022.11.21-22.33.47:702][ 25]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 83.5
+[2022.11.21-22.33.47:729][ 28]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 83.0
+[2022.11.21-22.33.47:754][ 31]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 82.5
+[2022.11.21-22.33.47:782][ 34]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 82.0
+[2022.11.21-22.33.47:806][ 37]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 81.5
+[2022.11.21-22.33.47:831][ 40]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 81.0
+[2022.11.21-22.33.47:863][ 43]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 80.5
+[2022.11.21-22.33.47:905][ 48]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 86.0Heat64.0Battery
+[2022.11.21-22.33.47:956][ 53]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 91.0Heat63.0Battery
+[2022.11.21-22.33.48:001][ 57]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 96.0Heat62.0Battery
+[2022.11.21-22.33.48:057][ 63]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 101.0Heat61.0Battery
+[2022.11.21-22.33.48:105][ 67]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.33.49:609][236]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 12.0Heat95.0Battery
+[2022.11.21-22.33.50:268][313]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 11.0
+[2022.11.21-22.33.50:292][315]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 10.5
+[2022.11.21-22.33.50:317][318]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 10.0
+[2022.11.21-22.33.50:343][321]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 9.5
+[2022.11.21-22.33.50:367][324]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.33.50:392][327]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.33.50:416][330]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.33.50:441][333]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.33.50:466][336]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.33.50:492][339]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.33.50:517][342]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.33.50:542][345]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.33.50:567][348]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.33.50:592][351]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.33.50:617][354]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.33.50:642][357]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.33.50:669][360]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.33.50:694][363]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 2.5
+[2022.11.21-22.33.50:720][366]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 2.0
+[2022.11.21-22.33.50:745][369]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 1.5
+[2022.11.21-22.33.50:770][372]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 1.0
+[2022.11.21-22.33.50:794][375]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 0.5
+[2022.11.21-22.33.50:819][378]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 0.0
+[2022.11.21-22.33.51:910][502]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 100.0Heat90.0Battery
+[2022.11.21-22.33.52:200][535]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] Cooling: 99.0
+[2022.11.21-22.33.52:225][538]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] Cooling: 98.5
+[2022.11.21-22.33.52:235][539]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] 199.0Heat80.0Battery
+[2022.11.21-22.33.52:251][541]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] Cooling: 198.0
+[2022.11.21-22.33.52:463][566]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] Cooling: 197.5
+[2022.11.21-22.33.52:472][567]LogBlueprintUserMessages: [Sniper_GEN_VARIABLE_Gun_Sniper_Test_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.33.53:779][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.33.53:779][716]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.33.53:780][716]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.33.53:782][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.33.53:794][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.21-22.33.53:808][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.33.53:848][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.21-22.33.53:854][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.33.53:856][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.33.53:856][716]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.21-22.33.53:864][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.33.53:924][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.11.21-22.33.53:952][717]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.21-22.33.55:314][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.11.21-22.34.18:523][ 78]LogSlate: Window 'Gun_Test_John' being destroyed
+[2022.11.21-22.34.18:528][ 78]LogSlate: Window 'Gun_Test_John' being destroyed
+[2022.11.21-22.34.18:573][ 78]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.34.18:573][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.34.21:052][296]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.Gun_Test_SemiAuto_John
+[2022.11.21-22.34.22:921][391]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2022.11.21-22.35.12:823][485]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_SemiAuto_John3E4892B84EBAB1C46F0D48BF31B5B633.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.uasset'
+[2022.11.21-22.35.12:842][485]AssetCheck: New page: Asset Save: Gun_Test_SemiAuto_John
+[2022.11.21-22.35.12:842][485]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.Gun_Test_SemiAuto_John
+[2022.11.21-22.35.14:578][640]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.21-22.35.14:584][640]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.21-22.35.14:585][640]LogPlayLevel: [PlayLevel] Compiling Gun_Test_SemiAuto_John before play...
+[2022.11.21-22.35.14:702][640]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2022.11.21-22.35.14:704][640]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (1 blueprints)
+[2022.11.21-22.35.14:704][640]PIE: New page: PIE session: FirstPersonExampleMap (Nov 21, 2022, 6:35:14 AM)
+[2022.11.21-22.35.14:744][640]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.35.14:773][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029106s)
+[2022.11.21-22.35.14:775][640]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.21-22.35.14:776][640]LogPlayLevel: PIE: World Init took: (0.002526s)
+[2022.11.21-22.35.14:776][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032042s)
+[2022.11.21-22.35.14:811][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.21-22.35.14:812][640]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.21-22.35.14:812][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.21-22.35.14:812][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.21-22.35.14:812][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.21-22.35.14:812][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.21-22.35.14:812][640]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.21-22.35.14:812][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.21-22.35.14:812][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.21-22.35.14:812][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.21-22.35.14:813][640]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.21-22.35.14:813][640]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.21-22.35.14:814][640]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.21-22.35.14:814][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.21-22.35.14:814][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.21-22.35.14:814][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.21-22.35.14:815][640]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.21-22.35.14:815][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.21-22.35.14:815][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.21-22.35.14:816][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.21-22.35.14:816][640]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.21-22.35.14:817][640]LogInit: FAudioDevice initialized.
+[2022.11.21-22.35.14:817][640]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.11.21-22.35.14:829][640]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.21-22.35.14:830][640]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.21-14.35.14
+[2022.11.21-22.35.14:831][640]LogWorld: Bringing up level for play took: 0.001376
+[2022.11.21-22.35.14:831][640]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.11.21-22.35.14:835][640]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.21-22.35.14:835][640]PIE: Server logged in
+[2022.11.21-22.35.14:836][640]PIE: Play in editor total start time 0.253 seconds.
+[2022.11.21-22.35.15:134][671]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.11.21-22.35.15:589][724]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.11.21-22.35.16:028][776]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat97.0Battery
+[2022.11.21-22.35.16:561][839]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.0
+[2022.11.21-22.35.16:586][842]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.5
+[2022.11.21-22.35.16:596][843]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 39.0Heat96.0Battery
+[2022.11.21-22.35.16:611][845]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.0
+[2022.11.21-22.35.16:937][883]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.5
+[2022.11.21-22.35.16:962][886]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.0
+[2022.11.21-22.35.16:987][889]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.5
+[2022.11.21-22.35.17:012][892]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.0
+[2022.11.21-22.35.17:037][895]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.5
+[2022.11.21-22.35.17:062][898]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.0
+[2022.11.21-22.35.17:088][901]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.35.17:114][904]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.35.17:135][906]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 44.5Heat95.0Battery
+[2022.11.21-22.35.17:144][907]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 43.5
+[2022.11.21-22.35.17:602][959]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 54.0Heat94.0Battery
+[2022.11.21-22.35.18:052][ 12]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 64.0Heat93.0Battery
+[2022.11.21-22.35.18:515][ 64]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 74.0Heat92.0Battery
+[2022.11.21-22.35.19:022][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.35.19:022][120]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.35.19:023][120]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.35.19:025][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.35.19:037][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.21-22.35.19:045][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.35.19:082][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.35.19:083][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.35.19:084][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.35.19:084][120]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.21-22.35.19:089][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.21-22.35.19:111][121]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.21-22.35.30:622][ 30]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_SemiAuto_John6CBDE6954051BA25CAE804A8FA80D472.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.uasset'
+[2022.11.21-22.35.30:643][ 30]AssetCheck: New page: Asset Save: Gun_Test_SemiAuto_John
+[2022.11.21-22.35.30:644][ 30]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.Gun_Test_SemiAuto_John
+[2022.11.21-22.35.32:681][214]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.21-22.35.32:687][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.21-22.35.32:688][214]PIE: New page: PIE session: FirstPersonExampleMap (Nov 21, 2022, 6:35:32 AM)
+[2022.11.21-22.35.32:727][214]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.35.32:742][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015925s)
+[2022.11.21-22.35.32:743][214]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.21-22.35.32:744][214]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2022.11.21-22.35.32:744][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017626s)
+[2022.11.21-22.35.32:782][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.21-22.35.32:786][214]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.21-22.35.32:786][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.21-22.35.32:786][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.21-22.35.32:786][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.21-22.35.32:786][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.21-22.35.32:786][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.21-22.35.32:786][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.21-22.35.32:786][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.21-22.35.32:786][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.21-22.35.32:787][214]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.21-22.35.32:787][214]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.21-22.35.32:788][214]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.21-22.35.32:788][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.21-22.35.32:788][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.21-22.35.32:788][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.21-22.35.32:789][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.21-22.35.32:789][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.21-22.35.32:789][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.21-22.35.32:790][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.21-22.35.32:790][214]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.21-22.35.32:791][214]LogInit: FAudioDevice initialized.
+[2022.11.21-22.35.32:791][214]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.11.21-22.35.32:801][214]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.21-22.35.32:803][214]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.21-14.35.32
+[2022.11.21-22.35.32:803][214]LogWorld: Bringing up level for play took: 0.001415
+[2022.11.21-22.35.32:803][214]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.11.21-22.35.32:808][214]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.21-22.35.32:808][214]PIE: Server logged in
+[2022.11.21-22.35.32:809][214]PIE: Play in editor total start time 0.123 seconds.
+[2022.11.21-22.35.33:462][288]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.11.21-22.35.33:974][349]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.11.21-22.35.34:518][414]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.0
+[2022.11.21-22.35.34:547][417]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.5
+[2022.11.21-22.35.34:572][420]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.0
+[2022.11.21-22.35.34:597][423]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.5
+[2022.11.21-22.35.34:617][425]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 28.0Heat97.0Battery
+[2022.11.21-22.35.34:625][426]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.0
+[2022.11.21-22.35.35:183][492]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.5
+[2022.11.21-22.35.35:208][495]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.0
+[2022.11.21-22.35.35:233][498]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.5
+[2022.11.21-22.35.35:257][501]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.0
+[2022.11.21-22.35.35:288][504]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.5
+[2022.11.21-22.35.35:299][505]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 35.0Heat96.0Battery
+[2022.11.21-22.35.35:313][507]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.35.35:850][569]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.35.35:875][572]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.35.35:900][575]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.35.35:926][578]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.0
+[2022.11.21-22.35.35:950][581]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.5
+[2022.11.21-22.35.35:977][584]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.0
+[2022.11.21-22.35.36:001][587]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.5
+[2022.11.21-22.35.36:026][590]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.0
+[2022.11.21-22.35.36:053][593]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.5
+[2022.11.21-22.35.36:077][595]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.0
+[2022.11.21-22.35.36:103][598]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.5
+[2022.11.21-22.35.36:129][601]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.0
+[2022.11.21-22.35.36:154][604]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.5
+[2022.11.21-22.35.36:179][607]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.0
+[2022.11.21-22.35.36:204][610]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.5
+[2022.11.21-22.35.36:229][613]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.0
+[2022.11.21-22.35.36:254][616]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.5
+[2022.11.21-22.35.36:279][619]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.0
+[2022.11.21-22.35.36:306][622]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 35.5Heat95.0Battery
+[2022.11.21-22.35.36:306][622]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.35.36:826][684]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.35.36:851][687]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.35.36:877][690]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.35.36:896][692]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 43.5Heat94.0Battery
+[2022.11.21-22.35.36:904][693]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 42.5
+[2022.11.21-22.35.37:105][717]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 53.0Heat93.0Battery
+[2022.11.21-22.35.37:652][781]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 52.0
+[2022.11.21-22.35.37:664][782]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 62.5Heat92.0Battery
+[2022.11.21-22.35.37:675][783]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 61.5
+[2022.11.21-22.35.37:676][783]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.11.21-22.35.38:009][821]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 61.0
+[2022.11.21-22.35.38:036][824]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 60.5
+[2022.11.21-22.35.38:063][827]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 60.0
+[2022.11.21-22.35.38:091][830]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 59.5
+[2022.11.21-22.35.38:116][833]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 59.0
+[2022.11.21-22.35.38:146][836]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 58.5
+[2022.11.21-22.35.38:171][839]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 58.0
+[2022.11.21-22.35.38:196][842]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 57.5
+[2022.11.21-22.35.38:222][845]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 57.0
+[2022.11.21-22.35.38:246][848]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 56.5
+[2022.11.21-22.35.38:298][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.35.38:298][850]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.35.38:299][850]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.35.38:301][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.35.38:315][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.21-22.35.38:324][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.35.38:363][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.21-22.35.38:363][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.35.38:364][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.35.38:364][850]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.21-22.35.38:383][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.35.38:390][850]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.11.21-22.35.38:422][851]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.11.21-22.35.46:844][514]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_SemiAuto_John6CC40DE74A1532008CE4EDAF2A3E3684.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.uasset'
+[2022.11.21-22.35.46:857][514]AssetCheck: New page: Asset Save: Gun_Test_SemiAuto_John
+[2022.11.21-22.35.46:857][514]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_SemiAuto_John.Gun_Test_SemiAuto_John
+[2022.11.21-22.35.48:711][681]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.21-22.35.48:716][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.21-22.35.48:717][681]PIE: New page: PIE session: FirstPersonExampleMap (Nov 21, 2022, 6:35:48 AM)
+[2022.11.21-22.35.48:749][681]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.35.48:775][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026194s)
+[2022.11.21-22.35.48:777][681]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.21-22.35.48:777][681]LogPlayLevel: PIE: World Init took: (0.002662s)
+[2022.11.21-22.35.48:778][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029341s)
+[2022.11.21-22.35.48:817][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.11.21-22.35.48:821][681]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.21-22.35.48:821][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.21-22.35.48:821][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.21-22.35.48:822][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.21-22.35.48:822][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.21-22.35.48:822][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.21-22.35.48:822][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.21-22.35.48:822][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.21-22.35.48:822][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.21-22.35.48:822][681]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.21-22.35.48:822][681]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.21-22.35.48:823][681]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.21-22.35.48:824][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.21-22.35.48:824][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.21-22.35.48:824][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.21-22.35.48:824][681]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.21-22.35.48:824][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.21-22.35.48:824][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.21-22.35.48:826][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.21-22.35.48:826][681]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.21-22.35.48:827][681]LogInit: FAudioDevice initialized.
+[2022.11.21-22.35.48:827][681]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.11.21-22.35.48:838][681]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.21-22.35.48:842][681]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.21-14.35.48
+[2022.11.21-22.35.48:842][681]LogWorld: Bringing up level for play took: 0.002394
+[2022.11.21-22.35.48:843][681]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.11.21-22.35.48:848][681]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.21-22.35.48:848][681]PIE: Server logged in
+[2022.11.21-22.35.48:849][681]PIE: Play in editor total start time 0.134 seconds.
+[2022.11.21-22.35.49:047][699]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.11.21-22.35.49:567][760]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.35.49:592][763]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.35.49:613][765]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.35.49:637][768]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.35.49:662][771]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.35.49:688][774]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.35.49:716][777]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.35.49:740][780]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.35.49:765][783]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.35.49:791][786]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.35.49:816][789]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.35.49:842][792]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.35.49:866][795]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.35.49:891][798]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 2.5
+[2022.11.21-22.35.49:915][801]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 2.0
+[2022.11.21-22.35.49:940][804]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 1.5
+[2022.11.21-22.35.49:966][807]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 1.0
+[2022.11.21-22.35.49:990][810]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 0.5
+[2022.11.21-22.35.50:018][813]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 0.0
+[2022.11.21-22.35.50:078][820]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat98.0Battery
+[2022.11.21-22.35.50:626][884]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.35.50:650][887]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.35.50:675][890]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.35.50:700][893]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.35.50:726][896]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.35.50:750][899]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.35.50:776][902]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.35.50:793][904]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 16.5Heat97.0Battery
+[2022.11.21-22.35.50:800][905]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.5
+[2022.11.21-22.35.51:333][966]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.0
+[2022.11.21-22.35.51:358][969]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.5
+[2022.11.21-22.35.51:367][970]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 25.0Heat96.0Battery
+[2022.11.21-22.35.51:383][972]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.0
+[2022.11.21-22.35.51:905][ 33]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 34.5Heat95.0Battery
+[2022.11.21-22.35.51:921][ 35]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.35.52:422][ 94]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.35.52:447][ 97]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.35.52:459][ 98]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 43.0Heat94.0Battery
+[2022.11.21-22.35.52:472][ 99]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 42.0
+[2022.11.21-22.35.52:799][137]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 41.5
+[2022.11.21-22.35.52:826][140]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 52.0Heat93.0Battery
+[2022.11.21-22.35.52:826][140]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 51.0
+[2022.11.21-22.35.53:156][179]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 50.5
+[2022.11.21-22.35.53:175][181]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 61.0Heat92.0Battery
+[2022.11.21-22.35.53:182][182]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 60.0
+[2022.11.21-22.35.53:508][220]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 70.5Heat91.0Battery
+[2022.11.21-22.35.53:705][243]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.11.21-22.35.53:840][259]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 80.5Heat90.0Battery
+[2022.11.21-22.35.54:171][298]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 90.5Heat89.0Battery
+[2022.11.21-22.35.54:187][300]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 89.5
+[2022.11.21-22.35.54:525][340]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 89.0
+[2022.11.21-22.35.54:535][341]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 99.5Heat88.0Battery
+[2022.11.21-22.35.54:551][343]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 98.5
+[2022.11.21-22.35.54:864][380]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 109.0Heat87.0Battery
+[2022.11.21-22.35.54:871][381]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 108.0
+[2022.11.21-22.35.55:180][417]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] oh god that is hot
+[2022.11.21-22.35.56:957][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.35.56:957][616]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.35.56:957][616]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.35.56:960][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.35.56:977][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.21-22.35.56:985][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.35.57:022][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.35.57:022][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.35.57:024][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.35.57:024][616]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.21-22.35.57:052][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.11.21-22.35.57:089][617]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.11.21-22.35.58:173][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.21-22.35.58:221][732]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMapE312BEDD49849191FB73CEA28CF03C38.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.11.21-22.35.58:247][732]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.11.21-22.35.58:247][732]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.11.21-22.36.01:168][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.11.21-22.36.34:609][727]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_Auto_John_ChildBF99F9F8429D01A9291E1D9DA16C6A98.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.uasset'
+[2022.11.21-22.36.34:636][727]AssetCheck: New page: Asset Save: Gun_Test_Auto_John_Child
+[2022.11.21-22.36.34:636][727]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.11.21-22.36.36:718][911]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.21-22.36.36:724][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.21-22.36.36:725][911]PIE: New page: PIE session: FirstPersonExampleMap (Nov 21, 2022, 6:36:36 AM)
+[2022.11.21-22.36.36:749][911]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.36.36:777][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028420s)
+[2022.11.21-22.36.36:779][911]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.21-22.36.36:780][911]LogPlayLevel: PIE: World Init took: (0.002582s)
+[2022.11.21-22.36.36:780][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031325s)
+[2022.11.21-22.36.36:827][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.11.21-22.36.36:829][911]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.21-22.36.36:829][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.21-22.36.36:829][911]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.21-22.36.36:829][911]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.21-22.36.36:830][911]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.21-22.36.36:830][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.21-22.36.36:831][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.21-22.36.36:831][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.21-22.36.36:831][911]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.21-22.36.36:831][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.21-22.36.36:831][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.21-22.36.36:832][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.21-22.36.36:832][911]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.21-22.36.36:833][911]LogInit: FAudioDevice initialized.
+[2022.11.21-22.36.36:833][911]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.11.21-22.36.36:846][911]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.21-22.36.36:849][911]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.21-14.36.36
+[2022.11.21-22.36.36:850][911]LogWorld: Bringing up level for play took: 0.002241
+[2022.11.21-22.36.36:850][911]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.11.21-22.36.36:859][911]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.21-22.36.36:860][911]PIE: Server logged in
+[2022.11.21-22.36.36:861][911]PIE: Play in editor total start time 0.138 seconds.
+[2022.11.21-22.36.38:031][ 42]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.11.21-22.36.38:081][ 48]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.11.21-22.36.38:130][ 54]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat97.0Battery
+[2022.11.21-22.36.38:181][ 60]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat96.0Battery
+[2022.11.21-22.36.38:233][ 66]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat95.0Battery
+[2022.11.21-22.36.38:284][ 72]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat94.0Battery
+[2022.11.21-22.36.38:334][ 78]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat93.0Battery
+[2022.11.21-22.36.38:381][ 83]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat92.0Battery
+[2022.11.21-22.36.38:436][ 89]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat91.0Battery
+[2022.11.21-22.36.38:480][ 94]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat90.0Battery
+[2022.11.21-22.36.38:532][100]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat89.0Battery
+[2022.11.21-22.36.38:583][106]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat88.0Battery
+[2022.11.21-22.36.38:634][112]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat87.0Battery
+[2022.11.21-22.36.38:682][117]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat86.0Battery
+[2022.11.21-22.36.38:728][122]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat85.0Battery
+[2022.11.21-22.36.38:778][128]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat84.0Battery
+[2022.11.21-22.36.38:829][133]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat83.0Battery
+[2022.11.21-22.36.38:879][139]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat82.0Battery
+[2022.11.21-22.36.39:017][154]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 89.0
+[2022.11.21-22.36.39:043][157]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 88.5
+[2022.11.21-22.36.39:067][160]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 88.0
+[2022.11.21-22.36.39:098][163]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 87.5
+[2022.11.21-22.36.39:126][166]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 87.0
+[2022.11.21-22.36.39:151][169]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 86.5
+[2022.11.21-22.36.39:176][172]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 86.0
+[2022.11.21-22.36.39:201][175]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 85.5
+[2022.11.21-22.36.39:225][178]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 85.0
+[2022.11.21-22.36.39:250][181]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 84.5
+[2022.11.21-22.36.39:276][183]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 84.0
+[2022.11.21-22.36.39:301][186]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 83.5
+[2022.11.21-22.36.39:326][189]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 83.0
+[2022.11.21-22.36.39:352][192]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 82.5
+[2022.11.21-22.36.39:377][195]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 82.0
+[2022.11.21-22.36.39:416][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.36.39:416][195]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.36.39:418][195]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.36.39:419][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.36.39:434][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.21-22.36.39:442][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.36.39:483][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.36.39:484][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.36.39:485][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.36.39:485][195]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.21-22.36.39:511][195]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.11.21-22.36.39:541][196]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.11.21-22.37.40:864][466]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_Auto_John_ChildDD54FA874F8C0BBF96909D9FC3E7910F.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.uasset'
+[2022.11.21-22.37.40:879][466]AssetCheck: New page: Asset Save: Gun_Test_Auto_John_Child
+[2022.11.21-22.37.40:880][466]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.11.21-22.37.42:046][562]LogSlate: Window 'Gun_Test_Auto_John_Child' being destroyed
+[2022.11.21-22.37.42:050][562]LogSlate: Window 'Gun_Test_Auto_John_Child' being destroyed
+[2022.11.21-22.37.42:054][562]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.37.42:054][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.37.42:113][562]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.21-22.37.42:113][562]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.37.42:113][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.37.42:972][653]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.21-22.37.42:978][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.21-22.37.42:978][653]PIE: New page: PIE session: FirstPersonExampleMap (Nov 21, 2022, 6:37:42 AM)
+[2022.11.21-22.37.43:011][653]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.37.43:028][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016604s)
+[2022.11.21-22.37.43:029][653]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.21-22.37.43:029][653]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2022.11.21-22.37.43:029][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018160s)
+[2022.11.21-22.37.43:062][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.11.21-22.37.43:065][653]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.21-22.37.43:065][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.21-22.37.43:065][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.21-22.37.43:065][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.21-22.37.43:065][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.21-22.37.43:065][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.21-22.37.43:065][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.21-22.37.43:065][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.21-22.37.43:065][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.21-22.37.43:066][653]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.21-22.37.43:066][653]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.21-22.37.43:067][653]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.21-22.37.43:067][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.21-22.37.43:067][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.21-22.37.43:067][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.21-22.37.43:068][653]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.21-22.37.43:068][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.21-22.37.43:068][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.21-22.37.43:069][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.21-22.37.43:069][653]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.21-22.37.43:070][653]LogInit: FAudioDevice initialized.
+[2022.11.21-22.37.43:070][653]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.11.21-22.37.43:082][653]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.21-22.37.43:084][653]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.21-14.37.43
+[2022.11.21-22.37.43:084][653]LogWorld: Bringing up level for play took: 0.001964
+[2022.11.21-22.37.43:085][653]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.11.21-22.37.43:089][653]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.21-22.37.43:089][653]PIE: Server logged in
+[2022.11.21-22.37.43:090][653]PIE: Play in editor total start time 0.114 seconds.
+[2022.11.21-22.37.44:872][858]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.11.21-22.37.44:922][864]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.11.21-22.37.44:973][870]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat97.0Battery
+[2022.11.21-22.37.45:023][876]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat96.0Battery
+[2022.11.21-22.37.45:075][882]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat95.0Battery
+[2022.11.21-22.37.45:124][888]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat94.0Battery
+[2022.11.21-22.37.45:176][894]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat93.0Battery
+[2022.11.21-22.37.45:217][899]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat92.0Battery
+[2022.11.21-22.37.45:361][916]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 39.0
+[2022.11.21-22.37.45:381][918]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 38.5
+[2022.11.21-22.37.45:406][921]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 38.0
+[2022.11.21-22.37.45:432][924]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 37.5
+[2022.11.21-22.37.45:460][927]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 37.0
+[2022.11.21-22.37.45:484][930]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 36.5
+[2022.11.21-22.37.45:511][933]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 36.0
+[2022.11.21-22.37.45:538][936]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 35.5
+[2022.11.21-22.37.45:563][939]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 35.0
+[2022.11.21-22.37.45:588][942]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.37.45:613][945]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.37.45:638][948]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.37.45:663][951]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.37.45:689][954]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.37.45:714][957]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 32.0
+[2022.11.21-22.37.45:739][960]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 31.5
+[2022.11.21-22.37.45:782][965]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 37.0Heat91.0Battery
+[2022.11.21-22.37.45:832][971]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 42.0Heat90.0Battery
+[2022.11.21-22.37.45:881][977]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 47.0Heat89.0Battery
+[2022.11.21-22.37.45:940][983]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 52.0Heat88.0Battery
+[2022.11.21-22.37.45:985][988]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 57.0Heat87.0Battery
+[2022.11.21-22.37.46:036][994]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 62.0Heat86.0Battery
+[2022.11.21-22.37.46:086][999]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 67.0Heat85.0Battery
+[2022.11.21-22.37.46:136][  5]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 72.0Heat84.0Battery
+[2022.11.21-22.37.46:187][ 11]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 77.0Heat83.0Battery
+[2022.11.21-22.37.46:234][ 16]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 82.0Heat82.0Battery
+[2022.11.21-22.37.46:289][ 22]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 87.0Heat81.0Battery
+[2022.11.21-22.37.46:333][ 27]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 92.0Heat80.0Battery
+[2022.11.21-22.37.46:382][ 32]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 97.0Heat79.0Battery
+[2022.11.21-22.37.46:437][ 38]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 102.0Heat78.0Battery
+[2022.11.21-22.37.46:489][ 43]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.37.47:965][212]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.11.21-22.37.50:307][486]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat77.0Battery
+[2022.11.21-22.37.50:358][492]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat76.0Battery
+[2022.11.21-22.37.50:408][498]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat75.0Battery
+[2022.11.21-22.37.50:458][504]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat74.0Battery
+[2022.11.21-22.37.50:508][510]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat73.0Battery
+[2022.11.21-22.37.50:555][515]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat72.0Battery
+[2022.11.21-22.37.50:605][521]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat71.0Battery
+[2022.11.21-22.37.50:656][527]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat70.0Battery
+[2022.11.21-22.37.50:709][533]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat69.0Battery
+[2022.11.21-22.37.50:763][539]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat68.0Battery
+[2022.11.21-22.37.50:812][544]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat67.0Battery
+[2022.11.21-22.37.50:856][549]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat66.0Battery
+[2022.11.21-22.37.50:988][565]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 59.0
+[2022.11.21-22.37.51:014][568]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 58.5
+[2022.11.21-22.37.51:039][571]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 58.0
+[2022.11.21-22.37.51:064][574]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 57.5
+[2022.11.21-22.37.51:088][577]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 57.0
+[2022.11.21-22.37.51:110][579]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 56.5
+[2022.11.21-22.37.51:135][582]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 56.0
+[2022.11.21-22.37.51:157][584]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 55.5
+[2022.11.21-22.37.51:182][587]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 55.0
+[2022.11.21-22.37.51:207][590]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 54.5
+[2022.11.21-22.37.51:235][593]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 54.0
+[2022.11.21-22.37.51:257][595]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 53.5
+[2022.11.21-22.37.51:281][598]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 53.0
+[2022.11.21-22.37.51:324][603]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 58.5Heat65.0Battery
+[2022.11.21-22.37.51:375][609]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 63.5Heat64.0Battery
+[2022.11.21-22.37.51:426][615]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 68.5Heat63.0Battery
+[2022.11.21-22.37.51:475][621]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 73.5Heat62.0Battery
+[2022.11.21-22.37.51:527][626]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 78.5Heat61.0Battery
+[2022.11.21-22.37.51:581][632]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 83.5Heat60.0Battery
+[2022.11.21-22.37.51:629][637]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 88.5Heat59.0Battery
+[2022.11.21-22.37.51:680][642]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 93.5Heat58.0Battery
+[2022.11.21-22.37.51:730][648]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 98.5Heat57.0Battery
+[2022.11.21-22.37.51:777][653]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 103.5Heat56.0Battery
+[2022.11.21-22.37.51:824][658]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.37.53:991][900]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.07:365][455]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.11.21-22.38.07:892][518]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.11.21-22.38.07:908][520]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.0
+[2022.11.21-22.38.08:232][558]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 29.5Heat97.0Battery
+[2022.11.21-22.38.08:534][594]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 39.5Heat96.0Battery
+[2022.11.21-22.38.08:822][627]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 49.5Heat95.0Battery
+[2022.11.21-22.38.09:116][661]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 59.5Heat94.0Battery
+[2022.11.21-22.38.09:614][720]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 58.5
+[2022.11.21-22.38.09:638][722]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 58.0
+[2022.11.21-22.38.09:668][725]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 57.5
+[2022.11.21-22.38.09:695][728]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 57.0
+[2022.11.21-22.38.09:720][731]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 56.5
+[2022.11.21-22.38.09:745][734]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 56.0
+[2022.11.21-22.38.09:770][737]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 55.5
+[2022.11.21-22.38.09:794][740]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 55.0
+[2022.11.21-22.38.09:819][743]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 54.5
+[2022.11.21-22.38.09:837][745]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat55.0Battery
+[2022.11.21-22.38.09:844][746]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 54.0
+[2022.11.21-22.38.09:868][748]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 53.5
+[2022.11.21-22.38.09:896][751]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 53.0
+[2022.11.21-22.38.09:898][751]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat54.0Battery
+[2022.11.21-22.38.09:922][754]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 52.5
+[2022.11.21-22.38.09:940][756]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat53.0Battery
+[2022.11.21-22.38.09:947][757]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 52.0
+[2022.11.21-22.38.09:973][760]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 51.5
+[2022.11.21-22.38.09:990][762]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat52.0Battery
+[2022.11.21-22.38.09:998][763]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 51.0
+[2022.11.21-22.38.10:023][766]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 50.5
+[2022.11.21-22.38.10:041][768]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat51.0Battery
+[2022.11.21-22.38.10:048][769]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 50.0
+[2022.11.21-22.38.10:073][772]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 49.5
+[2022.11.21-22.38.10:091][774]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat50.0Battery
+[2022.11.21-22.38.10:098][775]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 49.0
+[2022.11.21-22.38.10:125][778]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 48.5
+[2022.11.21-22.38.10:143][780]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat49.0Battery
+[2022.11.21-22.38.10:150][781]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 48.0
+[2022.11.21-22.38.10:174][784]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 47.5
+[2022.11.21-22.38.10:193][786]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat48.0Battery
+[2022.11.21-22.38.10:200][787]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 47.0
+[2022.11.21-22.38.10:226][790]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 46.5
+[2022.11.21-22.38.10:244][792]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat47.0Battery
+[2022.11.21-22.38.10:255][793]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 46.0
+[2022.11.21-22.38.10:277][795]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 45.5
+[2022.11.21-22.38.10:296][797]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat46.0Battery
+[2022.11.21-22.38.10:303][798]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 45.0
+[2022.11.21-22.38.10:327][800]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 44.5
+[2022.11.21-22.38.10:344][802]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat45.0Battery
+[2022.11.21-22.38.10:351][803]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 44.0
+[2022.11.21-22.38.10:376][806]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 43.5
+[2022.11.21-22.38.10:395][808]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat44.0Battery
+[2022.11.21-22.38.10:402][809]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 43.0
+[2022.11.21-22.38.10:429][812]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 42.5
+[2022.11.21-22.38.10:439][813]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat43.0Battery
+[2022.11.21-22.38.10:454][815]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 42.0
+[2022.11.21-22.38.10:480][818]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 41.5
+[2022.11.21-22.38.10:489][819]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat42.0Battery
+[2022.11.21-22.38.10:505][821]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 41.0
+[2022.11.21-22.38.10:528][823]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 40.5
+[2022.11.21-22.38.10:538][824]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat41.0Battery
+[2022.11.21-22.38.10:556][826]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 40.0
+[2022.11.21-22.38.10:581][829]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 39.5
+[2022.11.21-22.38.10:591][830]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat40.0Battery
+[2022.11.21-22.38.10:606][832]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 39.0
+[2022.11.21-22.38.10:627][834]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.5
+[2022.11.21-22.38.10:645][836]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat39.0Battery
+[2022.11.21-22.38.10:652][837]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.0
+[2022.11.21-22.38.10:678][840]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.5
+[2022.11.21-22.38.10:696][842]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat38.0Battery
+[2022.11.21-22.38.10:707][843]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.0
+[2022.11.21-22.38.10:733][846]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.5
+[2022.11.21-22.38.10:743][847]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat37.0Battery
+[2022.11.21-22.38.10:758][849]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.0
+[2022.11.21-22.38.10:782][851]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.5
+[2022.11.21-22.38.10:796][852]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat36.0Battery
+[2022.11.21-22.38.10:810][853]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.0
+[2022.11.21-22.38.10:834][856]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.38.10:844][857]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat35.0Battery
+[2022.11.21-22.38.10:860][859]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.38.10:884][862]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.38.10:893][863]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.10:910][865]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.38.10:934][868]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.38.10:959][871]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.0
+[2022.11.21-22.38.10:984][874]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.5
+[2022.11.21-22.38.11:009][877]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.0
+[2022.11.21-22.38.11:034][880]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.5
+[2022.11.21-22.38.11:059][883]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.0
+[2022.11.21-22.38.11:084][886]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.5
+[2022.11.21-22.38.11:110][889]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.0
+[2022.11.21-22.38.11:130][891]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.5
+[2022.11.21-22.38.11:155][894]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.0
+[2022.11.21-22.38.11:180][897]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.5
+[2022.11.21-22.38.11:205][900]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.0
+[2022.11.21-22.38.11:230][903]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.5
+[2022.11.21-22.38.11:255][906]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.0
+[2022.11.21-22.38.11:281][909]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.5
+[2022.11.21-22.38.11:305][912]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.0
+[2022.11.21-22.38.11:330][915]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.5
+[2022.11.21-22.38.11:355][918]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.0
+[2022.11.21-22.38.11:380][921]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 23.5
+[2022.11.21-22.38.11:405][924]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 23.0
+[2022.11.21-22.38.11:430][927]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.5
+[2022.11.21-22.38.11:455][930]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.0
+[2022.11.21-22.38.11:484][933]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.5
+[2022.11.21-22.38.11:509][936]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.0
+[2022.11.21-22.38.11:536][939]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.5
+[2022.11.21-22.38.11:561][942]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.0
+[2022.11.21-22.38.11:581][944]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.5
+[2022.11.21-22.38.11:605][946]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.0
+[2022.11.21-22.38.11:625][947]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.5
+[2022.11.21-22.38.11:651][949]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.0
+[2022.11.21-22.38.11:680][952]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.5
+[2022.11.21-22.38.11:700][954]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.0
+[2022.11.21-22.38.11:725][957]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.5
+[2022.11.21-22.38.11:752][960]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.0
+[2022.11.21-22.38.11:777][963]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.5
+[2022.11.21-22.38.11:801][966]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.11:802][966]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.0
+[2022.11.21-22.38.11:824][968]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.5
+[2022.11.21-22.38.11:859][971]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.0
+[2022.11.21-22.38.11:885][974]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.5
+[2022.11.21-22.38.11:910][977]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.0
+[2022.11.21-22.38.11:937][980]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 12.5
+[2022.11.21-22.38.11:962][983]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 12.0
+[2022.11.21-22.38.11:987][986]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 11.5
+[2022.11.21-22.38.12:012][989]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 11.0
+[2022.11.21-22.38.12:036][992]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 10.5
+[2022.11.21-22.38.12:066][995]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 10.0
+[2022.11.21-22.38.12:091][998]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.5
+[2022.11.21-22.38.12:123][  1]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.38.12:142][  3]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.38.12:168][  6]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.38.12:193][  9]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.38.12:223][ 12]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.38.12:248][ 15]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.38.12:273][ 18]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.38.12:298][ 21]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.38.12:323][ 24]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.38.12:348][ 27]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.38.12:369][ 29]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.38.12:396][ 32]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.38.12:420][ 35]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.38.12:445][ 38]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 2.5
+[2022.11.21-22.38.12:470][ 41]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 2.0
+[2022.11.21-22.38.12:495][ 44]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 1.5
+[2022.11.21-22.38.12:520][ 47]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 1.0
+[2022.11.21-22.38.12:545][ 50]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 0.5
+[2022.11.21-22.38.12:570][ 53]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 0.0
+[2022.11.21-22.38.26:938][737]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.30:020][ 98]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.30:568][162]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat34.0Battery
+[2022.11.21-22.38.30:618][168]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat33.0Battery
+[2022.11.21-22.38.30:674][174]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat32.0Battery
+[2022.11.21-22.38.30:725][180]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat31.0Battery
+[2022.11.21-22.38.30:774][186]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat30.0Battery
+[2022.11.21-22.38.30:876][197]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat29.0Battery
+[2022.11.21-22.38.30:918][202]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat28.0Battery
+[2022.11.21-22.38.30:971][208]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat27.0Battery
+[2022.11.21-22.38.31:022][214]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat26.0Battery
+[2022.11.21-22.38.31:064][219]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.31:620][283]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat25.0Battery
+[2022.11.21-22.38.31:671][289]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat24.0Battery
+[2022.11.21-22.38.31:721][295]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat23.0Battery
+[2022.11.21-22.38.31:858][311]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 14.0
+[2022.11.21-22.38.31:882][314]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 13.5
+[2022.11.21-22.38.31:903][316]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 13.0
+[2022.11.21-22.38.31:928][319]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 12.5
+[2022.11.21-22.38.31:952][322]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 12.0
+[2022.11.21-22.38.31:978][325]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 11.5
+[2022.11.21-22.38.32:000][327]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 11.0
+[2022.11.21-22.38.32:033][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.38.32:033][327]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.38.32:033][327]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.38.32:035][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.38.32:047][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.21-22.38.32:057][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.38.32:087][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.21-22.38.32:087][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.38.32:089][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.38.32:089][327]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.21-22.38.32:095][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.38.32:101][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.11.21-22.38.32:135][328]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.11.21-22.38.34:283][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.21-22.38.34:306][563]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMap662E77CD44570E1328F7E2A7E4C012C3.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.11.21-22.38.34:325][563]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.11.21-22.38.34:325][563]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.11.21-22.38.43:669][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.11.21-22.38.51:226][ 51]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_Auto_John_Child614F6FE545355251FFC7F18BB743A602.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.uasset'
+[2022.11.21-22.38.51:253][ 51]AssetCheck: New page: Asset Save: Gun_Test_Auto_John_Child
+[2022.11.21-22.38.51:254][ 51]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_Auto_John_Child.Gun_Test_Auto_John_Child
+[2022.11.21-22.38.51:762][ 84]BlueprintLog: New page: Compile Gun_Test_Auto_John_Child
+[2022.11.21-22.38.51:811][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.11.21-22.38.53:363][215]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.21-22.38.53:369][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.21-22.38.53:370][215]PIE: New page: PIE session: FirstPersonExampleMap (Nov 21, 2022, 6:38:53 AM)
+[2022.11.21-22.38.53:411][215]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.38.53:424][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013446s)
+[2022.11.21-22.38.53:425][215]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.11.21-22.38.53:426][215]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2022.11.21-22.38.53:426][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015136s)
+[2022.11.21-22.38.53:462][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.11.21-22.38.53:463][215]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.21-22.38.53:463][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.21-22.38.53:463][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.21-22.38.53:463][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.21-22.38.53:463][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.21-22.38.53:463][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.21-22.38.53:463][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.21-22.38.53:463][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.21-22.38.53:463][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.21-22.38.53:464][215]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.21-22.38.53:464][215]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.21-22.38.53:465][215]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.11.21-22.38.53:465][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.21-22.38.53:465][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.21-22.38.53:466][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.21-22.38.53:466][215]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.21-22.38.53:466][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.21-22.38.53:466][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.21-22.38.53:467][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.21-22.38.53:467][215]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.11.21-22.38.53:468][215]LogInit: FAudioDevice initialized.
+[2022.11.21-22.38.53:469][215]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.11.21-22.38.53:481][215]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.11.21-22.38.53:483][215]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.11.21-14.38.53
+[2022.11.21-22.38.53:483][215]LogWorld: Bringing up level for play took: 0.001460
+[2022.11.21-22.38.53:483][215]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.11.21-22.38.53:487][215]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.21-22.38.53:488][215]PIE: Server logged in
+[2022.11.21-22.38.53:489][215]PIE: Play in editor total start time 0.119 seconds.
+[2022.11.21-22.38.55:039][395]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat99.0Battery
+[2022.11.21-22.38.55:089][401]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat98.0Battery
+[2022.11.21-22.38.55:230][417]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.38.55:258][420]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.38.55:283][423]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.38.55:309][426]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.38.55:334][429]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.38.55:361][432]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.38.55:385][435]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.38.55:413][438]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.38.55:438][441]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.38.55:464][444]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.38.55:491][447]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.38.55:512][449]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.38.55:537][452]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.38.55:562][455]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 2.5
+[2022.11.21-22.38.55:587][458]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 2.0
+[2022.11.21-22.38.55:612][461]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 1.5
+[2022.11.21-22.38.55:637][464]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 1.0
+[2022.11.21-22.38.55:661][466]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 0.5
+[2022.11.21-22.38.55:685][469]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] Cooling: 0.0
+[2022.11.21-22.38.55:827][486]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat97.0Battery
+[2022.11.21-22.38.55:877][492]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat96.0Battery
+[2022.11.21-22.38.55:932][498]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat95.0Battery
+[2022.11.21-22.38.55:983][504]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat94.0Battery
+[2022.11.21-22.38.56:030][509]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat93.0Battery
+[2022.11.21-22.38.56:081][515]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat92.0Battery
+[2022.11.21-22.38.56:131][521]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat91.0Battery
+[2022.11.21-22.38.56:180][527]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat90.0Battery
+[2022.11.21-22.38.56:230][533]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat89.0Battery
+[2022.11.21-22.38.56:281][539]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat88.0Battery
+[2022.11.21-22.38.56:331][545]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat87.0Battery
+[2022.11.21-22.38.56:383][551]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat86.0Battery
+[2022.11.21-22.38.56:432][556]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat85.0Battery
+[2022.11.21-22.38.56:485][562]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat84.0Battery
+[2022.11.21-22.38.56:534][568]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat83.0Battery
+[2022.11.21-22.38.56:585][574]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat82.0Battery
+[2022.11.21-22.38.56:635][580]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat81.0Battery
+[2022.11.21-22.38.56:682][585]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat80.0Battery
+[2022.11.21-22.38.56:732][591]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat79.0Battery
+[2022.11.21-22.38.56:784][597]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat78.0Battery
+[2022.11.21-22.38.56:830][602]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat77.0Battery
+[2022.11.21-22.38.56:879][608]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.57:609][690]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.38.58:361][778]LogBlueprintUserMessages: [Dummy-John_2] Goodbye
+[2022.11.21-22.39.00:283][  4]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat76.0Battery
+[2022.11.21-22.39.00:333][ 10]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat75.0Battery
+[2022.11.21-22.39.00:390][ 16]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat74.0Battery
+[2022.11.21-22.39.00:437][ 21]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat73.0Battery
+[2022.11.21-22.39.00:482][ 26]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat72.0Battery
+[2022.11.21-22.39.00:532][ 32]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat71.0Battery
+[2022.11.21-22.39.00:583][ 38]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat70.0Battery
+[2022.11.21-22.39.00:635][ 44]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat69.0Battery
+[2022.11.21-22.39.00:684][ 50]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat68.0Battery
+[2022.11.21-22.39.00:735][ 56]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat67.0Battery
+[2022.11.21-22.39.00:783][ 61]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat66.0Battery
+[2022.11.21-22.39.00:831][ 66]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat65.0Battery
+[2022.11.21-22.39.00:883][ 72]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat64.0Battery
+[2022.11.21-22.39.00:934][ 78]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat63.0Battery
+[2022.11.21-22.39.00:985][ 84]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat62.0Battery
+[2022.11.21-22.39.01:035][ 90]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat61.0Battery
+[2022.11.21-22.39.01:085][ 96]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat60.0Battery
+[2022.11.21-22.39.01:137][102]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat59.0Battery
+[2022.11.21-22.39.01:187][108]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat58.0Battery
+[2022.11.21-22.39.01:236][113]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat57.0Battery
+[2022.11.21-22.39.01:287][119]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat56.0Battery
+[2022.11.21-22.39.01:330][124]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.39.02:759][290]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.39.04:278][467]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat55.0Battery
+[2022.11.21-22.39.04:328][473]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat54.0Battery
+[2022.11.21-22.39.04:378][479]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat53.0Battery
+[2022.11.21-22.39.04:429][485]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat52.0Battery
+[2022.11.21-22.39.04:481][491]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat51.0Battery
+[2022.11.21-22.39.04:527][496]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat50.0Battery
+[2022.11.21-22.39.04:580][502]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat49.0Battery
+[2022.11.21-22.39.04:630][508]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat48.0Battery
+[2022.11.21-22.39.04:681][514]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat47.0Battery
+[2022.11.21-22.39.04:733][520]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat46.0Battery
+[2022.11.21-22.39.04:781][525]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat45.0Battery
+[2022.11.21-22.39.04:831][531]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat44.0Battery
+[2022.11.21-22.39.04:884][537]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat43.0Battery
+[2022.11.21-22.39.04:936][543]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat42.0Battery
+[2022.11.21-22.39.04:977][548]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat41.0Battery
+[2022.11.21-22.39.05:031][554]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat40.0Battery
+[2022.11.21-22.39.05:077][559]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat39.0Battery
+[2022.11.21-22.39.05:133][564]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat38.0Battery
+[2022.11.21-22.39.05:185][570]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat37.0Battery
+[2022.11.21-22.39.05:231][575]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat36.0Battery
+[2022.11.21-22.39.05:281][581]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat35.0Battery
+[2022.11.21-22.39.05:330][587]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.39.06:019][668]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.39.08:068][907]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat34.0Battery
+[2022.11.21-22.39.08:118][913]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat33.0Battery
+[2022.11.21-22.39.08:169][919]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat32.0Battery
+[2022.11.21-22.39.08:222][925]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat31.0Battery
+[2022.11.21-22.39.08:274][931]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat30.0Battery
+[2022.11.21-22.39.08:324][937]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat29.0Battery
+[2022.11.21-22.39.08:374][943]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat28.0Battery
+[2022.11.21-22.39.08:422][947]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat27.0Battery
+[2022.11.21-22.39.08:473][953]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat26.0Battery
+[2022.11.21-22.39.08:523][959]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat25.0Battery
+[2022.11.21-22.39.08:573][965]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat24.0Battery
+[2022.11.21-22.39.08:624][971]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat23.0Battery
+[2022.11.21-22.39.08:673][976]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat22.0Battery
+[2022.11.21-22.39.08:723][982]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat21.0Battery
+[2022.11.21-22.39.08:773][988]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 75.0Heat20.0Battery
+[2022.11.21-22.39.08:824][994]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 80.0Heat19.0Battery
+[2022.11.21-22.39.08:874][  0]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 85.0Heat18.0Battery
+[2022.11.21-22.39.08:925][  6]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 90.0Heat17.0Battery
+[2022.11.21-22.39.08:971][ 11]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 95.0Heat16.0Battery
+[2022.11.21-22.39.09:018][ 16]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 100.0Heat15.0Battery
+[2022.11.21-22.39.09:069][ 22]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 105.0Heat14.0Battery
+[2022.11.21-22.39.09:118][ 28]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.39.09:817][109]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.39.17:500][  3]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 5.0Heat13.0Battery
+[2022.11.21-22.39.17:550][  9]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 10.0Heat12.0Battery
+[2022.11.21-22.39.17:600][ 15]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 15.0Heat11.0Battery
+[2022.11.21-22.39.17:657][ 21]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 20.0Heat10.0Battery
+[2022.11.21-22.39.17:708][ 27]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 25.0Heat9.0Battery
+[2022.11.21-22.39.17:758][ 33]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 30.0Heat8.0Battery
+[2022.11.21-22.39.17:809][ 39]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 35.0Heat7.0Battery
+[2022.11.21-22.39.17:853][ 44]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 40.0Heat6.0Battery
+[2022.11.21-22.39.17:904][ 50]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 45.0Heat5.0Battery
+[2022.11.21-22.39.17:958][ 56]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 50.0Heat4.0Battery
+[2022.11.21-22.39.18:002][ 61]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 55.0Heat3.0Battery
+[2022.11.21-22.39.18:052][ 67]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 60.0Heat2.0Battery
+[2022.11.21-22.39.18:102][ 73]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 65.0Heat1.0Battery
+[2022.11.21-22.39.18:152][ 79]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] 70.0Heat0.0Battery
+[2022.11.21-22.39.18:722][145]LogBlueprintUserMessages: [PrimaryGun1_GEN_VARIABLE_Gun_Test_Auto_John_Child_C_CAT_0] oh god that is hot
+[2022.11.21-22.39.24:913][863]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 10.0Heat99.0Battery
+[2022.11.21-22.39.25:413][922]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 20.0Heat98.0Battery
+[2022.11.21-22.39.25:859][974]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 30.0Heat97.0Battery
+[2022.11.21-22.39.26:307][ 26]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] 40.0Heat96.0Battery
+[2022.11.21-22.39.26:681][ 71]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 39.0
+[2022.11.21-22.39.26:706][ 74]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.5
+[2022.11.21-22.39.26:731][ 77]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 38.0
+[2022.11.21-22.39.26:756][ 80]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.5
+[2022.11.21-22.39.26:781][ 83]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 37.0
+[2022.11.21-22.39.26:806][ 86]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.5
+[2022.11.21-22.39.26:831][ 89]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 36.0
+[2022.11.21-22.39.26:857][ 92]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.5
+[2022.11.21-22.39.26:881][ 95]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 35.0
+[2022.11.21-22.39.26:906][ 98]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.5
+[2022.11.21-22.39.26:932][101]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 34.0
+[2022.11.21-22.39.26:957][104]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.5
+[2022.11.21-22.39.26:982][107]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 33.0
+[2022.11.21-22.39.27:006][110]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.5
+[2022.11.21-22.39.27:031][113]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 32.0
+[2022.11.21-22.39.27:056][116]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.5
+[2022.11.21-22.39.27:081][119]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 31.0
+[2022.11.21-22.39.27:106][122]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.5
+[2022.11.21-22.39.27:131][125]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 30.0
+[2022.11.21-22.39.27:157][128]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.5
+[2022.11.21-22.39.27:181][131]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 29.0
+[2022.11.21-22.39.27:211][134]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.5
+[2022.11.21-22.39.27:235][137]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 28.0
+[2022.11.21-22.39.27:283][139]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.5
+[2022.11.21-22.39.27:309][142]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 27.0
+[2022.11.21-22.39.27:334][145]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.5
+[2022.11.21-22.39.27:362][148]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 26.0
+[2022.11.21-22.39.27:382][150]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.5
+[2022.11.21-22.39.27:407][153]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 25.0
+[2022.11.21-22.39.27:432][156]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.5
+[2022.11.21-22.39.27:451][158]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] 12.0Heat95.0Battery
+[2022.11.21-22.39.27:463][159]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 24.0
+[2022.11.21-22.39.27:490][162]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 23.5
+[2022.11.21-22.39.27:519][165]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 23.0
+[2022.11.21-22.39.27:544][168]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.5
+[2022.11.21-22.39.27:570][171]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 22.0
+[2022.11.21-22.39.27:596][174]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.5
+[2022.11.21-22.39.27:621][177]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 21.0
+[2022.11.21-22.39.27:646][180]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.5
+[2022.11.21-22.39.27:668][182]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 20.0
+[2022.11.21-22.39.27:696][185]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.5
+[2022.11.21-22.39.27:721][188]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 19.0
+[2022.11.21-22.39.27:746][191]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.5
+[2022.11.21-22.39.27:766][193]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 18.0
+[2022.11.21-22.39.27:791][196]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.5
+[2022.11.21-22.39.27:816][199]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 17.0
+[2022.11.21-22.39.27:841][202]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.5
+[2022.11.21-22.39.27:867][205]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 16.0
+[2022.11.21-22.39.27:892][208]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.5
+[2022.11.21-22.39.27:920][211]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 15.0
+[2022.11.21-22.39.27:947][213]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.5
+[2022.11.21-22.39.27:971][215]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 14.0
+[2022.11.21-22.39.27:991][217]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.5
+[2022.11.21-22.39.28:016][220]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 13.0
+[2022.11.21-22.39.28:041][223]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 12.5
+[2022.11.21-22.39.28:066][226]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 12.0
+[2022.11.21-22.39.28:091][229]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 11.5
+[2022.11.21-22.39.28:108][231]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 11.0
+[2022.11.21-22.39.28:116][232]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 11.0
+[2022.11.21-22.39.28:132][234]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 10.5
+[2022.11.21-22.39.28:140][235]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 10.5
+[2022.11.21-22.39.28:157][237]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 10.0
+[2022.11.21-22.39.28:165][238]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 10.0
+[2022.11.21-22.39.28:182][240]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 9.5
+[2022.11.21-22.39.28:191][241]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.5
+[2022.11.21-22.39.28:207][243]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.39.28:215][244]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 9.0
+[2022.11.21-22.39.28:232][246]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.39.28:241][247]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.5
+[2022.11.21-22.39.28:254][248]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.39.28:265][249]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 8.0
+[2022.11.21-22.39.28:276][250]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.39.28:286][251]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.5
+[2022.11.21-22.39.28:303][253]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.39.28:314][254]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 7.0
+[2022.11.21-22.39.28:331][256]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.39.28:339][257]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.5
+[2022.11.21-22.39.28:356][259]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.39.28:364][260]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 6.0
+[2022.11.21-22.39.28:382][262]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.39.28:390][263]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.5
+[2022.11.21-22.39.28:407][265]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.39.28:415][266]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 5.0
+[2022.11.21-22.39.28:436][268]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.39.28:444][269]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.5
+[2022.11.21-22.39.28:461][271]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.39.28:469][272]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 4.0
+[2022.11.21-22.39.28:488][274]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.39.28:496][275]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.5
+[2022.11.21-22.39.28:512][277]LogBlueprintUserMessages: [ShotGun_GEN_VARIABLE_Shotgun_Test_John_Child_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.39.28:521][278]LogBlueprintUserMessages: [Pistol_GEN_VARIABLE_Gun_Test_SemiAuto_John_C_CAT_0] Cooling: 3.0
+[2022.11.21-22.39.28:565][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.39.28:565][278]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.11.21-22.39.28:565][278]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.21-22.39.28:567][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.39.28:581][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.21-22.39.28:589][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.21-22.39.28:631][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.21-22.39.28:631][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.39.28:632][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.21-22.39.28:632][278]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.11.21-22.39.28:649][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.21-22.39.28:657][278]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2022.11.21-22.39.28:689][279]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.11.21-22.39.30:237][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.21-22.39.30:260][432]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMapF5AEE4D348A08BA0B65BF98CDCD72BA2.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.11.21-22.39.30:280][432]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.11.21-22.39.30:281][432]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
