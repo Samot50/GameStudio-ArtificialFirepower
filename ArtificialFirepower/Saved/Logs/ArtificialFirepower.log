@@ -2334,3 +2334,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.21-22.39.30:260][432]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/FirstPersonExampleMapF5AEE4D348A08BA0B65BF98CDCD72BA2.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2022.11.21-22.39.30:280][432]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.11.21-22.39.30:281][432]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.11.21-22.42.13:806][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
+[2022.11.21-22.42.40:310][768]LogSavePackage: Moving '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Saved/Gun_Test_John2D38CB534D3482FE5EB156AA6EA4AE2A.tmp' to '../../../../../../Users/jhaman/Documents/GitHub/GameStudio-ArtificialFirepower/ArtificialFirepower/Content/FirstPersonBP/Blueprints/Gun_Test_John.uasset'
+[2022.11.21-22.42.40:334][768]AssetCheck: New page: Asset Save: Gun_Test_John
+[2022.11.21-22.42.40:335][768]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Gun_Test_John.Gun_Test_John
